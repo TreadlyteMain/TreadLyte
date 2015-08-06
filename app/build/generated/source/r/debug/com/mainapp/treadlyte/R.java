@@ -2458,7 +2458,7 @@ containing a value of this type.
         public static final int center_vertical=0x7f0d001e;
         public static final int checkbox=0x7f0d005e;
         public static final int chronometer=0x7f0d0093;
-        public static final int circleView=0x7f0d0082;
+        public static final int circleView=0x7f0d0080;
         public static final int clip_horizontal=0x7f0d001f;
         public static final int clip_vertical=0x7f0d0020;
         public static final int collapseActionView=0x7f0d002f;
@@ -2480,7 +2480,7 @@ containing a value of this type.
         public static final int drawer_layout=0x7f0d0075;
         public static final int dropdown=0x7f0d0034;
         public static final int edit_query=0x7f0d0068;
-        public static final int email=0x7f0d0081;
+        public static final int email=0x7f0d0082;
         public static final int end=0x7f0d0021;
         public static final int end_padder=0x7f0d0098;
         public static final int enterAlways=0x7f0d0015;
@@ -2516,7 +2516,7 @@ containing a value of this type.
         public static final int middle=0x7f0d002b;
         public static final int mini=0x7f0d0029;
         public static final int multiply=0x7f0d0038;
-        public static final int name=0x7f0d0080;
+        public static final int name=0x7f0d0081;
         public static final int never=0x7f0d0031;
         public static final int never_display=0x7f0d0046;
         public static final int none=0x7f0d0010;

@@ -57,7 +57,7 @@ public class Home_Activity extends AppCompatActivity  implements
     }
 
     public void selectDrawerItem(MenuItem menuItem) {
-        // Create a new fragment and specify the planet to show based on
+        // Create a new fragment and specify the Fragment to show based on
         // position
         Fragment fragment = null;
 
@@ -97,7 +97,9 @@ public class Home_Activity extends AppCompatActivity  implements
 
         // Insert the fragment by replacing any existing fragment
         FragmentManager fragmentManager = getSupportFragmentManager();
-        fragmentManager.beginTransaction().replace(R.id.f1Content, fragment).commit();
+
+
+        fragmentManager.beginTransaction().replace(R.id.drawer_layout, fragment).commit();
 
         // Highlight the selected item, update the title, and close the drawer
         menuItem.setChecked(true);

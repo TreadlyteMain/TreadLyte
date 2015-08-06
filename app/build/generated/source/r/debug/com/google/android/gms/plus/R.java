@@ -8,9 +8,9 @@ package com.google.android.gms.plus;
 
 public final class R {
 	public static final class attr {
-		public static final int circleCrop = 0x7f010040;
-		public static final int imageAspectRatio = 0x7f01003f;
-		public static final int imageAspectRatioAdjust = 0x7f01003e;
+		public static final int circleCrop = 0x7f010058;
+		public static final int imageAspectRatio = 0x7f010057;
+		public static final int imageAspectRatioAdjust = 0x7f010056;
 	}
 	public static final class color {
 		public static final int common_action_bar_splitter = 0x7f0c0023;
@@ -23,8 +23,8 @@ public final class R {
 		public static final int common_signin_btn_light_text_disabled = 0x7f0c002a;
 		public static final int common_signin_btn_light_text_focused = 0x7f0c002b;
 		public static final int common_signin_btn_light_text_pressed = 0x7f0c002c;
-		public static final int common_signin_btn_text_dark = 0x7f0c0057;
-		public static final int common_signin_btn_text_light = 0x7f0c0058;
+		public static final int common_signin_btn_text_dark = 0x7f0c0060;
+		public static final int common_signin_btn_text_light = 0x7f0c0061;
 	}
 	public static final class drawable {
 		public static final int common_full_open_on_phone = 0x7f02004d;
@@ -53,26 +53,26 @@ public final class R {
 		public static final int common_signin_btn_text_normal_light = 0x7f020064;
 		public static final int common_signin_btn_text_pressed_dark = 0x7f020065;
 		public static final int common_signin_btn_text_pressed_light = 0x7f020066;
-		public static final int ic_plusone_medium_off_client = 0x7f020069;
-		public static final int ic_plusone_small_off_client = 0x7f02006a;
-		public static final int ic_plusone_standard_off_client = 0x7f02006b;
-		public static final int ic_plusone_tall_off_client = 0x7f02006c;
+		public static final int ic_plusone_medium_off_client = 0x7f02006b;
+		public static final int ic_plusone_small_off_client = 0x7f02006c;
+		public static final int ic_plusone_standard_off_client = 0x7f02006d;
+		public static final int ic_plusone_tall_off_client = 0x7f02006e;
 	}
 	public static final class id {
-		public static final int adjust_height = 0x7f0d0016;
-		public static final int adjust_width = 0x7f0d0017;
-		public static final int none = 0x7f0d000e;
-		public static final int normal = 0x7f0d000a;
-		public static final int wrap_content = 0x7f0d001f;
+		public static final int adjust_height = 0x7f0d002c;
+		public static final int adjust_width = 0x7f0d002d;
+		public static final int none = 0x7f0d0010;
+		public static final int normal = 0x7f0d000c;
+		public static final int wrap_content = 0x7f0d0037;
 	}
 	public static final class integer {
-		public static final int google_play_services_version = 0x7f0b0004;
+		public static final int google_play_services_version = 0x7f0b0005;
 	}
 	public static final class raw {
 	}
 	public static final class string {
-		public static final int auth_google_play_services_client_facebook_display_name = 0x7f07003f;
-		public static final int auth_google_play_services_client_google_display_name = 0x7f070040;
+		public static final int auth_google_play_services_client_facebook_display_name = 0x7f070040;
+		public static final int auth_google_play_services_client_google_display_name = 0x7f070041;
 		public static final int common_android_wear_notification_needs_update_text = 0x7f07000d;
 		public static final int common_android_wear_update_text = 0x7f07000e;
 		public static final int common_android_wear_update_title = 0x7f07000f;
@@ -109,7 +109,7 @@ public final class R {
 	public static final class style {
 	}
 	public static final class styleable {
-		public static final int[] LoadingImageView = { 0x7f01003e, 0x7f01003f, 0x7f010040 };
+		public static final int[] LoadingImageView = { 0x7f010056, 0x7f010057, 0x7f010058 };
 		public static final int LoadingImageView_circleCrop = 2;
 		public static final int LoadingImageView_imageAspectRatio = 1;
 		public static final int LoadingImageView_imageAspectRatioAdjust = 0;

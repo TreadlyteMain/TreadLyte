@@ -49,9 +49,6 @@ public class LoginFragment extends Fragment
 
     private UserProfileObject test;
 
-
-//BRADZ Ggh
-
     private FacebookCallback<LoginResult> mCallback = new FacebookCallback<LoginResult>() {
         @Override
         public void onSuccess(LoginResult loginResult) {

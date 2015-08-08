@@ -19,7 +19,7 @@
 
         <!-- android:layout_marginTop="?android:attr/actionBarSize"-->
         <fragment android:id="@+id/fragment_drawer"
-            android:name="com.mainapp.treadlyte.NavigationDrawerFragment"
+            android:name="com.treadlyte.mainapp.NavigationDrawerFragment"
             android:layout_width="@dimen/navigation_drawer_width"
             android:layout_height="match_parent" android:layout_gravity="start"
             app:layout="@layout/fragment_navigation_drawer" />

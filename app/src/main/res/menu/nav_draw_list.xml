@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--
+These are a list of the items to be viewed in the navigation drawer.
+
+
+Circle imageview is for the profile pictures
+
+
+-->
+
+
+
+<!--    <group android:checkableBehavior="single">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="96dp"
+        android:layout_height="96dp"
+        android:src="@drawable/profile"
+        app:border_width="2dp"
+        app:border_color="#FF000000"/>
+        />
+This is the circle image library shit, only added this because I'd forgot about it if I didn't.
+It caused gradle problems. Will sort later.
+
+    </group>-->
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/explore_drawer_button"
+            android:icon="@drawable/ic_search"
+            android:title="Explore"
+            />
+
+        <item
+            android:id="@+id/messaging_drawer_button"
+            android:icon="@drawable/ic_messaging"
+            android:title="Messaging"
+            />
+
+        <item
+            android:id="@+id/sell_drawer_button"
+            android:icon="@drawable/ic_sell_camera"
+            android:title="Sell"
+            />
+
+        <item
+            android:id="@+id/notifaction_drawer_button"
+            android:icon="@drawable/ic_notifaction_warning"
+            android:title="Notifactions"
+            />
+        <item
+            android:id="@+id/sold_items_drawer_button"
+            android:icon="@drawable/ic_sell"
+            android:title="Sold Items"
+            />
+
+        <item
+            android:id="@+id/purchased_items_drawer_button"
+            android:icon="@drawable/ic_purchased"
+            android:title="Purchased Items"
+            />
+
+        <item
+            android:id="@+id/settings_drawer_button"
+            android:icon="@drawable/ic_setting"
+            android:title="Settings"
+            />
+
+    </group>
+
+</menu>

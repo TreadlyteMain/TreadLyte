@@ -2062,246 +2062,246 @@ containing a value of this type.
         public static final int windowNoTitle=0x7f010098;
     }
     public static final class bool {
-        public static final int abc_action_bar_embed_tabs=0x7f0a0002;
-        public static final int abc_action_bar_embed_tabs_pre_jb=0x7f0a0000;
-        public static final int abc_action_bar_expanded_action_views_exclusive=0x7f0a0003;
-        public static final int abc_config_actionMenuItemAllCaps=0x7f0a0004;
-        public static final int abc_config_allowActionMenuItemTextWithIcon=0x7f0a0001;
-        public static final int abc_config_closeDialogWhenTouchOutside=0x7f0a0005;
-        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f0a0006;
+        public static final int abc_action_bar_embed_tabs=0x7f090002;
+        public static final int abc_action_bar_embed_tabs_pre_jb=0x7f090000;
+        public static final int abc_action_bar_expanded_action_views_exclusive=0x7f090003;
+        public static final int abc_config_actionMenuItemAllCaps=0x7f090004;
+        public static final int abc_config_allowActionMenuItemTextWithIcon=0x7f090001;
+        public static final int abc_config_closeDialogWhenTouchOutside=0x7f090005;
+        public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f090006;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f0c005e;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f0c005f;
-        public static final int abc_input_method_navigation_guard=0x7f0c0000;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f0c0060;
-        public static final int abc_primary_text_disable_only_material_light=0x7f0c0061;
-        public static final int abc_primary_text_material_dark=0x7f0c0062;
-        public static final int abc_primary_text_material_light=0x7f0c0063;
-        public static final int abc_search_url_text=0x7f0c0064;
-        public static final int abc_search_url_text_normal=0x7f0c0001;
-        public static final int abc_search_url_text_pressed=0x7f0c0002;
-        public static final int abc_search_url_text_selected=0x7f0c0003;
-        public static final int abc_secondary_text_material_dark=0x7f0c0065;
-        public static final int abc_secondary_text_material_light=0x7f0c0066;
-        public static final int accent_material_dark=0x7f0c0004;
-        public static final int accent_material_light=0x7f0c0005;
-        public static final int background_floating_material_dark=0x7f0c0006;
-        public static final int background_floating_material_light=0x7f0c0007;
-        public static final int background_material_dark=0x7f0c0008;
-        public static final int background_material_light=0x7f0c0009;
-        public static final int bright_foreground_disabled_material_dark=0x7f0c000a;
-        public static final int bright_foreground_disabled_material_light=0x7f0c000b;
-        public static final int bright_foreground_inverse_material_dark=0x7f0c000c;
-        public static final int bright_foreground_inverse_material_light=0x7f0c000d;
-        public static final int bright_foreground_material_dark=0x7f0c000e;
-        public static final int bright_foreground_material_light=0x7f0c000f;
-        public static final int button_material_dark=0x7f0c0010;
-        public static final int button_material_light=0x7f0c0011;
-        public static final int cardview_dark_background=0x7f0c0012;
-        public static final int cardview_light_background=0x7f0c0013;
-        public static final int cardview_shadow_end_color=0x7f0c0014;
-        public static final int cardview_shadow_start_color=0x7f0c0015;
-        public static final int com_facebook_blue=0x7f0c0016;
-        public static final int com_facebook_button_background_color=0x7f0c0017;
-        public static final int com_facebook_button_background_color_disabled=0x7f0c0018;
-        public static final int com_facebook_button_background_color_pressed=0x7f0c0019;
-        public static final int com_facebook_button_like_background_color_selected=0x7f0c001a;
-        public static final int com_facebook_button_login_silver_background_color=0x7f0c001b;
-        public static final int com_facebook_button_login_silver_background_color_pressed=0x7f0c001c;
-        public static final int com_facebook_button_send_background_color=0x7f0c001d;
-        public static final int com_facebook_button_send_background_color_pressed=0x7f0c001e;
-        public static final int com_facebook_likeboxcountview_border_color=0x7f0c001f;
-        public static final int com_facebook_likeboxcountview_text_color=0x7f0c0020;
-        public static final int com_facebook_likeview_text_color=0x7f0c0021;
-        public static final int com_facebook_share_button_text_color=0x7f0c0022;
-        public static final int common_action_bar_splitter=0x7f0c0023;
-        public static final int common_signin_btn_dark_text_default=0x7f0c0024;
-        public static final int common_signin_btn_dark_text_disabled=0x7f0c0025;
-        public static final int common_signin_btn_dark_text_focused=0x7f0c0026;
-        public static final int common_signin_btn_dark_text_pressed=0x7f0c0027;
-        public static final int common_signin_btn_default_background=0x7f0c0028;
-        public static final int common_signin_btn_light_text_default=0x7f0c0029;
-        public static final int common_signin_btn_light_text_disabled=0x7f0c002a;
-        public static final int common_signin_btn_light_text_focused=0x7f0c002b;
-        public static final int common_signin_btn_light_text_pressed=0x7f0c002c;
-        public static final int common_signin_btn_text_dark=0x7f0c0067;
-        public static final int common_signin_btn_text_light=0x7f0c0068;
-        public static final int dim_foreground_disabled_material_dark=0x7f0c002d;
-        public static final int dim_foreground_disabled_material_light=0x7f0c002e;
-        public static final int dim_foreground_material_dark=0x7f0c002f;
-        public static final int dim_foreground_material_light=0x7f0c0030;
-        public static final int error_color=0x7f0c0031;
-        public static final int fab_stroke_end_inner_color=0x7f0c0032;
-        public static final int fab_stroke_end_outer_color=0x7f0c0033;
-        public static final int fab_stroke_top_inner_color=0x7f0c0034;
-        public static final int fab_stroke_top_outer_color=0x7f0c0035;
-        public static final int highlighted_text_material_dark=0x7f0c0036;
-        public static final int highlighted_text_material_light=0x7f0c0037;
-        public static final int hint_foreground_material_dark=0x7f0c0038;
-        public static final int hint_foreground_material_light=0x7f0c0039;
-        public static final int link_text_material_dark=0x7f0c003a;
-        public static final int link_text_material_light=0x7f0c003b;
-        public static final int material_blue_grey_800=0x7f0c003c;
-        public static final int material_blue_grey_900=0x7f0c003d;
-        public static final int material_blue_grey_950=0x7f0c003e;
-        public static final int material_deep_teal_200=0x7f0c003f;
-        public static final int material_deep_teal_500=0x7f0c0040;
-        public static final int myAccentColor=0x7f0c0041;
-        public static final int myDrawerBackground=0x7f0c0042;
-        public static final int myNavigationColor=0x7f0c0043;
-        public static final int myPrimaryColor=0x7f0c0044;
-        public static final int myPrimaryDarkColor=0x7f0c0045;
-        public static final int myTextPrimaryColor=0x7f0c0046;
-        public static final int myWindowBackground=0x7f0c0047;
-        public static final int primary_dark_material_dark=0x7f0c0048;
-        public static final int primary_dark_material_light=0x7f0c0049;
-        public static final int primary_material_dark=0x7f0c004a;
-        public static final int primary_material_light=0x7f0c004b;
-        public static final int primary_text_default_material_dark=0x7f0c004c;
-        public static final int primary_text_default_material_light=0x7f0c004d;
-        public static final int primary_text_disabled_material_dark=0x7f0c004e;
-        public static final int primary_text_disabled_material_light=0x7f0c004f;
-        public static final int ripple_material_dark=0x7f0c0050;
-        public static final int ripple_material_light=0x7f0c0051;
-        public static final int secondary_text_default_material_dark=0x7f0c0052;
-        public static final int secondary_text_default_material_light=0x7f0c0053;
-        public static final int secondary_text_disabled_material_dark=0x7f0c0054;
-        public static final int secondary_text_disabled_material_light=0x7f0c0055;
-        public static final int shadow_end_color=0x7f0c0056;
-        public static final int shadow_mid_color=0x7f0c0057;
-        public static final int shadow_start_color=0x7f0c0058;
-        public static final int snackbar_background_color=0x7f0c0059;
-        public static final int switch_thumb_disabled_material_dark=0x7f0c005a;
-        public static final int switch_thumb_disabled_material_light=0x7f0c005b;
-        public static final int switch_thumb_material_dark=0x7f0c0069;
-        public static final int switch_thumb_material_light=0x7f0c006a;
-        public static final int switch_thumb_normal_material_dark=0x7f0c005c;
-        public static final int switch_thumb_normal_material_light=0x7f0c005d;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f0b005e;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f0b005f;
+        public static final int abc_input_method_navigation_guard=0x7f0b0000;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f0b0060;
+        public static final int abc_primary_text_disable_only_material_light=0x7f0b0061;
+        public static final int abc_primary_text_material_dark=0x7f0b0062;
+        public static final int abc_primary_text_material_light=0x7f0b0063;
+        public static final int abc_search_url_text=0x7f0b0064;
+        public static final int abc_search_url_text_normal=0x7f0b0001;
+        public static final int abc_search_url_text_pressed=0x7f0b0002;
+        public static final int abc_search_url_text_selected=0x7f0b0003;
+        public static final int abc_secondary_text_material_dark=0x7f0b0065;
+        public static final int abc_secondary_text_material_light=0x7f0b0066;
+        public static final int accent_material_dark=0x7f0b0004;
+        public static final int accent_material_light=0x7f0b0005;
+        public static final int background_floating_material_dark=0x7f0b0006;
+        public static final int background_floating_material_light=0x7f0b0007;
+        public static final int background_material_dark=0x7f0b0008;
+        public static final int background_material_light=0x7f0b0009;
+        public static final int bright_foreground_disabled_material_dark=0x7f0b000a;
+        public static final int bright_foreground_disabled_material_light=0x7f0b000b;
+        public static final int bright_foreground_inverse_material_dark=0x7f0b000c;
+        public static final int bright_foreground_inverse_material_light=0x7f0b000d;
+        public static final int bright_foreground_material_dark=0x7f0b000e;
+        public static final int bright_foreground_material_light=0x7f0b000f;
+        public static final int button_material_dark=0x7f0b0010;
+        public static final int button_material_light=0x7f0b0011;
+        public static final int cardview_dark_background=0x7f0b0012;
+        public static final int cardview_light_background=0x7f0b0013;
+        public static final int cardview_shadow_end_color=0x7f0b0014;
+        public static final int cardview_shadow_start_color=0x7f0b0015;
+        public static final int com_facebook_blue=0x7f0b0016;
+        public static final int com_facebook_button_background_color=0x7f0b0017;
+        public static final int com_facebook_button_background_color_disabled=0x7f0b0018;
+        public static final int com_facebook_button_background_color_pressed=0x7f0b0019;
+        public static final int com_facebook_button_like_background_color_selected=0x7f0b001a;
+        public static final int com_facebook_button_login_silver_background_color=0x7f0b001b;
+        public static final int com_facebook_button_login_silver_background_color_pressed=0x7f0b001c;
+        public static final int com_facebook_button_send_background_color=0x7f0b001d;
+        public static final int com_facebook_button_send_background_color_pressed=0x7f0b001e;
+        public static final int com_facebook_likeboxcountview_border_color=0x7f0b001f;
+        public static final int com_facebook_likeboxcountview_text_color=0x7f0b0020;
+        public static final int com_facebook_likeview_text_color=0x7f0b0021;
+        public static final int com_facebook_share_button_text_color=0x7f0b0022;
+        public static final int common_action_bar_splitter=0x7f0b0023;
+        public static final int common_signin_btn_dark_text_default=0x7f0b0024;
+        public static final int common_signin_btn_dark_text_disabled=0x7f0b0025;
+        public static final int common_signin_btn_dark_text_focused=0x7f0b0026;
+        public static final int common_signin_btn_dark_text_pressed=0x7f0b0027;
+        public static final int common_signin_btn_default_background=0x7f0b0028;
+        public static final int common_signin_btn_light_text_default=0x7f0b0029;
+        public static final int common_signin_btn_light_text_disabled=0x7f0b002a;
+        public static final int common_signin_btn_light_text_focused=0x7f0b002b;
+        public static final int common_signin_btn_light_text_pressed=0x7f0b002c;
+        public static final int common_signin_btn_text_dark=0x7f0b0067;
+        public static final int common_signin_btn_text_light=0x7f0b0068;
+        public static final int dim_foreground_disabled_material_dark=0x7f0b002d;
+        public static final int dim_foreground_disabled_material_light=0x7f0b002e;
+        public static final int dim_foreground_material_dark=0x7f0b002f;
+        public static final int dim_foreground_material_light=0x7f0b0030;
+        public static final int error_color=0x7f0b0031;
+        public static final int fab_stroke_end_inner_color=0x7f0b0032;
+        public static final int fab_stroke_end_outer_color=0x7f0b0033;
+        public static final int fab_stroke_top_inner_color=0x7f0b0034;
+        public static final int fab_stroke_top_outer_color=0x7f0b0035;
+        public static final int highlighted_text_material_dark=0x7f0b0036;
+        public static final int highlighted_text_material_light=0x7f0b0037;
+        public static final int hint_foreground_material_dark=0x7f0b0038;
+        public static final int hint_foreground_material_light=0x7f0b0039;
+        public static final int link_text_material_dark=0x7f0b003a;
+        public static final int link_text_material_light=0x7f0b003b;
+        public static final int material_blue_grey_800=0x7f0b003c;
+        public static final int material_blue_grey_900=0x7f0b003d;
+        public static final int material_blue_grey_950=0x7f0b003e;
+        public static final int material_deep_teal_200=0x7f0b003f;
+        public static final int material_deep_teal_500=0x7f0b0040;
+        public static final int myAccentColor=0x7f0b0041;
+        public static final int myDrawerBackground=0x7f0b0042;
+        public static final int myNavigationColor=0x7f0b0043;
+        public static final int myPrimaryColor=0x7f0b0044;
+        public static final int myPrimaryDarkColor=0x7f0b0045;
+        public static final int myTextPrimaryColor=0x7f0b0046;
+        public static final int myWindowBackground=0x7f0b0047;
+        public static final int primary_dark_material_dark=0x7f0b0048;
+        public static final int primary_dark_material_light=0x7f0b0049;
+        public static final int primary_material_dark=0x7f0b004a;
+        public static final int primary_material_light=0x7f0b004b;
+        public static final int primary_text_default_material_dark=0x7f0b004c;
+        public static final int primary_text_default_material_light=0x7f0b004d;
+        public static final int primary_text_disabled_material_dark=0x7f0b004e;
+        public static final int primary_text_disabled_material_light=0x7f0b004f;
+        public static final int ripple_material_dark=0x7f0b0050;
+        public static final int ripple_material_light=0x7f0b0051;
+        public static final int secondary_text_default_material_dark=0x7f0b0052;
+        public static final int secondary_text_default_material_light=0x7f0b0053;
+        public static final int secondary_text_disabled_material_dark=0x7f0b0054;
+        public static final int secondary_text_disabled_material_light=0x7f0b0055;
+        public static final int shadow_end_color=0x7f0b0056;
+        public static final int shadow_mid_color=0x7f0b0057;
+        public static final int shadow_start_color=0x7f0b0058;
+        public static final int snackbar_background_color=0x7f0b0059;
+        public static final int switch_thumb_disabled_material_dark=0x7f0b005a;
+        public static final int switch_thumb_disabled_material_light=0x7f0b005b;
+        public static final int switch_thumb_material_dark=0x7f0b0069;
+        public static final int switch_thumb_material_light=0x7f0b006a;
+        public static final int switch_thumb_normal_material_dark=0x7f0b005c;
+        public static final int switch_thumb_normal_material_light=0x7f0b005d;
     }
     public static final class dimen {
-        public static final int abc_action_bar_content_inset_material=0x7f08000c;
-        public static final int abc_action_bar_default_height_material=0x7f080001;
-        public static final int abc_action_bar_default_padding_material=0x7f080002;
-        public static final int abc_action_bar_icon_vertical_padding_material=0x7f080019;
-        public static final int abc_action_bar_navigation_padding_start_material=0x7f08000d;
-        public static final int abc_action_bar_overflow_padding_end_material=0x7f08000e;
-        public static final int abc_action_bar_overflow_padding_start_material=0x7f08001a;
-        public static final int abc_action_bar_progress_bar_size=0x7f080003;
-        public static final int abc_action_bar_stacked_max_height=0x7f08001b;
-        public static final int abc_action_bar_stacked_tab_max_width=0x7f08001c;
-        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f08001d;
-        public static final int abc_action_bar_subtitle_top_margin_material=0x7f08001e;
-        public static final int abc_action_button_min_height_material=0x7f08001f;
-        public static final int abc_action_button_min_width_material=0x7f080020;
-        public static final int abc_action_button_min_width_overflow_material=0x7f080021;
-        public static final int abc_alert_dialog_button_bar_height=0x7f080000;
-        public static final int abc_button_inset_horizontal_material=0x7f080022;
-        public static final int abc_button_inset_vertical_material=0x7f080023;
-        public static final int abc_button_padding_horizontal_material=0x7f080024;
-        public static final int abc_button_padding_vertical_material=0x7f080025;
-        public static final int abc_config_prefDialogWidth=0x7f080006;
-        public static final int abc_control_corner_material=0x7f080026;
-        public static final int abc_control_inset_material=0x7f080027;
-        public static final int abc_control_padding_material=0x7f080028;
-        public static final int abc_dialog_list_padding_vertical_material=0x7f080029;
-        public static final int abc_dialog_min_width_major=0x7f08002a;
-        public static final int abc_dialog_min_width_minor=0x7f08002b;
-        public static final int abc_dialog_padding_material=0x7f08002c;
-        public static final int abc_dialog_padding_top_material=0x7f08002d;
-        public static final int abc_disabled_alpha_material_dark=0x7f08002e;
-        public static final int abc_disabled_alpha_material_light=0x7f08002f;
-        public static final int abc_dropdownitem_icon_width=0x7f080030;
-        public static final int abc_dropdownitem_text_padding_left=0x7f080031;
-        public static final int abc_dropdownitem_text_padding_right=0x7f080032;
-        public static final int abc_edit_text_inset_bottom_material=0x7f080033;
-        public static final int abc_edit_text_inset_horizontal_material=0x7f080034;
-        public static final int abc_edit_text_inset_top_material=0x7f080035;
-        public static final int abc_floating_window_z=0x7f080036;
-        public static final int abc_list_item_padding_horizontal_material=0x7f080037;
-        public static final int abc_panel_menu_list_width=0x7f080038;
-        public static final int abc_search_view_preferred_width=0x7f080039;
-        public static final int abc_search_view_text_min_width=0x7f080007;
-        public static final int abc_switch_padding=0x7f080016;
-        public static final int abc_text_size_body_1_material=0x7f08003a;
-        public static final int abc_text_size_body_2_material=0x7f08003b;
-        public static final int abc_text_size_button_material=0x7f08003c;
-        public static final int abc_text_size_caption_material=0x7f08003d;
-        public static final int abc_text_size_display_1_material=0x7f08003e;
-        public static final int abc_text_size_display_2_material=0x7f08003f;
-        public static final int abc_text_size_display_3_material=0x7f080040;
-        public static final int abc_text_size_display_4_material=0x7f080041;
-        public static final int abc_text_size_headline_material=0x7f080042;
-        public static final int abc_text_size_large_material=0x7f080043;
-        public static final int abc_text_size_medium_material=0x7f080044;
-        public static final int abc_text_size_menu_material=0x7f080045;
-        public static final int abc_text_size_small_material=0x7f080046;
-        public static final int abc_text_size_subhead_material=0x7f080047;
-        public static final int abc_text_size_subtitle_material_toolbar=0x7f080004;
-        public static final int abc_text_size_title_material=0x7f080048;
-        public static final int abc_text_size_title_material_toolbar=0x7f080005;
-        public static final int activity_horizontal_margin=0x7f080018;
-        public static final int activity_vertical_margin=0x7f080049;
-        public static final int appbar_elevation=0x7f08004a;
-        public static final int cardview_compat_inset_shadow=0x7f08004b;
-        public static final int cardview_default_elevation=0x7f08004c;
-        public static final int cardview_default_radius=0x7f08004d;
-        public static final int com_facebook_likeboxcountview_border_radius=0x7f08004e;
-        public static final int com_facebook_likeboxcountview_border_width=0x7f08004f;
-        public static final int com_facebook_likeboxcountview_caret_height=0x7f080050;
-        public static final int com_facebook_likeboxcountview_caret_width=0x7f080051;
-        public static final int com_facebook_likeboxcountview_text_padding=0x7f080052;
-        public static final int com_facebook_likeboxcountview_text_size=0x7f080053;
-        public static final int com_facebook_likeview_edge_padding=0x7f080054;
-        public static final int com_facebook_likeview_internal_padding=0x7f080055;
-        public static final int com_facebook_likeview_text_size=0x7f080056;
-        public static final int com_facebook_profilepictureview_preset_size_large=0x7f080057;
-        public static final int com_facebook_profilepictureview_preset_size_normal=0x7f080058;
-        public static final int com_facebook_profilepictureview_preset_size_small=0x7f080059;
-        public static final int com_facebook_share_button_compound_drawable_padding=0x7f08005a;
-        public static final int com_facebook_share_button_padding_bottom=0x7f08005b;
-        public static final int com_facebook_share_button_padding_left=0x7f08005c;
-        public static final int com_facebook_share_button_padding_right=0x7f08005d;
-        public static final int com_facebook_share_button_padding_top=0x7f08005e;
-        public static final int com_facebook_share_button_text_size=0x7f08005f;
-        public static final int com_facebook_tooltip_horizontal_padding=0x7f080060;
-        public static final int dialog_fixed_height_major=0x7f080008;
-        public static final int dialog_fixed_height_minor=0x7f080009;
-        public static final int dialog_fixed_width_major=0x7f08000a;
-        public static final int dialog_fixed_width_minor=0x7f08000b;
-        public static final int disabled_alpha_material_dark=0x7f080061;
-        public static final int disabled_alpha_material_light=0x7f080062;
-        public static final int fab_border_width=0x7f080063;
-        public static final int fab_content_size=0x7f080064;
-        public static final int fab_elevation=0x7f080065;
-        public static final int fab_size_mini=0x7f080066;
-        public static final int fab_size_normal=0x7f080067;
-        public static final int fab_translation_z_pressed=0x7f080068;
-        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f080069;
-        public static final int navigation_drawer_width=0x7f08006a;
-        public static final int navigation_elevation=0x7f08006b;
-        public static final int navigation_icon_padding=0x7f08006c;
-        public static final int navigation_icon_size=0x7f08006d;
-        public static final int navigation_max_width=0x7f08006e;
-        public static final int navigation_padding_bottom=0x7f08006f;
-        public static final int navigation_padding_top_default=0x7f080017;
-        public static final int navigation_separator_vertical_padding=0x7f080070;
-        public static final int notification_large_icon_height=0x7f080071;
-        public static final int notification_large_icon_width=0x7f080072;
-        public static final int notification_subtext_size=0x7f080073;
-        public static final int snackbar_action_inline_max_width=0x7f08000f;
-        public static final int snackbar_background_corner_radius=0x7f080010;
-        public static final int snackbar_elevation=0x7f080074;
-        public static final int snackbar_extra_spacing_horizontal=0x7f080011;
-        public static final int snackbar_max_width=0x7f080012;
-        public static final int snackbar_min_width=0x7f080013;
-        public static final int snackbar_padding_horizontal=0x7f080075;
-        public static final int snackbar_padding_vertical=0x7f080076;
-        public static final int snackbar_padding_vertical_2lines=0x7f080014;
-        public static final int snackbar_text_size=0x7f080077;
-        public static final int tab_max_width=0x7f080078;
-        public static final int tab_min_width=0x7f080015;
-        public static final int toolbar_elevation=0x7f080079;
+        public static final int abc_action_bar_content_inset_material=0x7f07000c;
+        public static final int abc_action_bar_default_height_material=0x7f070001;
+        public static final int abc_action_bar_default_padding_material=0x7f070002;
+        public static final int abc_action_bar_icon_vertical_padding_material=0x7f070019;
+        public static final int abc_action_bar_navigation_padding_start_material=0x7f07000d;
+        public static final int abc_action_bar_overflow_padding_end_material=0x7f07000e;
+        public static final int abc_action_bar_overflow_padding_start_material=0x7f07001a;
+        public static final int abc_action_bar_progress_bar_size=0x7f070003;
+        public static final int abc_action_bar_stacked_max_height=0x7f07001b;
+        public static final int abc_action_bar_stacked_tab_max_width=0x7f07001c;
+        public static final int abc_action_bar_subtitle_bottom_margin_material=0x7f07001d;
+        public static final int abc_action_bar_subtitle_top_margin_material=0x7f07001e;
+        public static final int abc_action_button_min_height_material=0x7f07001f;
+        public static final int abc_action_button_min_width_material=0x7f070020;
+        public static final int abc_action_button_min_width_overflow_material=0x7f070021;
+        public static final int abc_alert_dialog_button_bar_height=0x7f070000;
+        public static final int abc_button_inset_horizontal_material=0x7f070022;
+        public static final int abc_button_inset_vertical_material=0x7f070023;
+        public static final int abc_button_padding_horizontal_material=0x7f070024;
+        public static final int abc_button_padding_vertical_material=0x7f070025;
+        public static final int abc_config_prefDialogWidth=0x7f070006;
+        public static final int abc_control_corner_material=0x7f070026;
+        public static final int abc_control_inset_material=0x7f070027;
+        public static final int abc_control_padding_material=0x7f070028;
+        public static final int abc_dialog_list_padding_vertical_material=0x7f070029;
+        public static final int abc_dialog_min_width_major=0x7f07002a;
+        public static final int abc_dialog_min_width_minor=0x7f07002b;
+        public static final int abc_dialog_padding_material=0x7f07002c;
+        public static final int abc_dialog_padding_top_material=0x7f07002d;
+        public static final int abc_disabled_alpha_material_dark=0x7f07002e;
+        public static final int abc_disabled_alpha_material_light=0x7f07002f;
+        public static final int abc_dropdownitem_icon_width=0x7f070030;
+        public static final int abc_dropdownitem_text_padding_left=0x7f070031;
+        public static final int abc_dropdownitem_text_padding_right=0x7f070032;
+        public static final int abc_edit_text_inset_bottom_material=0x7f070033;
+        public static final int abc_edit_text_inset_horizontal_material=0x7f070034;
+        public static final int abc_edit_text_inset_top_material=0x7f070035;
+        public static final int abc_floating_window_z=0x7f070036;
+        public static final int abc_list_item_padding_horizontal_material=0x7f070037;
+        public static final int abc_panel_menu_list_width=0x7f070038;
+        public static final int abc_search_view_preferred_width=0x7f070039;
+        public static final int abc_search_view_text_min_width=0x7f070007;
+        public static final int abc_switch_padding=0x7f070016;
+        public static final int abc_text_size_body_1_material=0x7f07003a;
+        public static final int abc_text_size_body_2_material=0x7f07003b;
+        public static final int abc_text_size_button_material=0x7f07003c;
+        public static final int abc_text_size_caption_material=0x7f07003d;
+        public static final int abc_text_size_display_1_material=0x7f07003e;
+        public static final int abc_text_size_display_2_material=0x7f07003f;
+        public static final int abc_text_size_display_3_material=0x7f070040;
+        public static final int abc_text_size_display_4_material=0x7f070041;
+        public static final int abc_text_size_headline_material=0x7f070042;
+        public static final int abc_text_size_large_material=0x7f070043;
+        public static final int abc_text_size_medium_material=0x7f070044;
+        public static final int abc_text_size_menu_material=0x7f070045;
+        public static final int abc_text_size_small_material=0x7f070046;
+        public static final int abc_text_size_subhead_material=0x7f070047;
+        public static final int abc_text_size_subtitle_material_toolbar=0x7f070004;
+        public static final int abc_text_size_title_material=0x7f070048;
+        public static final int abc_text_size_title_material_toolbar=0x7f070005;
+        public static final int activity_horizontal_margin=0x7f070018;
+        public static final int activity_vertical_margin=0x7f070049;
+        public static final int appbar_elevation=0x7f07004a;
+        public static final int cardview_compat_inset_shadow=0x7f07004b;
+        public static final int cardview_default_elevation=0x7f07004c;
+        public static final int cardview_default_radius=0x7f07004d;
+        public static final int com_facebook_likeboxcountview_border_radius=0x7f07004e;
+        public static final int com_facebook_likeboxcountview_border_width=0x7f07004f;
+        public static final int com_facebook_likeboxcountview_caret_height=0x7f070050;
+        public static final int com_facebook_likeboxcountview_caret_width=0x7f070051;
+        public static final int com_facebook_likeboxcountview_text_padding=0x7f070052;
+        public static final int com_facebook_likeboxcountview_text_size=0x7f070053;
+        public static final int com_facebook_likeview_edge_padding=0x7f070054;
+        public static final int com_facebook_likeview_internal_padding=0x7f070055;
+        public static final int com_facebook_likeview_text_size=0x7f070056;
+        public static final int com_facebook_profilepictureview_preset_size_large=0x7f070057;
+        public static final int com_facebook_profilepictureview_preset_size_normal=0x7f070058;
+        public static final int com_facebook_profilepictureview_preset_size_small=0x7f070059;
+        public static final int com_facebook_share_button_compound_drawable_padding=0x7f07005a;
+        public static final int com_facebook_share_button_padding_bottom=0x7f07005b;
+        public static final int com_facebook_share_button_padding_left=0x7f07005c;
+        public static final int com_facebook_share_button_padding_right=0x7f07005d;
+        public static final int com_facebook_share_button_padding_top=0x7f07005e;
+        public static final int com_facebook_share_button_text_size=0x7f07005f;
+        public static final int com_facebook_tooltip_horizontal_padding=0x7f070060;
+        public static final int dialog_fixed_height_major=0x7f070008;
+        public static final int dialog_fixed_height_minor=0x7f070009;
+        public static final int dialog_fixed_width_major=0x7f07000a;
+        public static final int dialog_fixed_width_minor=0x7f07000b;
+        public static final int disabled_alpha_material_dark=0x7f070061;
+        public static final int disabled_alpha_material_light=0x7f070062;
+        public static final int fab_border_width=0x7f070063;
+        public static final int fab_content_size=0x7f070064;
+        public static final int fab_elevation=0x7f070065;
+        public static final int fab_size_mini=0x7f070066;
+        public static final int fab_size_normal=0x7f070067;
+        public static final int fab_translation_z_pressed=0x7f070068;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f070069;
+        public static final int navigation_drawer_width=0x7f07006a;
+        public static final int navigation_elevation=0x7f07006b;
+        public static final int navigation_icon_padding=0x7f07006c;
+        public static final int navigation_icon_size=0x7f07006d;
+        public static final int navigation_max_width=0x7f07006e;
+        public static final int navigation_padding_bottom=0x7f07006f;
+        public static final int navigation_padding_top_default=0x7f070017;
+        public static final int navigation_separator_vertical_padding=0x7f070070;
+        public static final int notification_large_icon_height=0x7f070071;
+        public static final int notification_large_icon_width=0x7f070072;
+        public static final int notification_subtext_size=0x7f070073;
+        public static final int snackbar_action_inline_max_width=0x7f07000f;
+        public static final int snackbar_background_corner_radius=0x7f070010;
+        public static final int snackbar_elevation=0x7f070074;
+        public static final int snackbar_extra_spacing_horizontal=0x7f070011;
+        public static final int snackbar_max_width=0x7f070012;
+        public static final int snackbar_min_width=0x7f070013;
+        public static final int snackbar_padding_horizontal=0x7f070075;
+        public static final int snackbar_padding_vertical=0x7f070076;
+        public static final int snackbar_padding_vertical_2lines=0x7f070014;
+        public static final int snackbar_text_size=0x7f070077;
+        public static final int tab_max_width=0x7f070078;
+        public static final int tab_min_width=0x7f070015;
+        public static final int toolbar_elevation=0x7f070079;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
@@ -2440,182 +2440,179 @@ containing a value of this type.
         public static final int wallpaper=0x7f020082;
     }
     public static final class id {
-        public static final int action0=0x7f0d0092;
-        public static final int action_bar=0x7f0d0066;
-        public static final int action_bar_activity_content=0x7f0d0000;
-        public static final int action_bar_container=0x7f0d0065;
-        public static final int action_bar_root=0x7f0d0061;
-        public static final int action_bar_spinner=0x7f0d0001;
-        public static final int action_bar_subtitle=0x7f0d004a;
-        public static final int action_bar_title=0x7f0d0049;
-        public static final int action_context_bar=0x7f0d0067;
-        public static final int action_divider=0x7f0d0096;
-        public static final int action_menu_divider=0x7f0d0002;
-        public static final int action_menu_presenter=0x7f0d0003;
-        public static final int action_mode_bar=0x7f0d0063;
-        public static final int action_mode_bar_stub=0x7f0d0062;
-        public static final int action_mode_close_button=0x7f0d004b;
-        public static final int action_settings=0x7f0d009f;
-        public static final int activity_chooser_view_content=0x7f0d004c;
-        public static final int adjust_height=0x7f0d002c;
-        public static final int adjust_width=0x7f0d002d;
-        public static final int alertTitle=0x7f0d0056;
-        public static final int always=0x7f0d002e;
-        public static final int automatic=0x7f0d0044;
-        public static final int beginning=0x7f0d002a;
-        public static final int bottom=0x7f0d001b;
-        public static final int box_count=0x7f0d0040;
-        public static final int button=0x7f0d0041;
-        public static final int buttonPanel=0x7f0d005c;
-        public static final int cancel_action=0x7f0d0093;
-        public static final int center=0x7f0d001c;
-        public static final int center_horizontal=0x7f0d001d;
-        public static final int center_vertical=0x7f0d001e;
-        public static final int checkbox=0x7f0d005e;
-        public static final int chronometer=0x7f0d0099;
-        public static final int circleView=0x7f0d008a;
-        public static final int clip_horizontal=0x7f0d001f;
-        public static final int clip_vertical=0x7f0d0020;
-        public static final int collapseActionView=0x7f0d002f;
-        public static final int com_facebook_body_frame=0x7f0d007b;
-        public static final int com_facebook_button_xout=0x7f0d007d;
-        public static final int com_facebook_fragment_container=0x7f0d0079;
-        public static final int com_facebook_login_activity_progress_bar=0x7f0d007a;
-        public static final int com_facebook_tooltip_bubble_view_bottom_pointer=0x7f0d007f;
-        public static final int com_facebook_tooltip_bubble_view_text_body=0x7f0d007e;
-        public static final int com_facebook_tooltip_bubble_view_top_pointer=0x7f0d007c;
-        public static final int container=0x7f0d0077;
-        public static final int contentPanel=0x7f0d0057;
-        public static final int custom=0x7f0d005b;
-        public static final int customPanel=0x7f0d005a;
-        public static final int decor_content_parent=0x7f0d0064;
-        public static final int default_activity_button=0x7f0d004f;
-        public static final int dialog=0x7f0d0033;
-        public static final int disableHome=0x7f0d000e;
-        public static final int display_always=0x7f0d0045;
-        public static final int drawer=0x7f0d0076;
-        public static final int drawerList=0x7f0d0087;
-        public static final int drawer_name=0x7f0d0088;
-        public static final int dropdown=0x7f0d0034;
-        public static final int edit_query=0x7f0d0068;
-        public static final int email=0x7f0d0089;
-        public static final int end=0x7f0d0021;
-        public static final int end_padder=0x7f0d009e;
-        public static final int enterAlways=0x7f0d0015;
-        public static final int enterAlwaysCollapsed=0x7f0d0016;
-        public static final int exitUntilCollapsed=0x7f0d0017;
-        public static final int expand_activities_button=0x7f0d004d;
-        public static final int expanded_menu=0x7f0d005d;
-        public static final int explore_drawer_button=0x7f0d00a0;
-        public static final int fill=0x7f0d0022;
-        public static final int fill_horizontal=0x7f0d0023;
-        public static final int fill_vertical=0x7f0d0024;
-        public static final int fixed=0x7f0d0035;
-        public static final int fragmentContainer=0x7f0d008d;
-        public static final int fragment_drawer=0x7f0d0078;
-        public static final int googleDrawer=0x7f0d0081;
-        public static final int home=0x7f0d0004;
-        public static final int homeAsUp=0x7f0d000f;
-        public static final int icon=0x7f0d0051;
-        public static final int ifRoom=0x7f0d0030;
-        public static final int image=0x7f0d004e;
-        public static final int imgAvatar=0x7f0d0083;
-        public static final int info=0x7f0d009d;
-        public static final int inline=0x7f0d0043;
-        public static final int item_name=0x7f0d0080;
-        public static final int item_touch_helper_previous_elevation=0x7f0d0005;
-        public static final int large=0x7f0d0047;
-        public static final int left=0x7f0d0025;
-        public static final int line1=0x7f0d0097;
-        public static final int line3=0x7f0d009b;
-        public static final int listMode=0x7f0d000b;
-        public static final int list_item=0x7f0d0050;
-        public static final int login_button=0x7f0d008f;
-        public static final int media_actions=0x7f0d0095;
-        public static final int messaging_drawer_button=0x7f0d00a1;
-        public static final int messenger_send_button=0x7f0d0091;
-        public static final int middle=0x7f0d002b;
-        public static final int mini=0x7f0d0029;
-        public static final int multiply=0x7f0d0038;
-        public static final int navigationHeader=0x7f0d0082;
-        public static final int never=0x7f0d0031;
-        public static final int never_display=0x7f0d0046;
-        public static final int none=0x7f0d0010;
-        public static final int normal=0x7f0d000c;
-        public static final int notifaction_drawer_button=0x7f0d00a3;
-        public static final int open_graph=0x7f0d003d;
-        public static final int page=0x7f0d003e;
-        public static final int parallax=0x7f0d0019;
-        public static final int parentPanel=0x7f0d0053;
-        public static final int pin=0x7f0d001a;
-        public static final int progress_circular=0x7f0d0006;
-        public static final int progress_horizontal=0x7f0d0007;
-        public static final int purchased_items_drawer_button=0x7f0d00a5;
-        public static final int radio=0x7f0d0060;
-        public static final int right=0x7f0d0026;
-        public static final int screen=0x7f0d0039;
-        public static final int scroll=0x7f0d0018;
-        public static final int scrollView=0x7f0d0058;
-        public static final int scrollable=0x7f0d0036;
-        public static final int search_badge=0x7f0d006a;
-        public static final int search_bar=0x7f0d0069;
-        public static final int search_button=0x7f0d006b;
-        public static final int search_close_btn=0x7f0d0070;
-        public static final int search_edit_frame=0x7f0d006c;
-        public static final int search_go_btn=0x7f0d0072;
-        public static final int search_mag_icon=0x7f0d006d;
-        public static final int search_plate=0x7f0d006e;
-        public static final int search_src_text=0x7f0d006f;
-        public static final int search_voice_btn=0x7f0d0073;
-        public static final int select_dialog_listview=0x7f0d0074;
-        public static final int sell_drawer_button=0x7f0d00a2;
-        public static final int separator=0x7f0d0086;
-        public static final int settings_drawer_button=0x7f0d00a6;
-        public static final int shortcut=0x7f0d005f;
-        public static final int showCustom=0x7f0d0011;
-        public static final int showHome=0x7f0d0012;
-        public static final int showTitle=0x7f0d0013;
-        public static final int small=0x7f0d0048;
-        public static final int snackbar_action=0x7f0d008c;
-        public static final int snackbar_text=0x7f0d008b;
-        public static final int sold_items_drawer_button=0x7f0d00a4;
-        public static final int split_action_bar=0x7f0d0008;
-        public static final int src_atop=0x7f0d003a;
-        public static final int src_in=0x7f0d003b;
-        public static final int src_over=0x7f0d003c;
-        public static final int standard=0x7f0d0042;
-        public static final int start=0x7f0d0027;
-        public static final int status_bar_latest_event_content=0x7f0d0094;
-        public static final int submit_area=0x7f0d0071;
-        public static final int tabMode=0x7f0d000d;
-        public static final int text=0x7f0d009c;
-        public static final int text2=0x7f0d009a;
-        public static final int textSpacerNoButtons=0x7f0d0059;
-        public static final int textView=0x7f0d0090;
-        public static final int text_details=0x7f0d008e;
-        public static final int time=0x7f0d0098;
-        public static final int title=0x7f0d0052;
-        public static final int title_template=0x7f0d0055;
-        public static final int toolbar_actionbar=0x7f0d0075;
-        public static final int top=0x7f0d0028;
-        public static final int topPanel=0x7f0d0054;
-        public static final int txtUserEmail=0x7f0d0085;
-        public static final int txtUsername=0x7f0d0084;
-        public static final int unknown=0x7f0d003f;
-        public static final int up=0x7f0d0009;
-        public static final int useLogo=0x7f0d0014;
-        public static final int view_offset_helper=0x7f0d000a;
-        public static final int withText=0x7f0d0032;
-        public static final int wrap_content=0x7f0d0037;
+        public static final int action0=0x7f0c008f;
+        public static final int action_bar=0x7f0c0066;
+        public static final int action_bar_activity_content=0x7f0c0000;
+        public static final int action_bar_container=0x7f0c0065;
+        public static final int action_bar_root=0x7f0c0061;
+        public static final int action_bar_spinner=0x7f0c0001;
+        public static final int action_bar_subtitle=0x7f0c004a;
+        public static final int action_bar_title=0x7f0c0049;
+        public static final int action_context_bar=0x7f0c0067;
+        public static final int action_divider=0x7f0c0093;
+        public static final int action_menu_divider=0x7f0c0002;
+        public static final int action_menu_presenter=0x7f0c0003;
+        public static final int action_mode_bar=0x7f0c0063;
+        public static final int action_mode_bar_stub=0x7f0c0062;
+        public static final int action_mode_close_button=0x7f0c004b;
+        public static final int action_settings=0x7f0c009c;
+        public static final int activity_chooser_view_content=0x7f0c004c;
+        public static final int adjust_height=0x7f0c002c;
+        public static final int adjust_width=0x7f0c002d;
+        public static final int alertTitle=0x7f0c0056;
+        public static final int always=0x7f0c002e;
+        public static final int automatic=0x7f0c0044;
+        public static final int beginning=0x7f0c002a;
+        public static final int bottom=0x7f0c001b;
+        public static final int box_count=0x7f0c0040;
+        public static final int button=0x7f0c0041;
+        public static final int buttonPanel=0x7f0c005c;
+        public static final int cancel_action=0x7f0c0090;
+        public static final int center=0x7f0c001c;
+        public static final int center_horizontal=0x7f0c001d;
+        public static final int center_vertical=0x7f0c001e;
+        public static final int checkbox=0x7f0c005e;
+        public static final int chronometer=0x7f0c0096;
+        public static final int clip_horizontal=0x7f0c001f;
+        public static final int clip_vertical=0x7f0c0020;
+        public static final int collapseActionView=0x7f0c002f;
+        public static final int com_facebook_body_frame=0x7f0c007b;
+        public static final int com_facebook_button_xout=0x7f0c007d;
+        public static final int com_facebook_fragment_container=0x7f0c0079;
+        public static final int com_facebook_login_activity_progress_bar=0x7f0c007a;
+        public static final int com_facebook_tooltip_bubble_view_bottom_pointer=0x7f0c007f;
+        public static final int com_facebook_tooltip_bubble_view_text_body=0x7f0c007e;
+        public static final int com_facebook_tooltip_bubble_view_top_pointer=0x7f0c007c;
+        public static final int container=0x7f0c0077;
+        public static final int contentPanel=0x7f0c0057;
+        public static final int custom=0x7f0c005b;
+        public static final int customPanel=0x7f0c005a;
+        public static final int decor_content_parent=0x7f0c0064;
+        public static final int default_activity_button=0x7f0c004f;
+        public static final int dialog=0x7f0c0033;
+        public static final int disableHome=0x7f0c000e;
+        public static final int display_always=0x7f0c0045;
+        public static final int drawer=0x7f0c0076;
+        public static final int drawerList=0x7f0c0087;
+        public static final int dropdown=0x7f0c0034;
+        public static final int edit_query=0x7f0c0068;
+        public static final int end=0x7f0c0021;
+        public static final int end_padder=0x7f0c009b;
+        public static final int enterAlways=0x7f0c0015;
+        public static final int enterAlwaysCollapsed=0x7f0c0016;
+        public static final int exitUntilCollapsed=0x7f0c0017;
+        public static final int expand_activities_button=0x7f0c004d;
+        public static final int expanded_menu=0x7f0c005d;
+        public static final int explore_drawer_button=0x7f0c009d;
+        public static final int fill=0x7f0c0022;
+        public static final int fill_horizontal=0x7f0c0023;
+        public static final int fill_vertical=0x7f0c0024;
+        public static final int fixed=0x7f0c0035;
+        public static final int fragmentContainer=0x7f0c008a;
+        public static final int fragment_drawer=0x7f0c0078;
+        public static final int googleDrawer=0x7f0c0081;
+        public static final int home=0x7f0c0004;
+        public static final int homeAsUp=0x7f0c000f;
+        public static final int icon=0x7f0c0051;
+        public static final int ifRoom=0x7f0c0030;
+        public static final int image=0x7f0c004e;
+        public static final int imgAvatar=0x7f0c0083;
+        public static final int info=0x7f0c009a;
+        public static final int inline=0x7f0c0043;
+        public static final int item_name=0x7f0c0080;
+        public static final int item_touch_helper_previous_elevation=0x7f0c0005;
+        public static final int large=0x7f0c0047;
+        public static final int left=0x7f0c0025;
+        public static final int line1=0x7f0c0094;
+        public static final int line3=0x7f0c0098;
+        public static final int listMode=0x7f0c000b;
+        public static final int list_item=0x7f0c0050;
+        public static final int login_button=0x7f0c008c;
+        public static final int media_actions=0x7f0c0092;
+        public static final int messaging_drawer_button=0x7f0c009e;
+        public static final int messenger_send_button=0x7f0c008e;
+        public static final int middle=0x7f0c002b;
+        public static final int mini=0x7f0c0029;
+        public static final int multiply=0x7f0c0038;
+        public static final int navigationHeader=0x7f0c0082;
+        public static final int never=0x7f0c0031;
+        public static final int never_display=0x7f0c0046;
+        public static final int none=0x7f0c0010;
+        public static final int normal=0x7f0c000c;
+        public static final int notifaction_drawer_button=0x7f0c00a0;
+        public static final int open_graph=0x7f0c003d;
+        public static final int page=0x7f0c003e;
+        public static final int parallax=0x7f0c0019;
+        public static final int parentPanel=0x7f0c0053;
+        public static final int pin=0x7f0c001a;
+        public static final int progress_circular=0x7f0c0006;
+        public static final int progress_horizontal=0x7f0c0007;
+        public static final int purchased_items_drawer_button=0x7f0c00a2;
+        public static final int radio=0x7f0c0060;
+        public static final int right=0x7f0c0026;
+        public static final int screen=0x7f0c0039;
+        public static final int scroll=0x7f0c0018;
+        public static final int scrollView=0x7f0c0058;
+        public static final int scrollable=0x7f0c0036;
+        public static final int search_badge=0x7f0c006a;
+        public static final int search_bar=0x7f0c0069;
+        public static final int search_button=0x7f0c006b;
+        public static final int search_close_btn=0x7f0c0070;
+        public static final int search_edit_frame=0x7f0c006c;
+        public static final int search_go_btn=0x7f0c0072;
+        public static final int search_mag_icon=0x7f0c006d;
+        public static final int search_plate=0x7f0c006e;
+        public static final int search_src_text=0x7f0c006f;
+        public static final int search_voice_btn=0x7f0c0073;
+        public static final int select_dialog_listview=0x7f0c0074;
+        public static final int sell_drawer_button=0x7f0c009f;
+        public static final int separator=0x7f0c0086;
+        public static final int settings_drawer_button=0x7f0c00a3;
+        public static final int shortcut=0x7f0c005f;
+        public static final int showCustom=0x7f0c0011;
+        public static final int showHome=0x7f0c0012;
+        public static final int showTitle=0x7f0c0013;
+        public static final int small=0x7f0c0048;
+        public static final int snackbar_action=0x7f0c0089;
+        public static final int snackbar_text=0x7f0c0088;
+        public static final int sold_items_drawer_button=0x7f0c00a1;
+        public static final int split_action_bar=0x7f0c0008;
+        public static final int src_atop=0x7f0c003a;
+        public static final int src_in=0x7f0c003b;
+        public static final int src_over=0x7f0c003c;
+        public static final int standard=0x7f0c0042;
+        public static final int start=0x7f0c0027;
+        public static final int status_bar_latest_event_content=0x7f0c0091;
+        public static final int submit_area=0x7f0c0071;
+        public static final int tabMode=0x7f0c000d;
+        public static final int text=0x7f0c0099;
+        public static final int text2=0x7f0c0097;
+        public static final int textSpacerNoButtons=0x7f0c0059;
+        public static final int textView=0x7f0c008d;
+        public static final int text_details=0x7f0c008b;
+        public static final int time=0x7f0c0095;
+        public static final int title=0x7f0c0052;
+        public static final int title_template=0x7f0c0055;
+        public static final int toolbar_actionbar=0x7f0c0075;
+        public static final int top=0x7f0c0028;
+        public static final int topPanel=0x7f0c0054;
+        public static final int txtUserEmail=0x7f0c0085;
+        public static final int txtUsername=0x7f0c0084;
+        public static final int unknown=0x7f0c003f;
+        public static final int up=0x7f0c0009;
+        public static final int useLogo=0x7f0c0014;
+        public static final int view_offset_helper=0x7f0c000a;
+        public static final int withText=0x7f0c0032;
+        public static final int wrap_content=0x7f0c0037;
     }
     public static final class integer {
-        public static final int abc_config_activityDefaultDur=0x7f0b0002;
-        public static final int abc_config_activityShortDur=0x7f0b0003;
-        public static final int abc_max_action_buttons=0x7f0b0000;
-        public static final int cancel_button_image_alpha=0x7f0b0004;
-        public static final int google_play_services_version=0x7f0b0005;
-        public static final int snackbar_text_max_lines=0x7f0b0001;
-        public static final int status_bar_notification_info_maxnum=0x7f0b0006;
+        public static final int abc_config_activityDefaultDur=0x7f0a0002;
+        public static final int abc_config_activityShortDur=0x7f0a0003;
+        public static final int abc_max_action_buttons=0x7f0a0000;
+        public static final int cancel_button_image_alpha=0x7f0a0004;
+        public static final int google_play_services_version=0x7f0a0005;
+        public static final int snackbar_text_max_lines=0x7f0a0001;
+        public static final int status_bar_notification_info_maxnum=0x7f0a0006;
     }
     public static final class layout {
         public static final int abc_action_bar_title_item=0x7f040000;
@@ -2654,460 +2651,455 @@ containing a value of this type.
         public static final int design_navigation_menu=0x7f040021;
         public static final int drawer_row=0x7f040022;
         public static final int fragment_navigation_drawer=0x7f040023;
-        public static final int header=0x7f040024;
-        public static final int layout_snackbar=0x7f040025;
-        public static final int layout_snackbar_include=0x7f040026;
-        public static final int login_activity_main=0x7f040027;
-        public static final int login_fragment=0x7f040028;
-        public static final int messenger_button_send_blue_large=0x7f040029;
-        public static final int messenger_button_send_blue_round=0x7f04002a;
-        public static final int messenger_button_send_blue_small=0x7f04002b;
-        public static final int messenger_button_send_white_large=0x7f04002c;
-        public static final int messenger_button_send_white_round=0x7f04002d;
-        public static final int messenger_button_send_white_small=0x7f04002e;
-        public static final int notification_media_action=0x7f04002f;
-        public static final int notification_media_cancel_action=0x7f040030;
-        public static final int notification_template_big_media=0x7f040031;
-        public static final int notification_template_big_media_narrow=0x7f040032;
-        public static final int notification_template_lines=0x7f040033;
-        public static final int notification_template_media=0x7f040034;
-        public static final int notification_template_part_chronometer=0x7f040035;
-        public static final int notification_template_part_time=0x7f040036;
-        public static final int select_dialog_item_material=0x7f040037;
-        public static final int select_dialog_multichoice_material=0x7f040038;
-        public static final int select_dialog_singlechoice_material=0x7f040039;
-        public static final int support_simple_spinner_dropdown_item=0x7f04003a;
-        public static final int toolbar_default=0x7f04003b;
+        public static final int layout_snackbar=0x7f040024;
+        public static final int layout_snackbar_include=0x7f040025;
+        public static final int login_activity_main=0x7f040026;
+        public static final int login_fragment=0x7f040027;
+        public static final int messenger_button_send_blue_large=0x7f040028;
+        public static final int messenger_button_send_blue_round=0x7f040029;
+        public static final int messenger_button_send_blue_small=0x7f04002a;
+        public static final int messenger_button_send_white_large=0x7f04002b;
+        public static final int messenger_button_send_white_round=0x7f04002c;
+        public static final int messenger_button_send_white_small=0x7f04002d;
+        public static final int notification_media_action=0x7f04002e;
+        public static final int notification_media_cancel_action=0x7f04002f;
+        public static final int notification_template_big_media=0x7f040030;
+        public static final int notification_template_big_media_narrow=0x7f040031;
+        public static final int notification_template_lines=0x7f040032;
+        public static final int notification_template_media=0x7f040033;
+        public static final int notification_template_part_chronometer=0x7f040034;
+        public static final int notification_template_part_time=0x7f040035;
+        public static final int select_dialog_item_material=0x7f040036;
+        public static final int select_dialog_multichoice_material=0x7f040037;
+        public static final int select_dialog_singlechoice_material=0x7f040038;
+        public static final int support_simple_spinner_dropdown_item=0x7f040039;
+        public static final int toolbar_default=0x7f04003a;
     }
     public static final class menu {
-        public static final int main=0x7f0e0000;
-        public static final int menu_home_=0x7f0e0001;
-        public static final int menu_main=0x7f0e0002;
-        public static final int nav_draw_list=0x7f0e0003;
+        public static final int main=0x7f0d0000;
+        public static final int menu_home_=0x7f0d0001;
+        public static final int menu_main=0x7f0d0002;
+        public static final int nav_draw_list=0x7f0d0003;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
     }
     public static final class string {
-        public static final int abc_action_bar_home_description=0x7f070000;
-        public static final int abc_action_bar_home_description_format=0x7f070038;
-        public static final int abc_action_bar_home_subtitle_description_format=0x7f070039;
-        public static final int abc_action_bar_up_description=0x7f070001;
-        public static final int abc_action_menu_overflow_description=0x7f070002;
-        public static final int abc_action_mode_done=0x7f070003;
-        public static final int abc_activity_chooser_view_see_all=0x7f070004;
-        public static final int abc_activitychooserview_choose_application=0x7f070005;
-        public static final int abc_search_hint=0x7f07003a;
-        public static final int abc_searchview_description_clear=0x7f070006;
-        public static final int abc_searchview_description_query=0x7f070007;
-        public static final int abc_searchview_description_search=0x7f070008;
-        public static final int abc_searchview_description_submit=0x7f070009;
-        public static final int abc_searchview_description_voice=0x7f07000a;
-        public static final int abc_shareactionprovider_share_with=0x7f07000b;
-        public static final int abc_shareactionprovider_share_with_application=0x7f07000c;
-        public static final int abc_toolbar_collapse_description=0x7f07003b;
-        public static final int action_settings=0x7f07003c;
-        public static final int app_id=0x7f07003d;
-        public static final int app_name=0x7f07003e;
-        public static final int appbar_scrolling_view_behavior=0x7f07003f;
-        public static final int auth_google_play_services_client_facebook_display_name=0x7f070040;
-        public static final int auth_google_play_services_client_google_display_name=0x7f070041;
-        public static final int com_facebook_image_download_unknown_error=0x7f07002e;
-        public static final int com_facebook_internet_permission_error_message=0x7f07002f;
-        public static final int com_facebook_internet_permission_error_title=0x7f070030;
-        public static final int com_facebook_like_button_liked=0x7f070042;
-        public static final int com_facebook_like_button_not_liked=0x7f070043;
-        public static final int com_facebook_loading=0x7f070031;
-        public static final int com_facebook_loginview_cancel_action=0x7f070032;
-        public static final int com_facebook_loginview_log_in_button=0x7f070033;
-        public static final int com_facebook_loginview_log_in_button_long=0x7f070044;
-        public static final int com_facebook_loginview_log_out_action=0x7f070034;
-        public static final int com_facebook_loginview_log_out_button=0x7f070035;
-        public static final int com_facebook_loginview_logged_in_as=0x7f070036;
-        public static final int com_facebook_loginview_logged_in_using_facebook=0x7f070037;
-        public static final int com_facebook_send_button_text=0x7f070045;
-        public static final int com_facebook_share_button_text=0x7f070046;
-        public static final int com_facebook_tooltip_default=0x7f070047;
-        public static final int common_android_wear_notification_needs_update_text=0x7f07000d;
-        public static final int common_android_wear_update_text=0x7f07000e;
-        public static final int common_android_wear_update_title=0x7f07000f;
-        public static final int common_google_play_services_api_unavailable_text=0x7f070010;
-        public static final int common_google_play_services_enable_button=0x7f070011;
-        public static final int common_google_play_services_enable_text=0x7f070012;
-        public static final int common_google_play_services_enable_title=0x7f070013;
-        public static final int common_google_play_services_error_notification_requested_by_msg=0x7f070014;
-        public static final int common_google_play_services_install_button=0x7f070015;
-        public static final int common_google_play_services_install_text_phone=0x7f070016;
-        public static final int common_google_play_services_install_text_tablet=0x7f070017;
-        public static final int common_google_play_services_install_title=0x7f070018;
-        public static final int common_google_play_services_invalid_account_text=0x7f070019;
-        public static final int common_google_play_services_invalid_account_title=0x7f07001a;
-        public static final int common_google_play_services_needs_enabling_title=0x7f07001b;
-        public static final int common_google_play_services_network_error_text=0x7f07001c;
-        public static final int common_google_play_services_network_error_title=0x7f07001d;
-        public static final int common_google_play_services_notification_needs_update_title=0x7f07001e;
-        public static final int common_google_play_services_notification_ticker=0x7f07001f;
-        public static final int common_google_play_services_sign_in_failed_text=0x7f070020;
-        public static final int common_google_play_services_sign_in_failed_title=0x7f070021;
-        public static final int common_google_play_services_unknown_issue=0x7f070022;
-        public static final int common_google_play_services_unsupported_text=0x7f070023;
-        public static final int common_google_play_services_unsupported_title=0x7f070024;
-        public static final int common_google_play_services_update_button=0x7f070025;
-        public static final int common_google_play_services_update_text=0x7f070026;
-        public static final int common_google_play_services_update_title=0x7f070027;
-        public static final int common_google_play_services_updating_text=0x7f070028;
-        public static final int common_google_play_services_updating_title=0x7f070029;
-        public static final int common_open_on_phone=0x7f07002a;
-        public static final int common_signin_button_text=0x7f07002b;
-        public static final int common_signin_button_text_long=0x7f07002c;
-        public static final int drawer_close=0x7f070048;
-        public static final int drawer_open=0x7f070049;
-        public static final int ga_trackingId=0x7f07004a;
-        public static final int gcm_defaultSenderId=0x7f07004b;
-        public static final int hello_blank_fragment=0x7f07004c;
-        public static final int hello_world=0x7f07004d;
-        public static final int messenger_send_button_text=0x7f07002d;
-        public static final int status_bar_notification_info_overflow=0x7f07004e;
-        public static final int title_activity_home_=0x7f07004f;
+        public static final int abc_action_bar_home_description=0x7f060000;
+        public static final int abc_action_bar_home_description_format=0x7f060038;
+        public static final int abc_action_bar_home_subtitle_description_format=0x7f060039;
+        public static final int abc_action_bar_up_description=0x7f060001;
+        public static final int abc_action_menu_overflow_description=0x7f060002;
+        public static final int abc_action_mode_done=0x7f060003;
+        public static final int abc_activity_chooser_view_see_all=0x7f060004;
+        public static final int abc_activitychooserview_choose_application=0x7f060005;
+        public static final int abc_search_hint=0x7f06003a;
+        public static final int abc_searchview_description_clear=0x7f060006;
+        public static final int abc_searchview_description_query=0x7f060007;
+        public static final int abc_searchview_description_search=0x7f060008;
+        public static final int abc_searchview_description_submit=0x7f060009;
+        public static final int abc_searchview_description_voice=0x7f06000a;
+        public static final int abc_shareactionprovider_share_with=0x7f06000b;
+        public static final int abc_shareactionprovider_share_with_application=0x7f06000c;
+        public static final int abc_toolbar_collapse_description=0x7f06003b;
+        public static final int action_settings=0x7f06003c;
+        public static final int app_id=0x7f06003d;
+        public static final int app_name=0x7f06003e;
+        public static final int appbar_scrolling_view_behavior=0x7f06003f;
+        public static final int auth_google_play_services_client_facebook_display_name=0x7f060040;
+        public static final int auth_google_play_services_client_google_display_name=0x7f060041;
+        public static final int com_facebook_image_download_unknown_error=0x7f06002e;
+        public static final int com_facebook_internet_permission_error_message=0x7f06002f;
+        public static final int com_facebook_internet_permission_error_title=0x7f060030;
+        public static final int com_facebook_like_button_liked=0x7f060042;
+        public static final int com_facebook_like_button_not_liked=0x7f060043;
+        public static final int com_facebook_loading=0x7f060031;
+        public static final int com_facebook_loginview_cancel_action=0x7f060032;
+        public static final int com_facebook_loginview_log_in_button=0x7f060033;
+        public static final int com_facebook_loginview_log_in_button_long=0x7f060044;
+        public static final int com_facebook_loginview_log_out_action=0x7f060034;
+        public static final int com_facebook_loginview_log_out_button=0x7f060035;
+        public static final int com_facebook_loginview_logged_in_as=0x7f060036;
+        public static final int com_facebook_loginview_logged_in_using_facebook=0x7f060037;
+        public static final int com_facebook_send_button_text=0x7f060045;
+        public static final int com_facebook_share_button_text=0x7f060046;
+        public static final int com_facebook_tooltip_default=0x7f060047;
+        public static final int common_android_wear_notification_needs_update_text=0x7f06000d;
+        public static final int common_android_wear_update_text=0x7f06000e;
+        public static final int common_android_wear_update_title=0x7f06000f;
+        public static final int common_google_play_services_api_unavailable_text=0x7f060010;
+        public static final int common_google_play_services_enable_button=0x7f060011;
+        public static final int common_google_play_services_enable_text=0x7f060012;
+        public static final int common_google_play_services_enable_title=0x7f060013;
+        public static final int common_google_play_services_error_notification_requested_by_msg=0x7f060014;
+        public static final int common_google_play_services_install_button=0x7f060015;
+        public static final int common_google_play_services_install_text_phone=0x7f060016;
+        public static final int common_google_play_services_install_text_tablet=0x7f060017;
+        public static final int common_google_play_services_install_title=0x7f060018;
+        public static final int common_google_play_services_invalid_account_text=0x7f060019;
+        public static final int common_google_play_services_invalid_account_title=0x7f06001a;
+        public static final int common_google_play_services_needs_enabling_title=0x7f06001b;
+        public static final int common_google_play_services_network_error_text=0x7f06001c;
+        public static final int common_google_play_services_network_error_title=0x7f06001d;
+        public static final int common_google_play_services_notification_needs_update_title=0x7f06001e;
+        public static final int common_google_play_services_notification_ticker=0x7f06001f;
+        public static final int common_google_play_services_sign_in_failed_text=0x7f060020;
+        public static final int common_google_play_services_sign_in_failed_title=0x7f060021;
+        public static final int common_google_play_services_unknown_issue=0x7f060022;
+        public static final int common_google_play_services_unsupported_text=0x7f060023;
+        public static final int common_google_play_services_unsupported_title=0x7f060024;
+        public static final int common_google_play_services_update_button=0x7f060025;
+        public static final int common_google_play_services_update_text=0x7f060026;
+        public static final int common_google_play_services_update_title=0x7f060027;
+        public static final int common_google_play_services_updating_text=0x7f060028;
+        public static final int common_google_play_services_updating_title=0x7f060029;
+        public static final int common_open_on_phone=0x7f06002a;
+        public static final int common_signin_button_text=0x7f06002b;
+        public static final int common_signin_button_text_long=0x7f06002c;
+        public static final int drawer_close=0x7f060048;
+        public static final int drawer_open=0x7f060049;
+        public static final int gcm_defaultSenderId=0x7f06004a;
+        public static final int hello_blank_fragment=0x7f06004b;
+        public static final int hello_world=0x7f06004c;
+        public static final int messenger_send_button_text=0x7f06002d;
+        public static final int status_bar_notification_info_overflow=0x7f06004d;
+        public static final int title_activity_home_=0x7f06004e;
     }
     public static final class style {
-        public static final int AlertDialog_AppCompat=0x7f090077;
-        public static final int AlertDialog_AppCompat_Light=0x7f090078;
-        public static final int Animation_AppCompat_Dialog=0x7f090079;
-        public static final int Animation_AppCompat_DropDownUp=0x7f09007a;
-        public static final int AppTheme=0x7f09002f;
-        public static final int Base_AlertDialog_AppCompat=0x7f09007b;
-        public static final int Base_AlertDialog_AppCompat_Light=0x7f09007c;
-        public static final int Base_Animation_AppCompat_Dialog=0x7f09007d;
-        public static final int Base_Animation_AppCompat_DropDownUp=0x7f09007e;
-        public static final int Base_DialogWindowTitle_AppCompat=0x7f09007f;
-        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f090080;
-        public static final int Base_TextAppearance_AppCompat=0x7f090030;
-        public static final int Base_TextAppearance_AppCompat_Body1=0x7f090031;
-        public static final int Base_TextAppearance_AppCompat_Body2=0x7f090032;
-        public static final int Base_TextAppearance_AppCompat_Button=0x7f090019;
-        public static final int Base_TextAppearance_AppCompat_Caption=0x7f090033;
-        public static final int Base_TextAppearance_AppCompat_Display1=0x7f090034;
-        public static final int Base_TextAppearance_AppCompat_Display2=0x7f090035;
-        public static final int Base_TextAppearance_AppCompat_Display3=0x7f090036;
-        public static final int Base_TextAppearance_AppCompat_Display4=0x7f090037;
-        public static final int Base_TextAppearance_AppCompat_Headline=0x7f090038;
-        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f090004;
-        public static final int Base_TextAppearance_AppCompat_Large=0x7f090039;
-        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f090005;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f09003a;
-        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f09003b;
-        public static final int Base_TextAppearance_AppCompat_Medium=0x7f09003c;
-        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f090006;
-        public static final int Base_TextAppearance_AppCompat_Menu=0x7f09003d;
-        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f090081;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f09003e;
-        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f09003f;
-        public static final int Base_TextAppearance_AppCompat_Small=0x7f090040;
-        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f090007;
-        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f090041;
-        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f090008;
-        public static final int Base_TextAppearance_AppCompat_Title=0x7f090042;
-        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f090009;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f090043;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f090044;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f090045;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f090046;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f090047;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f090048;
-        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f090049;
-        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f090082;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f09004a;
-        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f09004b;
-        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f09004c;
-        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f09004d;
-        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f090083;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f09004e;
-        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f09004f;
-        public static final int Base_Theme_AppCompat=0x7f090050;
-        public static final int Base_Theme_AppCompat_CompactMenu=0x7f090084;
-        public static final int Base_Theme_AppCompat_Dialog=0x7f09000a;
-        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f090085;
-        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f090086;
-        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f090087;
-        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f090002;
-        public static final int Base_Theme_AppCompat_Light=0x7f090051;
-        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f090088;
-        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f09000b;
-        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f090089;
-        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f09008a;
-        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f09008b;
-        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f090003;
-        public static final int Base_ThemeOverlay_AppCompat=0x7f09008c;
-        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f09008d;
-        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f09008e;
-        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f09008f;
-        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f090090;
-        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f09000c;
-        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f09000d;
-        public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f090015;
-        public static final int Base_V12_Widget_AppCompat_EditText=0x7f090016;
-        public static final int Base_V21_Theme_AppCompat=0x7f090052;
-        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f090053;
-        public static final int Base_V21_Theme_AppCompat_Light=0x7f090054;
-        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f090055;
-        public static final int Base_V7_Theme_AppCompat=0x7f090091;
-        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f090092;
-        public static final int Base_V7_Theme_AppCompat_Light=0x7f090093;
-        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f090094;
-        public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f090095;
-        public static final int Base_V7_Widget_AppCompat_EditText=0x7f090096;
-        public static final int Base_Widget_AppCompat_ActionBar=0x7f090097;
-        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f090098;
-        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f090099;
-        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f090056;
-        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f090057;
-        public static final int Base_Widget_AppCompat_ActionButton=0x7f090058;
-        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f090059;
-        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f09005a;
-        public static final int Base_Widget_AppCompat_ActionMode=0x7f09009a;
-        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f09009b;
-        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f090017;
-        public static final int Base_Widget_AppCompat_Button=0x7f09005b;
-        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f09005c;
-        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f09005d;
-        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f09009c;
-        public static final int Base_Widget_AppCompat_Button_Small=0x7f09005e;
-        public static final int Base_Widget_AppCompat_ButtonBar=0x7f09005f;
-        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f09009d;
-        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f090060;
-        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f090061;
-        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f09009e;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f090000;
-        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f09009f;
-        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f090062;
-        public static final int Base_Widget_AppCompat_EditText=0x7f090018;
-        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0900a0;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0900a1;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0900a2;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f090063;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f090064;
-        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f090065;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f090066;
-        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f090067;
-        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f090068;
-        public static final int Base_Widget_AppCompat_ListView=0x7f090069;
-        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f09006a;
-        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f09006b;
-        public static final int Base_Widget_AppCompat_PopupMenu=0x7f09006c;
-        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f09006d;
-        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0900a3;
-        public static final int Base_Widget_AppCompat_ProgressBar=0x7f09000e;
-        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f09000f;
-        public static final int Base_Widget_AppCompat_RatingBar=0x7f09006e;
-        public static final int Base_Widget_AppCompat_SearchView=0x7f0900a4;
-        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f0900a5;
-        public static final int Base_Widget_AppCompat_Spinner=0x7f090010;
-        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f09006f;
-        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f090070;
-        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f090071;
-        public static final int Base_Widget_AppCompat_Toolbar=0x7f0900a6;
-        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f090072;
-        public static final int Base_Widget_Design_TabLayout=0x7f0900a7;
-        public static final int CardView=0x7f0900a8;
-        public static final int CardView_Dark=0x7f0900a9;
-        public static final int CardView_Light=0x7f0900aa;
-        public static final int DrawerArrowStyle=0x7f090073;
-        public static final int MessengerButton=0x7f0900ab;
-        public static final int MessengerButton_Blue=0x7f0900ac;
-        public static final int MessengerButton_Blue_Large=0x7f0900ad;
-        public static final int MessengerButton_Blue_Small=0x7f0900ae;
-        public static final int MessengerButton_White=0x7f0900af;
-        public static final int MessengerButton_White_Large=0x7f0900b0;
-        public static final int MessengerButton_White_Small=0x7f0900b1;
-        public static final int MessengerButtonText=0x7f0900b2;
-        public static final int MessengerButtonText_Blue=0x7f0900b3;
-        public static final int MessengerButtonText_Blue_Large=0x7f0900b4;
-        public static final int MessengerButtonText_Blue_Small=0x7f0900b5;
-        public static final int MessengerButtonText_White=0x7f0900b6;
-        public static final int MessengerButtonText_White_Large=0x7f0900b7;
-        public static final int MessengerButtonText_White_Small=0x7f0900b8;
-        public static final int Platform_AppCompat=0x7f090011;
-        public static final int Platform_AppCompat_Light=0x7f090012;
-        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f090074;
-        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f090075;
-        public static final int Platform_V11_AppCompat=0x7f090013;
-        public static final int Platform_V11_AppCompat_Light=0x7f090014;
-        public static final int Platform_V14_AppCompat=0x7f09001a;
-        public static final int Platform_V14_AppCompat_Light=0x7f09001b;
-        public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f090021;
-        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f090022;
-        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f090023;
-        public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f090024;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f090025;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f090026;
-        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f090027;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f090028;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f090029;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f09002a;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f09002b;
-        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f09002c;
-        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f09002d;
-        public static final int RtlOverlay_Widget_AppCompat_Toolbar_Button_Navigation=0x7f09002e;
-        public static final int TextAppearance_AppCompat=0x7f0900b9;
-        public static final int TextAppearance_AppCompat_Body1=0x7f0900ba;
-        public static final int TextAppearance_AppCompat_Body2=0x7f0900bb;
-        public static final int TextAppearance_AppCompat_Button=0x7f0900bc;
-        public static final int TextAppearance_AppCompat_Caption=0x7f0900bd;
-        public static final int TextAppearance_AppCompat_Display1=0x7f0900be;
-        public static final int TextAppearance_AppCompat_Display2=0x7f0900bf;
-        public static final int TextAppearance_AppCompat_Display3=0x7f0900c0;
-        public static final int TextAppearance_AppCompat_Display4=0x7f0900c1;
-        public static final int TextAppearance_AppCompat_Headline=0x7f0900c2;
-        public static final int TextAppearance_AppCompat_Inverse=0x7f0900c3;
-        public static final int TextAppearance_AppCompat_Large=0x7f0900c4;
-        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0900c5;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0900c6;
-        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0900c7;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0900c8;
-        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0900c9;
-        public static final int TextAppearance_AppCompat_Medium=0x7f0900ca;
-        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0900cb;
-        public static final int TextAppearance_AppCompat_Menu=0x7f0900cc;
-        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0900cd;
-        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0900ce;
-        public static final int TextAppearance_AppCompat_Small=0x7f0900cf;
-        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0900d0;
-        public static final int TextAppearance_AppCompat_Subhead=0x7f0900d1;
-        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0900d2;
-        public static final int TextAppearance_AppCompat_Title=0x7f0900d3;
-        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0900d4;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0900d5;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0900d6;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0900d7;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0900d8;
-        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0900d9;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0900da;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0900db;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0900dc;
-        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0900dd;
-        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0900de;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0900df;
-        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0900e0;
-        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0900e1;
-        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0900e2;
-        public static final int TextAppearance_Design_Error=0x7f0900e3;
-        public static final int TextAppearance_Design_Hint=0x7f0900e4;
-        public static final int TextAppearance_Design_Snackbar_Action=0x7f0900e5;
-        public static final int TextAppearance_Design_Snackbar_Message=0x7f0900e6;
-        public static final int TextAppearance_Design_Tab=0x7f0900e7;
-        public static final int TextAppearance_StatusBar_EventContent=0x7f09001c;
-        public static final int TextAppearance_StatusBar_EventContent_Info=0x7f09001d;
-        public static final int TextAppearance_StatusBar_EventContent_Line2=0x7f09001e;
-        public static final int TextAppearance_StatusBar_EventContent_Time=0x7f09001f;
-        public static final int TextAppearance_StatusBar_EventContent_Title=0x7f090020;
-        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0900e8;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0900e9;
-        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0900ea;
-        public static final int Theme_AppCompat=0x7f0900eb;
-        public static final int Theme_AppCompat_CompactMenu=0x7f0900ec;
-        public static final int Theme_AppCompat_Dialog=0x7f0900ed;
-        public static final int Theme_AppCompat_Dialog_Alert=0x7f0900ee;
-        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0900ef;
-        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0900f0;
-        public static final int Theme_AppCompat_Light=0x7f0900f1;
-        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0900f2;
-        public static final int Theme_AppCompat_Light_Dialog=0x7f0900f3;
-        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0900f4;
-        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0900f5;
-        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0900f6;
-        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0900f7;
-        public static final int Theme_AppCompat_NoActionBar=0x7f0900f8;
-        public static final int ThemeOverlay_AppCompat=0x7f0900f9;
-        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0900fa;
-        public static final int ThemeOverlay_AppCompat_Dark=0x7f0900fb;
-        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0900fc;
-        public static final int ThemeOverlay_AppCompat_Light=0x7f0900fd;
-        public static final int ToolBarStyle=0x7f090076;
-        public static final int Widget_AppCompat_ActionBar=0x7f0900fe;
-        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0900ff;
-        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f090100;
-        public static final int Widget_AppCompat_ActionBar_TabText=0x7f090101;
-        public static final int Widget_AppCompat_ActionBar_TabView=0x7f090102;
-        public static final int Widget_AppCompat_ActionButton=0x7f090103;
-        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f090104;
-        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f090105;
-        public static final int Widget_AppCompat_ActionMode=0x7f090106;
-        public static final int Widget_AppCompat_ActivityChooserView=0x7f090107;
-        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f090108;
-        public static final int Widget_AppCompat_Button=0x7f090109;
-        public static final int Widget_AppCompat_Button_Borderless=0x7f09010a;
-        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f09010b;
-        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f09010c;
-        public static final int Widget_AppCompat_Button_Small=0x7f09010d;
-        public static final int Widget_AppCompat_ButtonBar=0x7f09010e;
-        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f09010f;
-        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f090110;
-        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f090111;
-        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f090112;
-        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f090113;
-        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f090114;
-        public static final int Widget_AppCompat_EditText=0x7f090115;
-        public static final int Widget_AppCompat_Light_ActionBar=0x7f090116;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f090117;
-        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f090118;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f090119;
-        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f09011a;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f09011b;
-        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f09011c;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f09011d;
-        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f09011e;
-        public static final int Widget_AppCompat_Light_ActionButton=0x7f09011f;
-        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f090120;
-        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f090121;
-        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f090122;
-        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f090123;
-        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f090124;
-        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f090125;
-        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f090126;
-        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f090127;
-        public static final int Widget_AppCompat_Light_PopupMenu=0x7f090128;
-        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f090129;
-        public static final int Widget_AppCompat_Light_SearchView=0x7f09012a;
-        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f09012b;
-        public static final int Widget_AppCompat_ListPopupWindow=0x7f09012c;
-        public static final int Widget_AppCompat_ListView=0x7f09012d;
-        public static final int Widget_AppCompat_ListView_DropDown=0x7f09012e;
-        public static final int Widget_AppCompat_ListView_Menu=0x7f09012f;
-        public static final int Widget_AppCompat_PopupMenu=0x7f090130;
-        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f090131;
-        public static final int Widget_AppCompat_PopupWindow=0x7f090132;
-        public static final int Widget_AppCompat_ProgressBar=0x7f090133;
-        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f090134;
-        public static final int Widget_AppCompat_RatingBar=0x7f090135;
-        public static final int Widget_AppCompat_SearchView=0x7f090136;
-        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f090137;
-        public static final int Widget_AppCompat_Spinner=0x7f090138;
-        public static final int Widget_AppCompat_Spinner_DropDown=0x7f090139;
-        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f09013a;
-        public static final int Widget_AppCompat_Spinner_Underlined=0x7f09013b;
-        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f09013c;
-        public static final int Widget_AppCompat_Toolbar=0x7f09013d;
-        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f09013e;
-        public static final int Widget_Design_AppBarLayout=0x7f09013f;
-        public static final int Widget_Design_CollapsingToolbar=0x7f090140;
-        public static final int Widget_Design_CoordinatorLayout=0x7f090141;
-        public static final int Widget_Design_FloatingActionButton=0x7f090142;
-        public static final int Widget_Design_NavigationView=0x7f090143;
-        public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f090144;
-        public static final int Widget_Design_Snackbar=0x7f090145;
-        public static final int Widget_Design_TabLayout=0x7f090001;
-        public static final int Widget_Design_TextInputLayout=0x7f090146;
-        public static final int com_facebook_button=0x7f090147;
-        public static final int com_facebook_button_like=0x7f090148;
-        public static final int com_facebook_button_send=0x7f090149;
-        public static final int com_facebook_button_share=0x7f09014a;
-        public static final int com_facebook_loginview_default_style=0x7f09014b;
-        public static final int com_facebook_loginview_silver_style=0x7f09014c;
-        public static final int tooltip_bubble_text=0x7f09014d;
-    }
-    public static final class xml {
-        public static final int global_tracker=0x7f060000;
+        public static final int AlertDialog_AppCompat=0x7f080077;
+        public static final int AlertDialog_AppCompat_Light=0x7f080078;
+        public static final int Animation_AppCompat_Dialog=0x7f080079;
+        public static final int Animation_AppCompat_DropDownUp=0x7f08007a;
+        public static final int AppTheme=0x7f08002f;
+        public static final int Base_AlertDialog_AppCompat=0x7f08007b;
+        public static final int Base_AlertDialog_AppCompat_Light=0x7f08007c;
+        public static final int Base_Animation_AppCompat_Dialog=0x7f08007d;
+        public static final int Base_Animation_AppCompat_DropDownUp=0x7f08007e;
+        public static final int Base_DialogWindowTitle_AppCompat=0x7f08007f;
+        public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f080080;
+        public static final int Base_TextAppearance_AppCompat=0x7f080030;
+        public static final int Base_TextAppearance_AppCompat_Body1=0x7f080031;
+        public static final int Base_TextAppearance_AppCompat_Body2=0x7f080032;
+        public static final int Base_TextAppearance_AppCompat_Button=0x7f080019;
+        public static final int Base_TextAppearance_AppCompat_Caption=0x7f080033;
+        public static final int Base_TextAppearance_AppCompat_Display1=0x7f080034;
+        public static final int Base_TextAppearance_AppCompat_Display2=0x7f080035;
+        public static final int Base_TextAppearance_AppCompat_Display3=0x7f080036;
+        public static final int Base_TextAppearance_AppCompat_Display4=0x7f080037;
+        public static final int Base_TextAppearance_AppCompat_Headline=0x7f080038;
+        public static final int Base_TextAppearance_AppCompat_Inverse=0x7f080004;
+        public static final int Base_TextAppearance_AppCompat_Large=0x7f080039;
+        public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f080005;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f08003a;
+        public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f08003b;
+        public static final int Base_TextAppearance_AppCompat_Medium=0x7f08003c;
+        public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f080006;
+        public static final int Base_TextAppearance_AppCompat_Menu=0x7f08003d;
+        public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f080081;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f08003e;
+        public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f08003f;
+        public static final int Base_TextAppearance_AppCompat_Small=0x7f080040;
+        public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f080007;
+        public static final int Base_TextAppearance_AppCompat_Subhead=0x7f080041;
+        public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f080008;
+        public static final int Base_TextAppearance_AppCompat_Title=0x7f080042;
+        public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f080009;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f080043;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f080044;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f080045;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f080046;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f080047;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f080048;
+        public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f080049;
+        public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f080082;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f08004a;
+        public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f08004b;
+        public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f08004c;
+        public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f08004d;
+        public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f080083;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f08004e;
+        public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f08004f;
+        public static final int Base_Theme_AppCompat=0x7f080050;
+        public static final int Base_Theme_AppCompat_CompactMenu=0x7f080084;
+        public static final int Base_Theme_AppCompat_Dialog=0x7f08000a;
+        public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f080085;
+        public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f080086;
+        public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f080087;
+        public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f080002;
+        public static final int Base_Theme_AppCompat_Light=0x7f080051;
+        public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f080088;
+        public static final int Base_Theme_AppCompat_Light_Dialog=0x7f08000b;
+        public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f080089;
+        public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f08008a;
+        public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f08008b;
+        public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f080003;
+        public static final int Base_ThemeOverlay_AppCompat=0x7f08008c;
+        public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f08008d;
+        public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f08008e;
+        public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f08008f;
+        public static final int Base_ThemeOverlay_AppCompat_Light=0x7f080090;
+        public static final int Base_V11_Theme_AppCompat_Dialog=0x7f08000c;
+        public static final int Base_V11_Theme_AppCompat_Light_Dialog=0x7f08000d;
+        public static final int Base_V12_Widget_AppCompat_AutoCompleteTextView=0x7f080015;
+        public static final int Base_V12_Widget_AppCompat_EditText=0x7f080016;
+        public static final int Base_V21_Theme_AppCompat=0x7f080052;
+        public static final int Base_V21_Theme_AppCompat_Dialog=0x7f080053;
+        public static final int Base_V21_Theme_AppCompat_Light=0x7f080054;
+        public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f080055;
+        public static final int Base_V7_Theme_AppCompat=0x7f080091;
+        public static final int Base_V7_Theme_AppCompat_Dialog=0x7f080092;
+        public static final int Base_V7_Theme_AppCompat_Light=0x7f080093;
+        public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f080094;
+        public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f080095;
+        public static final int Base_V7_Widget_AppCompat_EditText=0x7f080096;
+        public static final int Base_Widget_AppCompat_ActionBar=0x7f080097;
+        public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f080098;
+        public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f080099;
+        public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f080056;
+        public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f080057;
+        public static final int Base_Widget_AppCompat_ActionButton=0x7f080058;
+        public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f080059;
+        public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f08005a;
+        public static final int Base_Widget_AppCompat_ActionMode=0x7f08009a;
+        public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f08009b;
+        public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f080017;
+        public static final int Base_Widget_AppCompat_Button=0x7f08005b;
+        public static final int Base_Widget_AppCompat_Button_Borderless=0x7f08005c;
+        public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f08005d;
+        public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f08009c;
+        public static final int Base_Widget_AppCompat_Button_Small=0x7f08005e;
+        public static final int Base_Widget_AppCompat_ButtonBar=0x7f08005f;
+        public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f08009d;
+        public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f080060;
+        public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f080061;
+        public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f08009e;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f080000;
+        public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f08009f;
+        public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f080062;
+        public static final int Base_Widget_AppCompat_EditText=0x7f080018;
+        public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f0800a0;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f0800a1;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f0800a2;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f080063;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f080064;
+        public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f080065;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f080066;
+        public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f080067;
+        public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f080068;
+        public static final int Base_Widget_AppCompat_ListView=0x7f080069;
+        public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f08006a;
+        public static final int Base_Widget_AppCompat_ListView_Menu=0x7f08006b;
+        public static final int Base_Widget_AppCompat_PopupMenu=0x7f08006c;
+        public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f08006d;
+        public static final int Base_Widget_AppCompat_PopupWindow=0x7f0800a3;
+        public static final int Base_Widget_AppCompat_ProgressBar=0x7f08000e;
+        public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f08000f;
+        public static final int Base_Widget_AppCompat_RatingBar=0x7f08006e;
+        public static final int Base_Widget_AppCompat_SearchView=0x7f0800a4;
+        public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f0800a5;
+        public static final int Base_Widget_AppCompat_Spinner=0x7f080010;
+        public static final int Base_Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f08006f;
+        public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f080070;
+        public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f080071;
+        public static final int Base_Widget_AppCompat_Toolbar=0x7f0800a6;
+        public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080072;
+        public static final int Base_Widget_Design_TabLayout=0x7f0800a7;
+        public static final int CardView=0x7f0800a8;
+        public static final int CardView_Dark=0x7f0800a9;
+        public static final int CardView_Light=0x7f0800aa;
+        public static final int DrawerArrowStyle=0x7f080073;
+        public static final int MessengerButton=0x7f0800ab;
+        public static final int MessengerButton_Blue=0x7f0800ac;
+        public static final int MessengerButton_Blue_Large=0x7f0800ad;
+        public static final int MessengerButton_Blue_Small=0x7f0800ae;
+        public static final int MessengerButton_White=0x7f0800af;
+        public static final int MessengerButton_White_Large=0x7f0800b0;
+        public static final int MessengerButton_White_Small=0x7f0800b1;
+        public static final int MessengerButtonText=0x7f0800b2;
+        public static final int MessengerButtonText_Blue=0x7f0800b3;
+        public static final int MessengerButtonText_Blue_Large=0x7f0800b4;
+        public static final int MessengerButtonText_Blue_Small=0x7f0800b5;
+        public static final int MessengerButtonText_White=0x7f0800b6;
+        public static final int MessengerButtonText_White_Large=0x7f0800b7;
+        public static final int MessengerButtonText_White_Small=0x7f0800b8;
+        public static final int Platform_AppCompat=0x7f080011;
+        public static final int Platform_AppCompat_Light=0x7f080012;
+        public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f080074;
+        public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f080075;
+        public static final int Platform_V11_AppCompat=0x7f080013;
+        public static final int Platform_V11_AppCompat_Light=0x7f080014;
+        public static final int Platform_V14_AppCompat=0x7f08001a;
+        public static final int Platform_V14_AppCompat_Light=0x7f08001b;
+        public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f080021;
+        public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f080022;
+        public static final int RtlOverlay_Widget_AppCompat_ActionButton_Overflow=0x7f080023;
+        public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f080024;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f080025;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f080026;
+        public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f080027;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f080028;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f080029;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f08002a;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f08002b;
+        public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f08002c;
+        public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f08002d;
+        public static final int RtlOverlay_Widget_AppCompat_Toolbar_Button_Navigation=0x7f08002e;
+        public static final int TextAppearance_AppCompat=0x7f0800b9;
+        public static final int TextAppearance_AppCompat_Body1=0x7f0800ba;
+        public static final int TextAppearance_AppCompat_Body2=0x7f0800bb;
+        public static final int TextAppearance_AppCompat_Button=0x7f0800bc;
+        public static final int TextAppearance_AppCompat_Caption=0x7f0800bd;
+        public static final int TextAppearance_AppCompat_Display1=0x7f0800be;
+        public static final int TextAppearance_AppCompat_Display2=0x7f0800bf;
+        public static final int TextAppearance_AppCompat_Display3=0x7f0800c0;
+        public static final int TextAppearance_AppCompat_Display4=0x7f0800c1;
+        public static final int TextAppearance_AppCompat_Headline=0x7f0800c2;
+        public static final int TextAppearance_AppCompat_Inverse=0x7f0800c3;
+        public static final int TextAppearance_AppCompat_Large=0x7f0800c4;
+        public static final int TextAppearance_AppCompat_Large_Inverse=0x7f0800c5;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f0800c6;
+        public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f0800c7;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f0800c8;
+        public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f0800c9;
+        public static final int TextAppearance_AppCompat_Medium=0x7f0800ca;
+        public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f0800cb;
+        public static final int TextAppearance_AppCompat_Menu=0x7f0800cc;
+        public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f0800cd;
+        public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f0800ce;
+        public static final int TextAppearance_AppCompat_Small=0x7f0800cf;
+        public static final int TextAppearance_AppCompat_Small_Inverse=0x7f0800d0;
+        public static final int TextAppearance_AppCompat_Subhead=0x7f0800d1;
+        public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f0800d2;
+        public static final int TextAppearance_AppCompat_Title=0x7f0800d3;
+        public static final int TextAppearance_AppCompat_Title_Inverse=0x7f0800d4;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f0800d5;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f0800d6;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f0800d7;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f0800d8;
+        public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f0800d9;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f0800da;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f0800db;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f0800dc;
+        public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f0800dd;
+        public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f0800de;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f0800df;
+        public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0800e0;
+        public static final int TextAppearance_AppCompat_Widget_Switch=0x7f0800e1;
+        public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0800e2;
+        public static final int TextAppearance_Design_Error=0x7f0800e3;
+        public static final int TextAppearance_Design_Hint=0x7f0800e4;
+        public static final int TextAppearance_Design_Snackbar_Action=0x7f0800e5;
+        public static final int TextAppearance_Design_Snackbar_Message=0x7f0800e6;
+        public static final int TextAppearance_Design_Tab=0x7f0800e7;
+        public static final int TextAppearance_StatusBar_EventContent=0x7f08001c;
+        public static final int TextAppearance_StatusBar_EventContent_Info=0x7f08001d;
+        public static final int TextAppearance_StatusBar_EventContent_Line2=0x7f08001e;
+        public static final int TextAppearance_StatusBar_EventContent_Time=0x7f08001f;
+        public static final int TextAppearance_StatusBar_EventContent_Title=0x7f080020;
+        public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f0800e8;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f0800e9;
+        public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f0800ea;
+        public static final int Theme_AppCompat=0x7f0800eb;
+        public static final int Theme_AppCompat_CompactMenu=0x7f0800ec;
+        public static final int Theme_AppCompat_Dialog=0x7f0800ed;
+        public static final int Theme_AppCompat_Dialog_Alert=0x7f0800ee;
+        public static final int Theme_AppCompat_Dialog_MinWidth=0x7f0800ef;
+        public static final int Theme_AppCompat_DialogWhenLarge=0x7f0800f0;
+        public static final int Theme_AppCompat_Light=0x7f0800f1;
+        public static final int Theme_AppCompat_Light_DarkActionBar=0x7f0800f2;
+        public static final int Theme_AppCompat_Light_Dialog=0x7f0800f3;
+        public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f0800f4;
+        public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f0800f5;
+        public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0800f6;
+        public static final int Theme_AppCompat_Light_NoActionBar=0x7f0800f7;
+        public static final int Theme_AppCompat_NoActionBar=0x7f0800f8;
+        public static final int ThemeOverlay_AppCompat=0x7f0800f9;
+        public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0800fa;
+        public static final int ThemeOverlay_AppCompat_Dark=0x7f0800fb;
+        public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f0800fc;
+        public static final int ThemeOverlay_AppCompat_Light=0x7f0800fd;
+        public static final int ToolBarStyle=0x7f080076;
+        public static final int Widget_AppCompat_ActionBar=0x7f0800fe;
+        public static final int Widget_AppCompat_ActionBar_Solid=0x7f0800ff;
+        public static final int Widget_AppCompat_ActionBar_TabBar=0x7f080100;
+        public static final int Widget_AppCompat_ActionBar_TabText=0x7f080101;
+        public static final int Widget_AppCompat_ActionBar_TabView=0x7f080102;
+        public static final int Widget_AppCompat_ActionButton=0x7f080103;
+        public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f080104;
+        public static final int Widget_AppCompat_ActionButton_Overflow=0x7f080105;
+        public static final int Widget_AppCompat_ActionMode=0x7f080106;
+        public static final int Widget_AppCompat_ActivityChooserView=0x7f080107;
+        public static final int Widget_AppCompat_AutoCompleteTextView=0x7f080108;
+        public static final int Widget_AppCompat_Button=0x7f080109;
+        public static final int Widget_AppCompat_Button_Borderless=0x7f08010a;
+        public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f08010b;
+        public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f08010c;
+        public static final int Widget_AppCompat_Button_Small=0x7f08010d;
+        public static final int Widget_AppCompat_ButtonBar=0x7f08010e;
+        public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f08010f;
+        public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f080110;
+        public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f080111;
+        public static final int Widget_AppCompat_CompoundButton_Switch=0x7f080112;
+        public static final int Widget_AppCompat_DrawerArrowToggle=0x7f080113;
+        public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f080114;
+        public static final int Widget_AppCompat_EditText=0x7f080115;
+        public static final int Widget_AppCompat_Light_ActionBar=0x7f080116;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f080117;
+        public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f080118;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f080119;
+        public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f08011a;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f08011b;
+        public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f08011c;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f08011d;
+        public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f08011e;
+        public static final int Widget_AppCompat_Light_ActionButton=0x7f08011f;
+        public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f080120;
+        public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f080121;
+        public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f080122;
+        public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f080123;
+        public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f080124;
+        public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f080125;
+        public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f080126;
+        public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f080127;
+        public static final int Widget_AppCompat_Light_PopupMenu=0x7f080128;
+        public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f080129;
+        public static final int Widget_AppCompat_Light_SearchView=0x7f08012a;
+        public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f08012b;
+        public static final int Widget_AppCompat_ListPopupWindow=0x7f08012c;
+        public static final int Widget_AppCompat_ListView=0x7f08012d;
+        public static final int Widget_AppCompat_ListView_DropDown=0x7f08012e;
+        public static final int Widget_AppCompat_ListView_Menu=0x7f08012f;
+        public static final int Widget_AppCompat_PopupMenu=0x7f080130;
+        public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f080131;
+        public static final int Widget_AppCompat_PopupWindow=0x7f080132;
+        public static final int Widget_AppCompat_ProgressBar=0x7f080133;
+        public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f080134;
+        public static final int Widget_AppCompat_RatingBar=0x7f080135;
+        public static final int Widget_AppCompat_SearchView=0x7f080136;
+        public static final int Widget_AppCompat_SearchView_ActionBar=0x7f080137;
+        public static final int Widget_AppCompat_Spinner=0x7f080138;
+        public static final int Widget_AppCompat_Spinner_DropDown=0x7f080139;
+        public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f08013a;
+        public static final int Widget_AppCompat_Spinner_Underlined=0x7f08013b;
+        public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f08013c;
+        public static final int Widget_AppCompat_Toolbar=0x7f08013d;
+        public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f08013e;
+        public static final int Widget_Design_AppBarLayout=0x7f08013f;
+        public static final int Widget_Design_CollapsingToolbar=0x7f080140;
+        public static final int Widget_Design_CoordinatorLayout=0x7f080141;
+        public static final int Widget_Design_FloatingActionButton=0x7f080142;
+        public static final int Widget_Design_NavigationView=0x7f080143;
+        public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f080144;
+        public static final int Widget_Design_Snackbar=0x7f080145;
+        public static final int Widget_Design_TabLayout=0x7f080001;
+        public static final int Widget_Design_TextInputLayout=0x7f080146;
+        public static final int com_facebook_button=0x7f080147;
+        public static final int com_facebook_button_like=0x7f080148;
+        public static final int com_facebook_button_send=0x7f080149;
+        public static final int com_facebook_button_share=0x7f08014a;
+        public static final int com_facebook_loginview_default_style=0x7f08014b;
+        public static final int com_facebook_loginview_silver_style=0x7f08014c;
+        public static final int tooltip_bubble_text=0x7f08014d;
     }
     public static final class styleable {
         /** Attributes that can be used with a ActionBar.
@@ -3116,33 +3108,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.mainapp.treadlyte:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.mainapp.treadlyte:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.mainapp.treadlyte:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.mainapp.treadlyte:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.mainapp.treadlyte:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.mainapp.treadlyte:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.mainapp.treadlyte:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.mainapp.treadlyte:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.mainapp.treadlyte:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.mainapp.treadlyte:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.mainapp.treadlyte:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.mainapp.treadlyte:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.mainapp.treadlyte:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.mainapp.treadlyte:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.mainapp.treadlyte:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.mainapp.treadlyte:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.mainapp.treadlyte:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.mainapp.treadlyte:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.mainapp.treadlyte:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.mainapp.treadlyte:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.mainapp.treadlyte:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.mainapp.treadlyte:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.mainapp.treadlyte:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.mainapp.treadlyte:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.mainapp.treadlyte:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.mainapp.treadlyte:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.mainapp.treadlyte:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.treadlyte.mainapp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.treadlyte.mainapp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.treadlyte.mainapp:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.treadlyte.mainapp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.treadlyte.mainapp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.treadlyte.mainapp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.treadlyte.mainapp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.treadlyte.mainapp:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.treadlyte.mainapp:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.treadlyte.mainapp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.treadlyte.mainapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.treadlyte.mainapp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.treadlyte.mainapp:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.treadlyte.mainapp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.treadlyte.mainapp:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.treadlyte.mainapp:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.treadlyte.mainapp:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.treadlyte.mainapp:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.treadlyte.mainapp:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.treadlyte.mainapp:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.treadlyte.mainapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.treadlyte.mainapp:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.treadlyte.mainapp:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.treadlyte.mainapp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.treadlyte.mainapp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.treadlyte.mainapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.treadlyte.mainapp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3182,17 +3174,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f0100c5
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#background}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:background
+          @attr name com.treadlyte.mainapp:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3200,11 +3192,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:backgroundSplit
+          @attr name com.treadlyte.mainapp:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3212,11 +3204,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:backgroundStacked
+          @attr name com.treadlyte.mainapp:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3228,11 +3220,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetEnd
+          @attr name com.treadlyte.mainapp:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3244,11 +3236,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetLeft
+          @attr name com.treadlyte.mainapp:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3260,11 +3252,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetRight
+          @attr name com.treadlyte.mainapp:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3276,21 +3268,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetStart
+          @attr name com.treadlyte.mainapp:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:customNavigationLayout
+          @attr name com.treadlyte.mainapp:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3308,21 +3300,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:displayOptions
+          @attr name com.treadlyte.mainapp:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:divider
+          @attr name com.treadlyte.mainapp:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3334,11 +3326,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:elevation
+          @attr name com.treadlyte.mainapp:elevation
         */
         public static final int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#height}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3350,11 +3342,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:height
+          @attr name com.treadlyte.mainapp:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3364,51 +3356,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:hideOnContentScroll
+          @attr name com.treadlyte.mainapp:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:homeAsUpIndicator
+          @attr name com.treadlyte.mainapp:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:homeLayout
+          @attr name com.treadlyte.mainapp:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:icon
+          @attr name com.treadlyte.mainapp:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:indeterminateProgressStyle
+          @attr name com.treadlyte.mainapp:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3420,21 +3412,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:itemPadding
+          @attr name com.treadlyte.mainapp:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:logo
+          @attr name com.treadlyte.mainapp:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3448,21 +3440,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:navigationMode
+          @attr name com.treadlyte.mainapp:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:popupTheme
+          @attr name com.treadlyte.mainapp:popupTheme
         */
         public static final int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3474,21 +3466,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:progressBarPadding
+          @attr name com.treadlyte.mainapp:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:progressBarStyle
+          @attr name com.treadlyte.mainapp:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3498,21 +3490,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:subtitle
+          @attr name com.treadlyte.mainapp:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:subtitleTextStyle
+          @attr name com.treadlyte.mainapp:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#title}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3522,17 +3514,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:title
+          @attr name com.treadlyte.mainapp:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:titleTextStyle
+          @attr name com.treadlyte.mainapp:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3584,12 +3576,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.mainapp.treadlyte:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.mainapp.treadlyte:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.mainapp.treadlyte:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.mainapp.treadlyte:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.mainapp.treadlyte:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.mainapp.treadlyte:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.treadlyte.mainapp:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.treadlyte.mainapp:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.treadlyte.mainapp:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.treadlyte.mainapp:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.treadlyte.mainapp:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.treadlyte.mainapp:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3603,17 +3595,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#background}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:background
+          @attr name com.treadlyte.mainapp:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3621,21 +3613,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:backgroundSplit
+          @attr name com.treadlyte.mainapp:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:closeItemLayout
+          @attr name com.treadlyte.mainapp:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#height}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -3647,27 +3639,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:height
+          @attr name com.treadlyte.mainapp:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:subtitleTextStyle
+          @attr name com.treadlyte.mainapp:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:titleTextStyle
+          @attr name com.treadlyte.mainapp:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -3676,8 +3668,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.mainapp.treadlyte:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.mainapp.treadlyte:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.treadlyte.mainapp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.treadlyte.mainapp:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -3686,17 +3678,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:expandActivityOverflowButtonDrawable
+          @attr name com.treadlyte.mainapp:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -3706,7 +3698,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:initialActivityCount
+          @attr name com.treadlyte.mainapp:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -3716,11 +3708,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.mainapp.treadlyte:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.mainapp.treadlyte:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.mainapp.treadlyte:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.mainapp.treadlyte:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.mainapp.treadlyte:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.treadlyte.mainapp:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.treadlyte.mainapp:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.treadlyte.mainapp:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.treadlyte.mainapp:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.treadlyte.mainapp:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -3740,53 +3732,53 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonPanelSideLayout
+          @attr name com.treadlyte.mainapp:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:listItemLayout
+          @attr name com.treadlyte.mainapp:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:listLayout
+          @attr name com.treadlyte.mainapp:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:multiChoiceItemLayout
+          @attr name com.treadlyte.mainapp:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:singleChoiceItemLayout
+          @attr name com.treadlyte.mainapp:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -3796,7 +3788,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation com.mainapp.treadlyte:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.treadlyte.mainapp:elevation}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -3811,7 +3803,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -3823,7 +3815,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:elevation
+          @attr name com.treadlyte.mainapp:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /** Attributes that can be used with a AppBarLayout_LayoutParams.
@@ -3832,8 +3824,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags com.mainapp.treadlyte:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator com.mainapp.treadlyte:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollFlags com.treadlyte.mainapp:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_LayoutParams_layout_scrollInterpolator com.treadlyte.mainapp:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_LayoutParams_layout_scrollFlags
            @see #AppBarLayout_LayoutParams_layout_scrollInterpolator
@@ -3842,7 +3834,7 @@ containing a value of this type.
             0x7f010024, 0x7f010025
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
@@ -3857,17 +3849,17 @@ containing a value of this type.
 <tr><td><code>enterAlways</code></td><td>0x4</td><td></td></tr>
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:layout_scrollFlags
+          @attr name com.treadlyte.mainapp:layout_scrollFlags
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:layout_scrollInterpolator
+          @attr name com.treadlyte.mainapp:layout_scrollInterpolator
         */
         public static final int AppBarLayout_LayoutParams_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3877,7 +3869,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.mainapp.treadlyte:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.treadlyte.mainapp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3892,14 +3884,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.mainapp.treadlyte:textAllCaps
+          @attr name com.treadlyte.mainapp:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CardView.
@@ -3908,17 +3900,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor com.mainapp.treadlyte:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius com.mainapp.treadlyte:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation com.mainapp.treadlyte:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation com.mainapp.treadlyte:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.mainapp.treadlyte:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding com.mainapp.treadlyte:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding com.mainapp.treadlyte:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom com.mainapp.treadlyte:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft com.mainapp.treadlyte:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight com.mainapp.treadlyte:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop com.mainapp.treadlyte:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor com.treadlyte.mainapp:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius com.treadlyte.mainapp:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation com.treadlyte.mainapp:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation com.treadlyte.mainapp:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.treadlyte.mainapp:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding com.treadlyte.mainapp:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding com.treadlyte.mainapp:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom com.treadlyte.mainapp:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft com.treadlyte.mainapp:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight com.treadlyte.mainapp:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop com.treadlyte.mainapp:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_cardBackgroundColor
            @see #CardView_cardCornerRadius
@@ -3938,7 +3930,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002f, 0x7f010030, 0x7f010031
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3949,11 +3941,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:cardBackgroundColor
+          @attr name com.treadlyte.mainapp:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3965,11 +3957,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:cardCornerRadius
+          @attr name com.treadlyte.mainapp:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3981,11 +3973,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:cardElevation
+          @attr name com.treadlyte.mainapp:cardElevation
         */
         public static final int CardView_cardElevation = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -3997,11 +3989,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:cardMaxElevation
+          @attr name com.treadlyte.mainapp:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4011,11 +4003,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:cardPreventCornerOverlap
+          @attr name com.treadlyte.mainapp:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4025,11 +4017,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:cardUseCompatPadding
+          @attr name com.treadlyte.mainapp:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4041,11 +4033,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentPadding
+          @attr name com.treadlyte.mainapp:contentPadding
         */
         public static final int CardView_contentPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4057,11 +4049,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentPaddingBottom
+          @attr name com.treadlyte.mainapp:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4073,11 +4065,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentPaddingLeft
+          @attr name com.treadlyte.mainapp:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4089,11 +4081,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentPaddingRight
+          @attr name com.treadlyte.mainapp:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -4105,7 +4097,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentPaddingTop
+          @attr name com.treadlyte.mainapp:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 9;
         /** Attributes that can be used with a CircleImageView.
@@ -4114,9 +4106,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CircleImageView_border_color com.mainapp.treadlyte:border_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_border_overlay com.mainapp.treadlyte:border_overlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #CircleImageView_border_width com.mainapp.treadlyte:border_width}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_border_color com.treadlyte.mainapp:border_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_border_overlay com.treadlyte.mainapp:border_overlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #CircleImageView_border_width com.treadlyte.mainapp:border_width}</code></td><td></td></tr>
            </table>
            @see #CircleImageView_border_color
            @see #CircleImageView_border_overlay
@@ -4126,7 +4118,7 @@ containing a value of this type.
             0x7f010032, 0x7f010033, 0x7f010034
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#border_color}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#border_color}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -4137,11 +4129,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:border_color
+          @attr name com.treadlyte.mainapp:border_color
         */
         public static final int CircleImageView_border_color = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#border_overlay}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#border_overlay}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -4151,11 +4143,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:border_overlay
+          @attr name com.treadlyte.mainapp:border_overlay
         */
         public static final int CircleImageView_border_overlay = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#border_width}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#border_width}
           attribute's value can be found in the {@link #CircleImageView} array.
 
 
@@ -4167,7 +4159,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:border_width
+          @attr name com.treadlyte.mainapp:border_width
         */
         public static final int CircleImageView_border_width = 0;
         /** Attributes that can be used with a CollapsingAppBarLayout_LayoutParams.
@@ -4176,8 +4168,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode com.mainapp.treadlyte:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier com.mainapp.treadlyte:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseMode com.treadlyte.mainapp:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier com.treadlyte.mainapp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseMode
            @see #CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier
@@ -4186,7 +4178,7 @@ containing a value of this type.
             0x7f010035, 0x7f010036
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -4200,11 +4192,11 @@ containing a value of this type.
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:layout_collapseMode
+          @attr name com.treadlyte.mainapp:layout_collapseMode
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingAppBarLayout_LayoutParams} array.
 
 
@@ -4214,7 +4206,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:layout_collapseParallaxMultiplier
+          @attr name com.treadlyte.mainapp:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingAppBarLayout_LayoutParams_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -4223,16 +4215,16 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.mainapp.treadlyte:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.mainapp.treadlyte:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.mainapp.treadlyte:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.mainapp.treadlyte:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.mainapp.treadlyte:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.mainapp.treadlyte:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.mainapp.treadlyte:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.mainapp.treadlyte:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.mainapp.treadlyte:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.mainapp.treadlyte:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.treadlyte.mainapp:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.treadlyte.mainapp:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.treadlyte.mainapp:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.treadlyte.mainapp:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.treadlyte.mainapp:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.treadlyte.mainapp:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.treadlyte.mainapp:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.treadlyte.mainapp:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.treadlyte.mainapp:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.treadlyte.mainapp:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
            @see #CollapsingToolbarLayout_contentScrim
@@ -4251,17 +4243,17 @@ containing a value of this type.
             0x7f01003f, 0x7f010040
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:collapsedTitleTextAppearance
+          @attr name com.treadlyte.mainapp:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4272,11 +4264,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentScrim
+          @attr name com.treadlyte.mainapp:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4288,11 +4280,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:expandedTitleMargin
+          @attr name com.treadlyte.mainapp:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4304,11 +4296,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:expandedTitleMarginBottom
+          @attr name com.treadlyte.mainapp:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4320,11 +4312,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:expandedTitleMarginEnd
+          @attr name com.treadlyte.mainapp:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4336,11 +4328,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:expandedTitleMarginStart
+          @attr name com.treadlyte.mainapp:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4352,21 +4344,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:expandedTitleMarginTop
+          @attr name com.treadlyte.mainapp:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:expandedTitleTextAppearance
+          @attr name com.treadlyte.mainapp:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -4377,17 +4369,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:statusBarScrim
+          @attr name com.treadlyte.mainapp:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:toolbarId
+          @attr name com.treadlyte.mainapp:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 9;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -4396,8 +4388,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines com.mainapp.treadlyte:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.mainapp.treadlyte:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.treadlyte.mainapp:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.treadlyte.mainapp:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -4406,23 +4398,23 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010041, 0x7f010042
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:keylines
+          @attr name com.treadlyte.mainapp:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:statusBarBackground
+          @attr name com.treadlyte.mainapp:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_LayoutParams.
@@ -4432,10 +4424,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_LayoutParams_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor com.mainapp.treadlyte:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity com.mainapp.treadlyte:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior com.mainapp.treadlyte:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline com.mainapp.treadlyte:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchor com.treadlyte.mainapp:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_anchorGravity com.treadlyte.mainapp:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_behavior com.treadlyte.mainapp:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_LayoutParams_layout_keyline com.treadlyte.mainapp:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_LayoutParams_android_layout_gravity
            @see #CoordinatorLayout_LayoutParams_layout_anchor
@@ -4454,17 +4446,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_LayoutParams_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:layout_anchor
+          @attr name com.treadlyte.mainapp:layout_anchor
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4489,11 +4481,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:layout_anchorGravity
+          @attr name com.treadlyte.mainapp:layout_anchorGravity
         */
         public static final int CoordinatorLayout_LayoutParams_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4503,11 +4495,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:layout_behavior
+          @attr name com.treadlyte.mainapp:layout_behavior
         */
         public static final int CoordinatorLayout_LayoutParams_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_LayoutParams} array.
 
 
@@ -4517,7 +4509,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:layout_keyline
+          @attr name com.treadlyte.mainapp:layout_keyline
         */
         public static final int CoordinatorLayout_LayoutParams_layout_keyline = 3;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -4526,14 +4518,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.mainapp.treadlyte:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.mainapp.treadlyte:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.mainapp.treadlyte:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.mainapp.treadlyte:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.mainapp.treadlyte:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.mainapp.treadlyte:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.mainapp.treadlyte:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.mainapp.treadlyte:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize com.treadlyte.mainapp:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.treadlyte.mainapp:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.treadlyte.mainapp:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.treadlyte.mainapp:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.treadlyte.mainapp:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.treadlyte.mainapp:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.treadlyte.mainapp:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.treadlyte.mainapp:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -4549,7 +4541,7 @@ containing a value of this type.
             0x7f01004b, 0x7f01004c, 0x7f01004d, 0x7f01004e
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#barSize}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4561,11 +4553,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:barSize
+          @attr name com.treadlyte.mainapp:barSize
         */
         public static final int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#color}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4576,11 +4568,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:color
+          @attr name com.treadlyte.mainapp:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4592,11 +4584,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:drawableSize
+          @attr name com.treadlyte.mainapp:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4608,11 +4600,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:gapBetweenBars
+          @attr name com.treadlyte.mainapp:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4624,11 +4616,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:middleBarArrowSize
+          @attr name com.treadlyte.mainapp:middleBarArrowSize
         */
         public static final int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4638,11 +4630,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:spinBars
+          @attr name com.treadlyte.mainapp:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4654,11 +4646,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:thickness
+          @attr name com.treadlyte.mainapp:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -4670,7 +4662,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:topBottomBarArrowSize
+          @attr name com.treadlyte.mainapp:topBottomBarArrowSize
         */
         public static final int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a FloatingActionButton.
@@ -4680,13 +4672,13 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #FloatingActionButton_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.mainapp.treadlyte:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.mainapp.treadlyte:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth com.mainapp.treadlyte:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation com.mainapp.treadlyte:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize com.mainapp.treadlyte:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.mainapp.treadlyte:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor com.mainapp.treadlyte:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.treadlyte.mainapp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.treadlyte.mainapp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.treadlyte.mainapp:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.treadlyte.mainapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.treadlyte.mainapp:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.treadlyte.mainapp:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.treadlyte.mainapp:rippleColor}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_android_background
            @see #FloatingActionButton_backgroundTint
@@ -4708,7 +4700,7 @@ containing a value of this type.
         */
         public static final int FloatingActionButton_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4719,11 +4711,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:backgroundTint
+          @attr name com.treadlyte.mainapp:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4739,11 +4731,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:backgroundTintMode
+          @attr name com.treadlyte.mainapp:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4755,11 +4747,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:borderWidth
+          @attr name com.treadlyte.mainapp:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4771,11 +4763,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:elevation
+          @attr name com.treadlyte.mainapp:elevation
         */
         public static final int FloatingActionButton_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4788,11 +4780,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:fabSize
+          @attr name com.treadlyte.mainapp:fabSize
         */
         public static final int FloatingActionButton_fabSize = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4804,11 +4796,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:pressedTranslationZ
+          @attr name com.treadlyte.mainapp:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -4819,7 +4811,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:rippleColor
+          @attr name com.treadlyte.mainapp:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -4833,10 +4825,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.mainapp.treadlyte:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.mainapp.treadlyte:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.mainapp.treadlyte:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.mainapp.treadlyte:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.treadlyte.mainapp:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.treadlyte.mainapp:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.treadlyte.mainapp:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.treadlyte.mainapp:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -4884,17 +4876,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:divider
+          @attr name com.treadlyte.mainapp:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -4906,11 +4898,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:dividerPadding
+          @attr name com.treadlyte.mainapp:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -4920,11 +4912,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:measureWithLargestChild
+          @attr name com.treadlyte.mainapp:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -4939,7 +4931,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:showDividers
+          @attr name com.treadlyte.mainapp:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -5018,9 +5010,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop com.mainapp.treadlyte:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.mainapp.treadlyte:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.mainapp.treadlyte:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.treadlyte.mainapp:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.treadlyte.mainapp:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.treadlyte.mainapp:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -5030,7 +5022,7 @@ containing a value of this type.
             0x7f010056, 0x7f010057, 0x7f010058
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -5040,11 +5032,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:circleCrop
+          @attr name com.treadlyte.mainapp:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -5054,11 +5046,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:imageAspectRatio
+          @attr name com.treadlyte.mainapp:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -5072,7 +5064,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:imageAspectRatioAdjust
+          @attr name com.treadlyte.mainapp:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MenuGroup.
@@ -5141,9 +5133,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.mainapp.treadlyte:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.mainapp.treadlyte:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.mainapp.treadlyte:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.treadlyte.mainapp:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.treadlyte.mainapp:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.treadlyte.mainapp:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -5157,7 +5149,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.mainapp.treadlyte:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.treadlyte.mainapp:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -5185,17 +5177,17 @@ containing a value of this type.
             0x7f01005c
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionLayout
+          @attr name com.treadlyte.mainapp:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5205,11 +5197,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:actionProviderClass
+          @attr name com.treadlyte.mainapp:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5219,7 +5211,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:actionViewClass
+          @attr name com.treadlyte.mainapp:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -5301,7 +5293,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -5317,7 +5309,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:showAsAction
+          @attr name com.treadlyte.mainapp:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -5333,7 +5325,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.mainapp.treadlyte:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.treadlyte.mainapp:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -5391,7 +5383,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -5401,7 +5393,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:preserveIconSpacing
+          @attr name com.treadlyte.mainapp:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a NavigationView.
@@ -5413,12 +5405,12 @@ containing a value of this type.
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation com.mainapp.treadlyte:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout com.mainapp.treadlyte:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground com.mainapp.treadlyte:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint com.mainapp.treadlyte:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor com.mainapp.treadlyte:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu com.mainapp.treadlyte:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.treadlyte.mainapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.treadlyte.mainapp:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.treadlyte.mainapp:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.treadlyte.mainapp:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.treadlyte.mainapp:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.treadlyte.mainapp:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -5454,7 +5446,7 @@ containing a value of this type.
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5466,31 +5458,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:elevation
+          @attr name com.treadlyte.mainapp:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:headerLayout
+          @attr name com.treadlyte.mainapp:headerLayout
         */
         public static final int NavigationView_headerLayout = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:itemBackground
+          @attr name com.treadlyte.mainapp:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5501,11 +5493,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:itemIconTint
+          @attr name com.treadlyte.mainapp:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -5516,17 +5508,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:itemTextColor
+          @attr name com.treadlyte.mainapp:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:menu
+          @attr name com.treadlyte.mainapp:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -5536,7 +5528,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.mainapp.treadlyte:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.treadlyte.mainapp:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -5551,7 +5543,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -5561,7 +5553,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:overlapAnchor
+          @attr name com.treadlyte.mainapp:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -5570,7 +5562,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.mainapp.treadlyte:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.treadlyte.mainapp:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -5578,7 +5570,7 @@ containing a value of this type.
             0x7f010064
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -5588,7 +5580,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:state_above_anchor
+          @attr name com.treadlyte.mainapp:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecyclerView.
@@ -5598,10 +5590,10 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager com.mainapp.treadlyte:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout com.mainapp.treadlyte:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount com.mainapp.treadlyte:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd com.mainapp.treadlyte:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.treadlyte.mainapp:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.treadlyte.mainapp:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.treadlyte.mainapp:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.treadlyte.mainapp:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_orientation
            @see #RecyclerView_layoutManager
@@ -5620,7 +5612,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5630,11 +5622,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:layoutManager
+          @attr name com.treadlyte.mainapp:layoutManager
         */
         public static final int RecyclerView_layoutManager = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5644,11 +5636,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:reverseLayout
+          @attr name com.treadlyte.mainapp:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5658,11 +5650,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:spanCount
+          @attr name com.treadlyte.mainapp:spanCount
         */
         public static final int RecyclerView_spanCount = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -5672,7 +5664,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:stackFromEnd
+          @attr name com.treadlyte.mainapp:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 4;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -5681,7 +5673,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.mainapp.treadlyte:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.treadlyte.mainapp:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -5689,7 +5681,7 @@ containing a value of this type.
             0x7f010069
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -5697,7 +5689,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:insetForeground
+          @attr name com.treadlyte.mainapp:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Params.
@@ -5706,7 +5698,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop com.mainapp.treadlyte:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Params_behavior_overlapTop com.treadlyte.mainapp:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Params_behavior_overlapTop
          */
@@ -5714,7 +5706,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01006a
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Params} array.
 
 
@@ -5726,7 +5718,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:behavior_overlapTop
+          @attr name com.treadlyte.mainapp:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Params_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -5739,19 +5731,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.mainapp.treadlyte:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.mainapp.treadlyte:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.mainapp.treadlyte:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.mainapp.treadlyte:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.mainapp.treadlyte:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.mainapp.treadlyte:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.mainapp.treadlyte:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.mainapp.treadlyte:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.mainapp.treadlyte:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.mainapp.treadlyte:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.mainapp.treadlyte:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.mainapp.treadlyte:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.mainapp.treadlyte:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.treadlyte.mainapp:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.treadlyte.mainapp:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.treadlyte.mainapp:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.treadlyte.mainapp:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.treadlyte.mainapp:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.treadlyte.mainapp:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.treadlyte.mainapp:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.treadlyte.mainapp:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.treadlyte.mainapp:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.treadlyte.mainapp:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.treadlyte.mainapp:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.treadlyte.mainapp:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.treadlyte.mainapp:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -5803,27 +5795,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:closeIcon
+          @attr name com.treadlyte.mainapp:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:commitIcon
+          @attr name com.treadlyte.mainapp:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5833,21 +5825,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:defaultQueryHint
+          @attr name com.treadlyte.mainapp:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:goIcon
+          @attr name com.treadlyte.mainapp:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5857,31 +5849,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:iconifiedByDefault
+          @attr name com.treadlyte.mainapp:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:layout
+          @attr name com.treadlyte.mainapp:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:queryBackground
+          @attr name com.treadlyte.mainapp:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -5891,57 +5883,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:queryHint
+          @attr name com.treadlyte.mainapp:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:searchHintIcon
+          @attr name com.treadlyte.mainapp:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:searchIcon
+          @attr name com.treadlyte.mainapp:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:submitBackground
+          @attr name com.treadlyte.mainapp:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:suggestionRowLayout
+          @attr name com.treadlyte.mainapp:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:voiceIcon
+          @attr name com.treadlyte.mainapp:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -5951,8 +5943,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation com.mainapp.treadlyte:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.mainapp.treadlyte:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.treadlyte.mainapp:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.treadlyte.mainapp:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -5968,7 +5960,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -5980,11 +5972,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:elevation
+          @attr name com.treadlyte.mainapp:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -5996,7 +5988,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:maxActionInlineWidth
+          @attr name com.treadlyte.mainapp:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -6012,10 +6004,10 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.mainapp.treadlyte:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.mainapp.treadlyte:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.mainapp.treadlyte:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.mainapp.treadlyte:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.treadlyte.mainapp:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView com.treadlyte.mainapp:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.treadlyte.mainapp:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.treadlyte.mainapp:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -6077,7 +6069,7 @@ containing a value of this type.
         */
         public static final int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -6087,31 +6079,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:disableChildrenWhenDisabled
+          @attr name com.treadlyte.mainapp:disableChildrenWhenDisabled
         */
         public static final int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:popupPromptView
+          @attr name com.treadlyte.mainapp:popupPromptView
         */
         public static final int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#prompt}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:prompt
+          @attr name com.treadlyte.mainapp:prompt
         */
         public static final int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -6124,7 +6116,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:spinnerMode
+          @attr name com.treadlyte.mainapp:spinnerMode
         */
         public static final int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -6136,13 +6128,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.mainapp.treadlyte:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.mainapp.treadlyte:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.mainapp.treadlyte:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.mainapp.treadlyte:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.mainapp.treadlyte:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.mainapp.treadlyte:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.mainapp.treadlyte:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.treadlyte.mainapp:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.treadlyte.mainapp:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.treadlyte.mainapp:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.treadlyte.mainapp:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.treadlyte.mainapp:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.treadlyte.mainapp:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.treadlyte.mainapp:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -6179,7 +6171,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6189,11 +6181,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:showText
+          @attr name com.treadlyte.mainapp:showText
         */
         public static final int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6203,11 +6195,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:splitTrack
+          @attr name com.treadlyte.mainapp:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6219,11 +6211,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:switchMinWidth
+          @attr name com.treadlyte.mainapp:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6235,21 +6227,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:switchPadding
+          @attr name com.treadlyte.mainapp:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:switchTextAppearance
+          @attr name com.treadlyte.mainapp:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -6261,17 +6253,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:thumbTextPadding
+          @attr name com.treadlyte.mainapp:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#track}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:track
+          @attr name com.treadlyte.mainapp:track
         */
         public static final int SwitchCompat_track = 3;
         /** Attributes that can be used with a TabLayout.
@@ -6280,22 +6272,22 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground com.mainapp.treadlyte:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart com.mainapp.treadlyte:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity com.mainapp.treadlyte:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.mainapp.treadlyte:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.mainapp.treadlyte:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth com.mainapp.treadlyte:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth com.mainapp.treadlyte:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode com.mainapp.treadlyte:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding com.mainapp.treadlyte:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.mainapp.treadlyte:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.mainapp.treadlyte:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart com.mainapp.treadlyte:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop com.mainapp.treadlyte:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.mainapp.treadlyte:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance com.mainapp.treadlyte:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor com.mainapp.treadlyte:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.treadlyte.mainapp:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.treadlyte.mainapp:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.treadlyte.mainapp:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.treadlyte.mainapp:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.treadlyte.mainapp:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.treadlyte.mainapp:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.treadlyte.mainapp:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.treadlyte.mainapp:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.treadlyte.mainapp:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.treadlyte.mainapp:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.treadlyte.mainapp:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.treadlyte.mainapp:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.treadlyte.mainapp:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.treadlyte.mainapp:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.treadlyte.mainapp:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.treadlyte.mainapp:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -6321,17 +6313,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010090, 0x7f010091, 0x7f010092, 0x7f010093
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:tabBackground
+          @attr name com.treadlyte.mainapp:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6343,11 +6335,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabContentStart
+          @attr name com.treadlyte.mainapp:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6360,11 +6352,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:tabGravity
+          @attr name com.treadlyte.mainapp:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6375,11 +6367,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabIndicatorColor
+          @attr name com.treadlyte.mainapp:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6391,11 +6383,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabIndicatorHeight
+          @attr name com.treadlyte.mainapp:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6407,11 +6399,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabMaxWidth
+          @attr name com.treadlyte.mainapp:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6423,11 +6415,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabMinWidth
+          @attr name com.treadlyte.mainapp:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6440,11 +6432,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:tabMode
+          @attr name com.treadlyte.mainapp:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6456,11 +6448,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabPadding
+          @attr name com.treadlyte.mainapp:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6472,11 +6464,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabPaddingBottom
+          @attr name com.treadlyte.mainapp:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6488,11 +6480,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabPaddingEnd
+          @attr name com.treadlyte.mainapp:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6504,11 +6496,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabPaddingStart
+          @attr name com.treadlyte.mainapp:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6520,11 +6512,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabPaddingTop
+          @attr name com.treadlyte.mainapp:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6535,21 +6527,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabSelectedTextColor
+          @attr name com.treadlyte.mainapp:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:tabTextAppearance
+          @attr name com.treadlyte.mainapp:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -6560,7 +6552,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:tabTextColor
+          @attr name com.treadlyte.mainapp:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -6573,7 +6565,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.mainapp.treadlyte:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.treadlyte.mainapp:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_textColor
            @see #TextAppearance_android_textSize
@@ -6610,14 +6602,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.mainapp.treadlyte:textAllCaps
+          @attr name com.treadlyte.mainapp:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 4;
         /** Attributes that can be used with a TextInputLayout.
@@ -6627,9 +6619,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled com.mainapp.treadlyte:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.mainapp.treadlyte:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.mainapp.treadlyte:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.treadlyte.mainapp:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.treadlyte.mainapp:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.treadlyte.mainapp:hintTextAppearance}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_errorEnabled
@@ -6646,7 +6638,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_hint = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -6656,27 +6648,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:errorEnabled
+          @attr name com.treadlyte.mainapp:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:errorTextAppearance
+          @attr name com.treadlyte.mainapp:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:hintTextAppearance
+          @attr name com.treadlyte.mainapp:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 1;
         /** Attributes that can be used with a Theme.
@@ -6685,113 +6677,113 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.mainapp.treadlyte:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.mainapp.treadlyte:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.mainapp.treadlyte:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.mainapp.treadlyte:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.mainapp.treadlyte:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.mainapp.treadlyte:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.mainapp.treadlyte:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.mainapp.treadlyte:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.mainapp.treadlyte:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.mainapp.treadlyte:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.mainapp.treadlyte:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.mainapp.treadlyte:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.mainapp.treadlyte:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.mainapp.treadlyte:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.mainapp.treadlyte:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.mainapp.treadlyte:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.mainapp.treadlyte:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.mainapp.treadlyte:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.mainapp.treadlyte:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.mainapp.treadlyte:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.mainapp.treadlyte:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.mainapp.treadlyte:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.mainapp.treadlyte:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.mainapp.treadlyte:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.mainapp.treadlyte:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.mainapp.treadlyte:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.mainapp.treadlyte:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.mainapp.treadlyte:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.mainapp.treadlyte:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.mainapp.treadlyte:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.mainapp.treadlyte:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.mainapp.treadlyte:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.mainapp.treadlyte:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.mainapp.treadlyte:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.mainapp.treadlyte:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.treadlyte.mainapp:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.treadlyte.mainapp:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.treadlyte.mainapp:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.treadlyte.mainapp:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.treadlyte.mainapp:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.treadlyte.mainapp:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.treadlyte.mainapp:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.treadlyte.mainapp:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.treadlyte.mainapp:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.treadlyte.mainapp:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.treadlyte.mainapp:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.treadlyte.mainapp:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.treadlyte.mainapp:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.treadlyte.mainapp:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.treadlyte.mainapp:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.treadlyte.mainapp:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.treadlyte.mainapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.treadlyte.mainapp:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.treadlyte.mainapp:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.treadlyte.mainapp:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.treadlyte.mainapp:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.treadlyte.mainapp:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.treadlyte.mainapp:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.treadlyte.mainapp:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.treadlyte.mainapp:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.treadlyte.mainapp:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.treadlyte.mainapp:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.treadlyte.mainapp:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.treadlyte.mainapp:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.treadlyte.mainapp:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.treadlyte.mainapp:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.treadlyte.mainapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.treadlyte.mainapp:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.treadlyte.mainapp:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.treadlyte.mainapp:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.mainapp.treadlyte:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.mainapp.treadlyte:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.mainapp.treadlyte:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.mainapp.treadlyte:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.mainapp.treadlyte:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.mainapp.treadlyte:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.mainapp.treadlyte:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.mainapp.treadlyte:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.mainapp.treadlyte:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.mainapp.treadlyte:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.mainapp.treadlyte:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.mainapp.treadlyte:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.mainapp.treadlyte:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.mainapp.treadlyte:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.mainapp.treadlyte:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.mainapp.treadlyte:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.mainapp.treadlyte:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.mainapp.treadlyte:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.mainapp.treadlyte:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.mainapp.treadlyte:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.mainapp.treadlyte:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.mainapp.treadlyte:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.mainapp.treadlyte:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.mainapp.treadlyte:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.mainapp.treadlyte:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.mainapp.treadlyte:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.mainapp.treadlyte:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.mainapp.treadlyte:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.mainapp.treadlyte:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.mainapp.treadlyte:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.mainapp.treadlyte:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.mainapp.treadlyte:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.mainapp.treadlyte:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.mainapp.treadlyte:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.mainapp.treadlyte:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.mainapp.treadlyte:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.mainapp.treadlyte:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.mainapp.treadlyte:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.mainapp.treadlyte:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.mainapp.treadlyte:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.mainapp.treadlyte:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.mainapp.treadlyte:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.mainapp.treadlyte:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.mainapp.treadlyte:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.mainapp.treadlyte:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.mainapp.treadlyte:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.mainapp.treadlyte:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.mainapp.treadlyte:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.mainapp.treadlyte:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.mainapp.treadlyte:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.mainapp.treadlyte:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.mainapp.treadlyte:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.mainapp.treadlyte:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.mainapp.treadlyte:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.mainapp.treadlyte:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.mainapp.treadlyte:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.mainapp.treadlyte:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.mainapp.treadlyte:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.mainapp.treadlyte:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.mainapp.treadlyte:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.mainapp.treadlyte:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.mainapp.treadlyte:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.mainapp.treadlyte:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.mainapp.treadlyte:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.mainapp.treadlyte:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.mainapp.treadlyte:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.mainapp.treadlyte:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.mainapp.treadlyte:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.mainapp.treadlyte:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.mainapp.treadlyte:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.treadlyte.mainapp:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.treadlyte.mainapp:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.treadlyte.mainapp:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.treadlyte.mainapp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.treadlyte.mainapp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.treadlyte.mainapp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.treadlyte.mainapp:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.treadlyte.mainapp:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.treadlyte.mainapp:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.treadlyte.mainapp:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.treadlyte.mainapp:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.treadlyte.mainapp:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.treadlyte.mainapp:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.treadlyte.mainapp:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.treadlyte.mainapp:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.treadlyte.mainapp:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.treadlyte.mainapp:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.treadlyte.mainapp:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.treadlyte.mainapp:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.treadlyte.mainapp:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.treadlyte.mainapp:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.treadlyte.mainapp:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.treadlyte.mainapp:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.treadlyte.mainapp:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.treadlyte.mainapp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.treadlyte.mainapp:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.treadlyte.mainapp:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.treadlyte.mainapp:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.treadlyte.mainapp:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.treadlyte.mainapp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.treadlyte.mainapp:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.treadlyte.mainapp:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.treadlyte.mainapp:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.treadlyte.mainapp:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.treadlyte.mainapp:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.treadlyte.mainapp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.treadlyte.mainapp:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.treadlyte.mainapp:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.treadlyte.mainapp:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.treadlyte.mainapp:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.treadlyte.mainapp:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.treadlyte.mainapp:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.treadlyte.mainapp:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.treadlyte.mainapp:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.treadlyte.mainapp:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.treadlyte.mainapp:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.treadlyte.mainapp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.treadlyte.mainapp:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.treadlyte.mainapp:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.treadlyte.mainapp:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.treadlyte.mainapp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.treadlyte.mainapp:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.treadlyte.mainapp:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.treadlyte.mainapp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.treadlyte.mainapp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.treadlyte.mainapp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.treadlyte.mainapp:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.treadlyte.mainapp:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.treadlyte.mainapp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.treadlyte.mainapp:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.treadlyte.mainapp:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.treadlyte.mainapp:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.treadlyte.mainapp:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.treadlyte.mainapp:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.treadlyte.mainapp:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.treadlyte.mainapp:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.treadlyte.mainapp:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.treadlyte.mainapp:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.treadlyte.mainapp:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.treadlyte.mainapp:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -6931,37 +6923,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100fd, 0x7f0100fe, 0x7f0100ff
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarDivider
+          @attr name com.treadlyte.mainapp:actionBarDivider
         */
         public static final int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarItemBackground
+          @attr name com.treadlyte.mainapp:actionBarItemBackground
         */
         public static final int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarPopupTheme
+          @attr name com.treadlyte.mainapp:actionBarPopupTheme
         */
         public static final int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6981,111 +6973,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:actionBarSize
+          @attr name com.treadlyte.mainapp:actionBarSize
         */
         public static final int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarSplitStyle
+          @attr name com.treadlyte.mainapp:actionBarSplitStyle
         */
         public static final int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarStyle
+          @attr name com.treadlyte.mainapp:actionBarStyle
         */
         public static final int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarTabBarStyle
+          @attr name com.treadlyte.mainapp:actionBarTabBarStyle
         */
         public static final int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarTabStyle
+          @attr name com.treadlyte.mainapp:actionBarTabStyle
         */
         public static final int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarTabTextStyle
+          @attr name com.treadlyte.mainapp:actionBarTabTextStyle
         */
         public static final int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarTheme
+          @attr name com.treadlyte.mainapp:actionBarTheme
         */
         public static final int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionBarWidgetTheme
+          @attr name com.treadlyte.mainapp:actionBarWidgetTheme
         */
         public static final int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionButtonStyle
+          @attr name com.treadlyte.mainapp:actionButtonStyle
         */
         public static final int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionDropDownStyle
+          @attr name com.treadlyte.mainapp:actionDropDownStyle
         */
         public static final int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionMenuTextAppearance
+          @attr name com.treadlyte.mainapp:actionMenuTextAppearance
         */
         public static final int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7093,181 +7085,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:actionMenuTextColor
+          @attr name com.treadlyte.mainapp:actionMenuTextColor
         */
         public static final int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeBackground
+          @attr name com.treadlyte.mainapp:actionModeBackground
         */
         public static final int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeCloseButtonStyle
+          @attr name com.treadlyte.mainapp:actionModeCloseButtonStyle
         */
         public static final int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeCloseDrawable
+          @attr name com.treadlyte.mainapp:actionModeCloseDrawable
         */
         public static final int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeCopyDrawable
+          @attr name com.treadlyte.mainapp:actionModeCopyDrawable
         */
         public static final int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeCutDrawable
+          @attr name com.treadlyte.mainapp:actionModeCutDrawable
         */
         public static final int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeFindDrawable
+          @attr name com.treadlyte.mainapp:actionModeFindDrawable
         */
         public static final int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModePasteDrawable
+          @attr name com.treadlyte.mainapp:actionModePasteDrawable
         */
         public static final int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModePopupWindowStyle
+          @attr name com.treadlyte.mainapp:actionModePopupWindowStyle
         */
         public static final int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeSelectAllDrawable
+          @attr name com.treadlyte.mainapp:actionModeSelectAllDrawable
         */
         public static final int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeShareDrawable
+          @attr name com.treadlyte.mainapp:actionModeShareDrawable
         */
         public static final int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeSplitBackground
+          @attr name com.treadlyte.mainapp:actionModeSplitBackground
         */
         public static final int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeStyle
+          @attr name com.treadlyte.mainapp:actionModeStyle
         */
         public static final int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionModeWebSearchDrawable
+          @attr name com.treadlyte.mainapp:actionModeWebSearchDrawable
         */
         public static final int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionOverflowButtonStyle
+          @attr name com.treadlyte.mainapp:actionOverflowButtonStyle
         */
         public static final int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:actionOverflowMenuStyle
+          @attr name com.treadlyte.mainapp:actionOverflowMenuStyle
         */
         public static final int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:activityChooserViewStyle
+          @attr name com.treadlyte.mainapp:activityChooserViewStyle
         */
         public static final int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:alertDialogButtonGroupStyle
+          @attr name com.treadlyte.mainapp:alertDialogButtonGroupStyle
         */
         public static final int Theme_alertDialogButtonGroupStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7277,27 +7269,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:alertDialogCenterButtons
+          @attr name com.treadlyte.mainapp:alertDialogCenterButtons
         */
         public static final int Theme_alertDialogCenterButtons = 91;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:alertDialogStyle
+          @attr name com.treadlyte.mainapp:alertDialogStyle
         */
         public static final int Theme_alertDialogStyle = 89;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:alertDialogTheme
+          @attr name com.treadlyte.mainapp:alertDialogTheme
         */
         public static final int Theme_alertDialogTheme = 92;
         /**
@@ -7313,117 +7305,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:autoCompleteTextViewStyle
+          @attr name com.treadlyte.mainapp:autoCompleteTextViewStyle
         */
         public static final int Theme_autoCompleteTextViewStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:borderlessButtonStyle
+          @attr name com.treadlyte.mainapp:borderlessButtonStyle
         */
         public static final int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonBarButtonStyle
+          @attr name com.treadlyte.mainapp:buttonBarButtonStyle
         */
         public static final int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonBarNegativeButtonStyle
+          @attr name com.treadlyte.mainapp:buttonBarNegativeButtonStyle
         */
         public static final int Theme_buttonBarNegativeButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonBarNeutralButtonStyle
+          @attr name com.treadlyte.mainapp:buttonBarNeutralButtonStyle
         */
         public static final int Theme_buttonBarNeutralButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonBarPositiveButtonStyle
+          @attr name com.treadlyte.mainapp:buttonBarPositiveButtonStyle
         */
         public static final int Theme_buttonBarPositiveButtonStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonBarStyle
+          @attr name com.treadlyte.mainapp:buttonBarStyle
         */
         public static final int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonStyle
+          @attr name com.treadlyte.mainapp:buttonStyle
         */
         public static final int Theme_buttonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:buttonStyleSmall
+          @attr name com.treadlyte.mainapp:buttonStyleSmall
         */
         public static final int Theme_buttonStyleSmall = 99;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:checkboxStyle
+          @attr name com.treadlyte.mainapp:checkboxStyle
         */
         public static final int Theme_checkboxStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:checkedTextViewStyle
+          @attr name com.treadlyte.mainapp:checkedTextViewStyle
         */
         public static final int Theme_checkedTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7434,11 +7426,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorAccent
+          @attr name com.treadlyte.mainapp:colorAccent
         */
         public static final int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7449,11 +7441,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorButtonNormal
+          @attr name com.treadlyte.mainapp:colorButtonNormal
         */
         public static final int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7464,11 +7456,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorControlActivated
+          @attr name com.treadlyte.mainapp:colorControlActivated
         */
         public static final int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7479,11 +7471,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorControlHighlight
+          @attr name com.treadlyte.mainapp:colorControlHighlight
         */
         public static final int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7494,11 +7486,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorControlNormal
+          @attr name com.treadlyte.mainapp:colorControlNormal
         */
         public static final int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7509,11 +7501,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorPrimary
+          @attr name com.treadlyte.mainapp:colorPrimary
         */
         public static final int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7524,11 +7516,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorPrimaryDark
+          @attr name com.treadlyte.mainapp:colorPrimaryDark
         */
         public static final int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7539,11 +7531,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:colorSwitchThumbNormal
+          @attr name com.treadlyte.mainapp:colorSwitchThumbNormal
         */
         public static final int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7555,51 +7547,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:dialogPreferredPadding
+          @attr name com.treadlyte.mainapp:dialogPreferredPadding
         */
         public static final int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:dialogTheme
+          @attr name com.treadlyte.mainapp:dialogTheme
         */
         public static final int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:dividerHorizontal
+          @attr name com.treadlyte.mainapp:dividerHorizontal
         */
         public static final int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:dividerVertical
+          @attr name com.treadlyte.mainapp:dividerVertical
         */
         public static final int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:dropDownListViewStyle
+          @attr name com.treadlyte.mainapp:dropDownListViewStyle
         */
         public static final int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7611,21 +7603,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:dropdownListPreferredItemHeight
+          @attr name com.treadlyte.mainapp:dropdownListPreferredItemHeight
         */
         public static final int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:editTextBackground
+          @attr name com.treadlyte.mainapp:editTextBackground
         */
         public static final int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7633,61 +7625,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:editTextColor
+          @attr name com.treadlyte.mainapp:editTextColor
         */
         public static final int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:editTextStyle
+          @attr name com.treadlyte.mainapp:editTextStyle
         */
         public static final int Theme_editTextStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:homeAsUpIndicator
+          @attr name com.treadlyte.mainapp:homeAsUpIndicator
         */
         public static final int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:listChoiceBackgroundIndicator
+          @attr name com.treadlyte.mainapp:listChoiceBackgroundIndicator
         */
         public static final int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:listDividerAlertDialog
+          @attr name com.treadlyte.mainapp:listDividerAlertDialog
         */
         public static final int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:listPopupWindowStyle
+          @attr name com.treadlyte.mainapp:listPopupWindowStyle
         */
         public static final int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7699,11 +7691,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:listPreferredItemHeight
+          @attr name com.treadlyte.mainapp:listPreferredItemHeight
         */
         public static final int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7715,11 +7707,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:listPreferredItemHeightLarge
+          @attr name com.treadlyte.mainapp:listPreferredItemHeightLarge
         */
         public static final int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7731,11 +7723,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:listPreferredItemHeightSmall
+          @attr name com.treadlyte.mainapp:listPreferredItemHeightSmall
         */
         public static final int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7747,11 +7739,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:listPreferredItemPaddingLeft
+          @attr name com.treadlyte.mainapp:listPreferredItemPaddingLeft
         */
         public static final int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7763,31 +7755,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:listPreferredItemPaddingRight
+          @attr name com.treadlyte.mainapp:listPreferredItemPaddingRight
         */
         public static final int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:panelBackground
+          @attr name com.treadlyte.mainapp:panelBackground
         */
         public static final int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:panelMenuListTheme
+          @attr name com.treadlyte.mainapp:panelMenuListTheme
         */
         public static final int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7799,171 +7791,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:panelMenuListWidth
+          @attr name com.treadlyte.mainapp:panelMenuListWidth
         */
         public static final int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:popupMenuStyle
+          @attr name com.treadlyte.mainapp:popupMenuStyle
         */
         public static final int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:popupWindowStyle
+          @attr name com.treadlyte.mainapp:popupWindowStyle
         */
         public static final int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:radioButtonStyle
+          @attr name com.treadlyte.mainapp:radioButtonStyle
         */
         public static final int Theme_radioButtonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:ratingBarStyle
+          @attr name com.treadlyte.mainapp:ratingBarStyle
         */
         public static final int Theme_ratingBarStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:searchViewStyle
+          @attr name com.treadlyte.mainapp:searchViewStyle
         */
         public static final int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:selectableItemBackground
+          @attr name com.treadlyte.mainapp:selectableItemBackground
         */
         public static final int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:selectableItemBackgroundBorderless
+          @attr name com.treadlyte.mainapp:selectableItemBackgroundBorderless
         */
         public static final int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:spinnerDropDownItemStyle
+          @attr name com.treadlyte.mainapp:spinnerDropDownItemStyle
         */
         public static final int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:spinnerStyle
+          @attr name com.treadlyte.mainapp:spinnerStyle
         */
         public static final int Theme_spinnerStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:switchStyle
+          @attr name com.treadlyte.mainapp:switchStyle
         */
         public static final int Theme_switchStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:textAppearanceLargePopupMenu
+          @attr name com.treadlyte.mainapp:textAppearanceLargePopupMenu
         */
         public static final int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:textAppearanceListItem
+          @attr name com.treadlyte.mainapp:textAppearanceListItem
         */
         public static final int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:textAppearanceListItemSmall
+          @attr name com.treadlyte.mainapp:textAppearanceListItemSmall
         */
         public static final int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:textAppearanceSearchResultSubtitle
+          @attr name com.treadlyte.mainapp:textAppearanceSearchResultSubtitle
         */
         public static final int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:textAppearanceSearchResultTitle
+          @attr name com.treadlyte.mainapp:textAppearanceSearchResultTitle
         */
         public static final int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:textAppearanceSmallPopupMenu
+          @attr name com.treadlyte.mainapp:textAppearanceSmallPopupMenu
         */
         public static final int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7971,11 +7963,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:textColorAlertDialogListItem
+          @attr name com.treadlyte.mainapp:textColorAlertDialogListItem
         */
         public static final int Theme_textColorAlertDialogListItem = 93;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -7983,31 +7975,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.mainapp.treadlyte:textColorSearchUrl
+          @attr name com.treadlyte.mainapp:textColorSearchUrl
         */
         public static final int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:toolbarNavigationButtonStyle
+          @attr name com.treadlyte.mainapp:toolbarNavigationButtonStyle
         */
         public static final int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:toolbarStyle
+          @attr name com.treadlyte.mainapp:toolbarStyle
         */
         public static final int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8017,11 +8009,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowActionBar
+          @attr name com.treadlyte.mainapp:windowActionBar
         */
         public static final int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8031,11 +8023,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowActionBarOverlay
+          @attr name com.treadlyte.mainapp:windowActionBarOverlay
         */
         public static final int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8045,11 +8037,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowActionModeOverlay
+          @attr name com.treadlyte.mainapp:windowActionModeOverlay
         */
         public static final int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8064,11 +8056,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowFixedHeightMajor
+          @attr name com.treadlyte.mainapp:windowFixedHeightMajor
         */
         public static final int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8083,11 +8075,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowFixedHeightMinor
+          @attr name com.treadlyte.mainapp:windowFixedHeightMinor
         */
         public static final int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8102,11 +8094,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowFixedWidthMajor
+          @attr name com.treadlyte.mainapp:windowFixedWidthMajor
         */
         public static final int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8121,11 +8113,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowFixedWidthMinor
+          @attr name com.treadlyte.mainapp:windowFixedWidthMinor
         */
         public static final int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8140,11 +8132,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowMinWidthMajor
+          @attr name com.treadlyte.mainapp:windowMinWidthMajor
         */
         public static final int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8159,11 +8151,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowMinWidthMinor
+          @attr name com.treadlyte.mainapp:windowMinWidthMinor
         */
         public static final int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -8173,7 +8165,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:windowNoTitle
+          @attr name com.treadlyte.mainapp:windowNoTitle
         */
         public static final int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -8184,25 +8176,25 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.mainapp.treadlyte:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.mainapp.treadlyte:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.mainapp.treadlyte:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.mainapp.treadlyte:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.mainapp.treadlyte:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.mainapp.treadlyte:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.mainapp.treadlyte:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.mainapp.treadlyte:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.mainapp.treadlyte:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.mainapp.treadlyte:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.mainapp.treadlyte:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.mainapp.treadlyte:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.mainapp.treadlyte:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.mainapp.treadlyte:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.mainapp.treadlyte:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.mainapp.treadlyte:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.mainapp.treadlyte:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.mainapp.treadlyte:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.mainapp.treadlyte:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.treadlyte.mainapp:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.treadlyte.mainapp:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.treadlyte.mainapp:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.treadlyte.mainapp:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.treadlyte.mainapp:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.treadlyte.mainapp:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.treadlyte.mainapp:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.treadlyte.mainapp:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.treadlyte.mainapp:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.treadlyte.mainapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.treadlyte.mainapp:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.treadlyte.mainapp:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.treadlyte.mainapp:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.treadlyte.mainapp:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.treadlyte.mainapp:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.treadlyte.mainapp:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.treadlyte.mainapp:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.treadlyte.mainapp:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.treadlyte.mainapp:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -8247,7 +8239,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8257,21 +8249,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:collapseContentDescription
+          @attr name com.treadlyte.mainapp:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 18;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:collapseIcon
+          @attr name com.treadlyte.mainapp:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 17;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8283,11 +8275,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetEnd
+          @attr name com.treadlyte.mainapp:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8299,11 +8291,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetLeft
+          @attr name com.treadlyte.mainapp:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8315,11 +8307,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetRight
+          @attr name com.treadlyte.mainapp:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8331,11 +8323,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:contentInsetStart
+          @attr name com.treadlyte.mainapp:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8347,11 +8339,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:maxButtonHeight
+          @attr name com.treadlyte.mainapp:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8361,31 +8353,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:navigationContentDescription
+          @attr name com.treadlyte.mainapp:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 20;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:navigationIcon
+          @attr name com.treadlyte.mainapp:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 19;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:popupTheme
+          @attr name com.treadlyte.mainapp:popupTheme
         */
         public static final int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8395,21 +8387,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:subtitle
+          @attr name com.treadlyte.mainapp:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:subtitleTextAppearance
+          @attr name com.treadlyte.mainapp:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#title}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8419,11 +8411,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:title
+          @attr name com.treadlyte.mainapp:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8435,11 +8427,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:titleMarginBottom
+          @attr name com.treadlyte.mainapp:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8451,11 +8443,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:titleMarginEnd
+          @attr name com.treadlyte.mainapp:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8467,11 +8459,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:titleMarginStart
+          @attr name com.treadlyte.mainapp:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8483,11 +8475,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:titleMarginTop
+          @attr name com.treadlyte.mainapp:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -8499,17 +8491,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:titleMargins
+          @attr name com.treadlyte.mainapp:titleMargins
         */
         public static final int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:titleTextAppearance
+          @attr name com.treadlyte.mainapp:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -8520,11 +8512,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTint com.mainapp.treadlyte:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_backgroundTintMode com.mainapp.treadlyte:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.mainapp.treadlyte:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.mainapp.treadlyte:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.mainapp.treadlyte:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_backgroundTint com.treadlyte.mainapp:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_backgroundTintMode com.treadlyte.mainapp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.treadlyte.mainapp:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.treadlyte.mainapp:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.treadlyte.mainapp:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -8551,7 +8543,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundTint}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8562,11 +8554,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:backgroundTint
+          @attr name com.treadlyte.mainapp:backgroundTint
         */
         public static final int View_backgroundTint = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8582,11 +8574,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:backgroundTintMode
+          @attr name com.treadlyte.mainapp:backgroundTintMode
         */
         public static final int View_backgroundTintMode = 6;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8598,11 +8590,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:paddingEnd
+          @attr name com.treadlyte.mainapp:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -8614,17 +8606,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:paddingStart
+          @attr name com.treadlyte.mainapp:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.mainapp.treadlyte:theme
+          @attr name com.treadlyte.mainapp:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewStubCompat.
@@ -8668,12 +8660,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.mainapp.treadlyte:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.mainapp.treadlyte:com_facebook_foreground_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.mainapp.treadlyte:com_facebook_horizontal_alignment}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.mainapp.treadlyte:com_facebook_object_id}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.mainapp.treadlyte:com_facebook_object_type}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.mainapp.treadlyte:com_facebook_style}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_auxiliary_view_position com.treadlyte.mainapp:com_facebook_auxiliary_view_position}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_foreground_color com.treadlyte.mainapp:com_facebook_foreground_color}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_horizontal_alignment com.treadlyte.mainapp:com_facebook_horizontal_alignment}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_id com.treadlyte.mainapp:com_facebook_object_id}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_object_type com.treadlyte.mainapp:com_facebook_object_type}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_like_view_com_facebook_style com.treadlyte.mainapp:com_facebook_style}</code></td><td></td></tr>
            </table>
            @see #com_facebook_like_view_com_facebook_auxiliary_view_position
            @see #com_facebook_like_view_com_facebook_foreground_color
@@ -8687,7 +8679,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010115, 0x7f010116
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_auxiliary_view_position}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_auxiliary_view_position}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -8701,11 +8693,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>inline</code></td><td>1</td><td></td></tr>
 <tr><td><code>top</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:com_facebook_auxiliary_view_position
+          @attr name com.treadlyte.mainapp:com_facebook_auxiliary_view_position
         */
         public static final int com_facebook_like_view_com_facebook_auxiliary_view_position = 4;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_foreground_color}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_foreground_color}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -8716,11 +8708,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:com_facebook_foreground_color
+          @attr name com.treadlyte.mainapp:com_facebook_foreground_color
         */
         public static final int com_facebook_like_view_com_facebook_foreground_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_horizontal_alignment}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_horizontal_alignment}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -8734,11 +8726,11 @@ containing a value of this type.
 <tr><td><code>left</code></td><td>1</td><td></td></tr>
 <tr><td><code>right</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:com_facebook_horizontal_alignment
+          @attr name com.treadlyte.mainapp:com_facebook_horizontal_alignment
         */
         public static final int com_facebook_like_view_com_facebook_horizontal_alignment = 5;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_object_id}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_object_id}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -8748,11 +8740,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:com_facebook_object_id
+          @attr name com.treadlyte.mainapp:com_facebook_object_id
         */
         public static final int com_facebook_like_view_com_facebook_object_id = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_object_type}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_object_type}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -8766,11 +8758,11 @@ containing a value of this type.
 <tr><td><code>open_graph</code></td><td>1</td><td></td></tr>
 <tr><td><code>page</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:com_facebook_object_type
+          @attr name com.treadlyte.mainapp:com_facebook_object_type
         */
         public static final int com_facebook_like_view_com_facebook_object_type = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_style}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_style}
           attribute's value can be found in the {@link #com_facebook_like_view} array.
 
 
@@ -8784,7 +8776,7 @@ containing a value of this type.
 <tr><td><code>button</code></td><td>1</td><td></td></tr>
 <tr><td><code>box_count</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:com_facebook_style
+          @attr name com.treadlyte.mainapp:com_facebook_style
         */
         public static final int com_facebook_like_view_com_facebook_style = 3;
         /** Attributes that can be used with a com_facebook_login_view.
@@ -8793,10 +8785,10 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.mainapp.treadlyte:com_facebook_confirm_logout}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.mainapp.treadlyte:com_facebook_login_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.mainapp.treadlyte:com_facebook_logout_text}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.mainapp.treadlyte:com_facebook_tooltip_mode}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_confirm_logout com.treadlyte.mainapp:com_facebook_confirm_logout}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_login_text com.treadlyte.mainapp:com_facebook_login_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_logout_text com.treadlyte.mainapp:com_facebook_logout_text}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_login_view_com_facebook_tooltip_mode com.treadlyte.mainapp:com_facebook_tooltip_mode}</code></td><td></td></tr>
            </table>
            @see #com_facebook_login_view_com_facebook_confirm_logout
            @see #com_facebook_login_view_com_facebook_login_text
@@ -8807,7 +8799,7 @@ containing a value of this type.
             0x7f010117, 0x7f010118, 0x7f010119, 0x7f01011a
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_confirm_logout}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_confirm_logout}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -8817,11 +8809,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:com_facebook_confirm_logout
+          @attr name com.treadlyte.mainapp:com_facebook_confirm_logout
         */
         public static final int com_facebook_login_view_com_facebook_confirm_logout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_login_text}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_login_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -8831,11 +8823,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:com_facebook_login_text
+          @attr name com.treadlyte.mainapp:com_facebook_login_text
         */
         public static final int com_facebook_login_view_com_facebook_login_text = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_logout_text}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_logout_text}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -8845,11 +8837,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:com_facebook_logout_text
+          @attr name com.treadlyte.mainapp:com_facebook_logout_text
         */
         public static final int com_facebook_login_view_com_facebook_logout_text = 2;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_tooltip_mode}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_tooltip_mode}
           attribute's value can be found in the {@link #com_facebook_login_view} array.
 
 
@@ -8863,7 +8855,7 @@ containing a value of this type.
 <tr><td><code>display_always</code></td><td>1</td><td></td></tr>
 <tr><td><code>never_display</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:com_facebook_tooltip_mode
+          @attr name com.treadlyte.mainapp:com_facebook_tooltip_mode
         */
         public static final int com_facebook_login_view_com_facebook_tooltip_mode = 3;
         /** Attributes that can be used with a com_facebook_profile_picture_view.
@@ -8872,8 +8864,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.mainapp.treadlyte:com_facebook_is_cropped}</code></td><td></td></tr>
-           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.mainapp.treadlyte:com_facebook_preset_size}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_is_cropped com.treadlyte.mainapp:com_facebook_is_cropped}</code></td><td></td></tr>
+           <tr><td><code>{@link #com_facebook_profile_picture_view_com_facebook_preset_size com.treadlyte.mainapp:com_facebook_preset_size}</code></td><td></td></tr>
            </table>
            @see #com_facebook_profile_picture_view_com_facebook_is_cropped
            @see #com_facebook_profile_picture_view_com_facebook_preset_size
@@ -8882,7 +8874,7 @@ containing a value of this type.
             0x7f01011b, 0x7f01011c
         };
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_is_cropped}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_is_cropped}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -8892,11 +8884,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.mainapp.treadlyte:com_facebook_is_cropped
+          @attr name com.treadlyte.mainapp:com_facebook_is_cropped
         */
         public static final int com_facebook_profile_picture_view_com_facebook_is_cropped = 1;
         /**
-          <p>This symbol is the offset where the {@link com.mainapp.treadlyte.R.attr#com_facebook_preset_size}
+          <p>This symbol is the offset where the {@link com.treadlyte.mainapp.R.attr#com_facebook_preset_size}
           attribute's value can be found in the {@link #com_facebook_profile_picture_view} array.
 
 
@@ -8910,7 +8902,7 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>-3</td><td></td></tr>
 <tr><td><code>large</code></td><td>-4</td><td></td></tr>
 </table>
-          @attr name com.mainapp.treadlyte:com_facebook_preset_size
+          @attr name com.treadlyte.mainapp:com_facebook_preset_size
         */
         public static final int com_facebook_profile_picture_view_com_facebook_preset_size = 0;
     };

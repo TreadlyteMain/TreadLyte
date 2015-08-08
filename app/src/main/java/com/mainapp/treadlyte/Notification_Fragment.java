@@ -14,6 +14,8 @@ import android.widget.TextView;
  */
 public class Notification_Fragment extends Fragment {
 
+    public static final String TAG = "notificationFragment";
+
 
     public Notification_Fragment() {
         // Required empty public constructor
@@ -24,7 +26,7 @@ public class Notification_Fragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         TextView textView = new TextView(getActivity());
-        textView.setText(R.string.hello_blank_fragment);
+        textView.setText("Porn Notifications");
         return textView;
     }
 

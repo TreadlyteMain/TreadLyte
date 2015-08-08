@@ -2,7 +2,7 @@ package com.mainapp.treadlyte;
 
 
 import android.os.Bundle;
-import android.support.v4.app.Fragment;
+import android.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -14,6 +14,8 @@ import android.widget.TextView;
  */
 public class Messaging_Fragment extends Fragment {
 
+    public static final String TAG = "messagingFragment";
+
 
     public Messaging_Fragment() {
         // Required empty public constructor
@@ -24,7 +26,7 @@ public class Messaging_Fragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         TextView textView = new TextView(getActivity());
-        textView.setText("Messaging Fragment Boys");
+        textView.setText("This is your fucking fragment KADIN YOU PUNK ASS LITTLE NIGGA"); //TODO: This is your shit Kadin.
         return textView;
     }
 

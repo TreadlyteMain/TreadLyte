@@ -8,11 +8,20 @@
         android:id="@+id/navigationHeader"
         android:paddingTop="24dp">
 
-        <ImageView android:layout_width="64dp" android:layout_height="64dp"
-            android:id="@+id/imgAvatar" android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true" android:layout_alignParentStart="true"
-            android:layout_marginLeft="16dp" android:layout_marginTop="16dp"
-            android:layout_marginBottom="8dp" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/imgAvatar"
+            android:layout_width="96dp"
+            android:layout_height="96dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="4dp"
+            android:layout_marginBottom="8dp"
+            app:border_width="2dp"
+            app:border_color="#FFFFFF"/>
 
         <LinearLayout android:orientation="vertical" android:layout_width="fill_parent"
             android:layout_height="56dp" android:layout_alignParentLeft="true"
@@ -28,12 +37,12 @@
                 android:textStyle="bold"
                 android:textColor="@android:color/white" />
 
-            <TextView
+<!--            <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:id="@+id/txtUserEmail"
                 android:layout_weight="1"
-                android:textColor="@android:color/white" />
+                android:textColor="@android:color/white" />-->
         </LinearLayout>
     </RelativeLayout>
 

@@ -9,6 +9,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import de.hdodenhof.circleimageview.CircleImageView;
+
 
 public class Home_Activity extends AppCompatActivity
         implements NavigationDrawerCallbacks {
@@ -39,19 +41,22 @@ public class Home_Activity extends AppCompatActivity
     /**
      * Method to display toast to make sure position shit is working
      *
-     * ONLY FOR DEV YOU LITTLE PUNKS
+     * ONLY FOR DEV YOU LITTLE PUNKS Put.show on the end if you want it to work.
      *
      * @param position: To print out to the toast to show which one was pressed.
      */
     @Override
     public void onNavigationDrawerItemSelected(int position) {
         // update the main content by replacing fragments
-        Toast.makeText(this, "Menu item selected -> " + position, Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "Menu item selected -> " + position, Toast.LENGTH_SHORT);
     }
 
 
     @Override
     public void onBackPressed() {
+
+
+
         if (mNavigationDrawerFragment.isDrawerOpen())
             mNavigationDrawerFragment.closeDrawer();
         else

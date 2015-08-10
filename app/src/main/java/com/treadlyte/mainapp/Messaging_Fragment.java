@@ -25,9 +25,7 @@ public class Messaging_Fragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        TextView textView = new TextView(getActivity());
-        textView.setText("This is your fucking fragment KADIN YOU PUNK ASS LITTLE NIGGA"); //TODO: This is your shit Kadin.
-        return textView;
+        return inflater.inflate(R.layout.messaging_fragment, container, false);
     }
 
 

@@ -9,14 +9,15 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import de.hdodenhof.circleimageview.CircleImageView;
+import com.treadlyte.mainapp.NavigationDrawer.NavigationDrawerCallbacks;
+import com.treadlyte.mainapp.NavigationDrawer.NavigationDrawerFragment;
 
 
 public class Home_Activity extends AppCompatActivity
         implements NavigationDrawerCallbacks {
 
     /**
-     * Fragment managing the behaviors, interactions and presentation of the navigation drawer.
+     * Fragment managing the behaviors, interactions and presentation of the navigation NavigationDrawer.
      */
     private NavigationDrawerFragment mNavigationDrawerFragment;
     private Toolbar mToolbar;
@@ -31,9 +32,9 @@ public class Home_Activity extends AppCompatActivity
         mNavigationDrawerFragment = (NavigationDrawerFragment)
                 getFragmentManager().findFragmentById(R.id.fragment_drawer);
 
-        // Set up the drawer.
+        // Set up the NavigationDrawer.
         mNavigationDrawerFragment.setup(R.id.fragment_drawer, (DrawerLayout) findViewById(R.id.drawer), mToolbar);
-        // populate the navigation drawer
+        // populate the navigation NavigationDrawer
         mNavigationDrawerFragment.setUserData("Mitchell Hughes", "mitchell.hughes5491@outlook.com", BitmapFactory.decodeResource(getResources(), R.drawable.avatar));
     }
 
@@ -68,7 +69,7 @@ public class Home_Activity extends AppCompatActivity
     public boolean onCreateOptionsMenu(Menu menu) {
         if (!mNavigationDrawerFragment.isDrawerOpen()) {
             // Only show items in the action bar relevant to this screen
-            // if the drawer is not showing. Otherwise, let the drawer
+            // if the NavigationDrawer is not showing. Otherwise, let the NavigationDrawer
             // decide what to show in the action bar.
             getMenuInflater().inflate(R.menu.main, menu);
             return true;

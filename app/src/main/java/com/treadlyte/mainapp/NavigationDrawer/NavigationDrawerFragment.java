@@ -1,4 +1,4 @@
-package com.treadlyte.mainapp;
+package com.treadlyte.mainapp.NavigationDrawer;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -26,16 +26,24 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
+
+import com.treadlyte.mainapp.Explore_Fragment;
+import com.treadlyte.mainapp.Messaging_Fragment;
+import com.treadlyte.mainapp.Notification_Fragment;
+import com.treadlyte.mainapp.ProfileFragment;
+import com.treadlyte.mainapp.PurchasedItems_Fragment;
+import com.treadlyte.mainapp.R;
+import com.treadlyte.mainapp.Sell_Fragment;
+import com.treadlyte.mainapp.Settings_Fragment;
+import com.treadlyte.mainapp.SoldItems_Fragment;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 
 /**
- * Fragment used for managing interactions for and presentation of a navigation drawer.
+ * Fragment used for managing interactions for and presentation of a navigation NavigationDrawer.
  * Kadin: See the <a href="https://developer.android.com/design/patterns/navigation-drawer.html#Interaction">
  * design guidelines</a> for a complete explanation of the behaviors implemented here.
  */
@@ -47,7 +55,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
     private static final String STATE_SELECTED_POSITION = "selected_navigation_drawer_position";
 
     /**
-     * Per the design guidelines, you should show the drawer on launch until the user manually
+     * Per the design guidelines, you should show the NavigationDrawer on launch until the user manually
      * expands it. This shared preference tracks this.
      */
     private static final String PREF_USER_LEARNED_DRAWER = "navigation_drawer_learned";
@@ -58,7 +66,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
     private NavigationDrawerCallbacks mCallbacks;
 
     /**
-     * Helper component that ties the action bar to the navigation drawer.
+     * Helper component that ties the action bar to the navigation NavigationDrawer.
      */
     private ActionBarDrawerToggle mActionBarDrawerToggle;
 
@@ -78,7 +86,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
         super.onCreate(savedInstanceState);
 
         // Read in the flag indicating whether or not the user has demonstrated awareness of the
-        // drawer. See PREF_USER_LEARNED_DRAWER for details.
+        // NavigationDrawer. See PREF_USER_LEARNED_DRAWER for details.
         SharedPreferences sp = PreferenceManager.getDefaultSharedPreferences(getActivity());
         mUserLearnedDrawer = sp.getBoolean(PREF_USER_LEARNED_DRAWER, false);
 
@@ -133,7 +141,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
     }
 
     /**
-     * This method changes behaviour to the clicks on the drawer.
+     * This method changes behaviour to the clicks on the NavigationDrawer.
      *
      * @param position: The position that is clicked.
      */
@@ -205,7 +213,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
     }
 
     /*
-    This list for for the fucking drawer. Add shit if need be. Remember access to these is indexed by position
+    This list for for the fucking NavigationDrawer. Add shit if need be. Remember access to these is indexed by position
 
     */
     public List<NavigationItem> getMenu() {
@@ -222,7 +230,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
     }
 
     /**
-     * Users of this fragment must call this method to set up the navigation drawer interactions.
+     * Users of this fragment must call this method to set up the navigation NavigationDrawer interactions.
      *
      * @param fragmentId   The android:id of this fragment in its activity's layout.
      * @param drawerLayout The DrawerLayout containing this fragment's UI.
@@ -257,8 +265,8 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
             }
         };
 
-        // If the user hasn't 'learned' about the drawer, open it to introduce them to the drawer,
-        // per the navigation drawer design guidelines.
+        // If the user hasn't 'learned' about the NavigationDrawer, open it to introduce them to the NavigationDrawer,
+        // per the navigation NavigationDrawer design guidelines.
         if (!mUserLearnedDrawer && !mFromSavedInstanceState) {
             mDrawerLayout.openDrawer(mFragmentContainerView);
         }
@@ -318,7 +326,7 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
     @Override
     public void onConfigurationChanged(Configuration newConfig) {
         super.onConfigurationChanged(newConfig);
-        // Forward the new configuration the drawer toggle component.
+        // Forward the new configuration the NavigationDrawer toggle component.
         mActionBarDrawerToggle.onConfigurationChanged(newConfig);
     }
 

@@ -9,6 +9,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
+import com.facebook.FacebookSdk;
 import com.treadlyte.mainapp.NavigationDrawer.NavigationDrawerCallbacks;
 import com.treadlyte.mainapp.NavigationDrawer.NavigationDrawerFragment;
 
@@ -25,6 +26,7 @@ public class Home_Activity extends AppCompatActivity
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        FacebookSdk.sdkInitialize(getApplicationContext()); //TODO: Add integration with drawer here.
         setContentView(R.layout.activity_main);
         mToolbar = (Toolbar) findViewById(R.id.toolbar_actionbar);
         setSupportActionBar(mToolbar);
@@ -35,6 +37,12 @@ public class Home_Activity extends AppCompatActivity
         // Set up the NavigationDrawer.
         mNavigationDrawerFragment.setup(R.id.fragment_drawer, (DrawerLayout) findViewById(R.id.drawer), mToolbar);
         // populate the navigation NavigationDrawer
+
+
+
+
+
+        //
         mNavigationDrawerFragment.setUserData("Mitchell Hughes", "mitchell.hughes5491@outlook.com", BitmapFactory.decodeResource(getResources(), R.drawable.avatar));
     }
 

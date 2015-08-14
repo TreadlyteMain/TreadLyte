@@ -1,7 +1,7 @@
 package com.treadlyte.mainapp;
 
 import android.content.Intent;
-import android.support.v4.app.Fragment;// TODO: Sort this out
+import android.support.v4.app.Fragment;//Facebook is using support fragment, so HAVE to use this. Hopefully Facebook sorts this soon
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -45,8 +45,6 @@ public class LoginFragment extends Fragment
     private ProfileTracker mProfileTracker;
     private static final String TAG = "LoginFragment";
     private boolean isLoggedIn;
-
-    private UserProfileObject test;
 
     private FacebookCallback<LoginResult> mCallback = new FacebookCallback<LoginResult>() {
         @Override

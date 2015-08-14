@@ -30,7 +30,7 @@ public class Hash_key extends Application {
         // Add code to print out the key hash
         try {
             PackageInfo info = getPackageManager().getPackageInfo(
-                    "com.mainapp.treadlyte",
+                    "com.treadlyte.mainapp",
                     PackageManager.GET_SIGNATURES);
             for (Signature signature : info.signatures) {
                 MessageDigest md = MessageDigest.getInstance("SHA");

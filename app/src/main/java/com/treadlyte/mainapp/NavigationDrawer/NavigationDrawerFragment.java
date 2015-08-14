@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.treadlyte.mainapp.BlankFragment;
+import com.treadlyte.mainapp.ProfileFragment;
 import com.treadlyte.mainapp.Explore_Fragment;
 import com.treadlyte.mainapp.Messaging_Fragment;
 import com.treadlyte.mainapp.Notification_Fragment;
@@ -120,8 +120,8 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
         mCircleImageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Fragment fragment = new BlankFragment();
-                getFragmentManager().beginTransaction().replace(R.id.container,fragment,BlankFragment.TAG).commit();
+                Fragment fragment = new ProfileFragment();
+                getFragmentManager().beginTransaction().replace(R.id.container,fragment, ProfileFragment.TAG).commit();
                 closeDrawer();
             }
         });

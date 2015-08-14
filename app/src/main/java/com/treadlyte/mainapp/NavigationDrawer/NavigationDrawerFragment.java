@@ -27,7 +27,6 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.treadlyte.mainapp.ProfileFragment;
 import com.treadlyte.mainapp.Explore_Fragment;
 import com.treadlyte.mainapp.Messaging_Fragment;
 import com.treadlyte.mainapp.Notification_Fragment;
@@ -36,6 +35,7 @@ import com.treadlyte.mainapp.R;
 import com.treadlyte.mainapp.Sell_Fragment;
 import com.treadlyte.mainapp.Settings_Fragment;
 import com.treadlyte.mainapp.SoldItems_Fragment;
+import com.treadlyte.mainapp.profileFragment;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -120,8 +120,8 @@ public class NavigationDrawerFragment extends Fragment implements NavigationDraw
         mCircleImageView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Fragment fragment = new ProfileFragment();
-                getFragmentManager().beginTransaction().replace(R.id.container,fragment, ProfileFragment.TAG).commit();
+                Fragment fragment = new profileFragment();
+                getFragmentManager().beginTransaction().replace(R.id.container,fragment, profileFragment.TAG).commit();
                 closeDrawer();
             }
         });

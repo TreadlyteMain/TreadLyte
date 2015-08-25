@@ -57,7 +57,7 @@ public class MessagingActivity extends Activity {
 
         messageBodyField = (EditText) findViewById(R.id.messageBodyField);
 
-        findViewById(R.id.btnSend).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.sendButton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 sendMessage();

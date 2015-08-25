@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.os.Bundle;
 import android.support.v4.content.LocalBroadcastManager;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -19,6 +20,10 @@ import com.parse.FindCallback;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.treadlyte.mainapp.R;
+import com.treadlyte.mainapp.TreadApplication;
+
+import org.json.JSONException;
+import org.json.JSONObject;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -29,7 +34,6 @@ public class ListUsersActivity extends Activity {
     private ArrayAdapter<String> namesArrayAdapter;
     private ArrayList<String> names;
     private ListView usersListView;
-    private Button logoutButton;
     private ProgressDialog progressDialog;
     private BroadcastReceiver receiver = null;
 
@@ -39,7 +43,6 @@ public class ListUsersActivity extends Activity {
         setContentView(R.layout.activity_list_users);
 
         showSpinner();
-
     }
 
     //display clickable a list of all users

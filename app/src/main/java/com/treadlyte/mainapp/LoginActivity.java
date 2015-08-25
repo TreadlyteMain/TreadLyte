@@ -285,5 +285,11 @@ public class LoginActivity extends AppCompatActivity
         startActivity(i);
     }
 
+    @Override
+    public void onDestroy() {
+        stopService(new Intent(this, MessageService.class));
+        super.onDestroy();
+    }
+
 
 }

@@ -36,28 +36,4 @@ public class TreadApplication extends Application {
         //Set up Parse FB shit
         ParseFacebookUtils.initialize(getApplicationContext());
     }
-
-    /**
-     * This method is for printing out the hashkey for facebook authentication.
-     * GET RID OF THIS, DON"T NEED IT
-     *
-     */
-    public void printHashKey() {
-
-        // Add code to print out the key hash
-        try {
-            PackageInfo info = getPackageManager().getPackageInfo(
-                    "com.treadlyte.mainapp",
-                    PackageManager.GET_SIGNATURES);
-            for (Signature signature : info.signatures) {
-                MessageDigest md = MessageDigest.getInstance("SHA");
-                md.update(signature.toByteArray());
-                Log.d("KeyHash:", Base64.encodeToString(md.digest(), Base64.DEFAULT));
-            }
-        } catch (PackageManager.NameNotFoundException e) {
-
-        } catch (NoSuchAlgorithmException e) {
-
-        }
-    }
 }

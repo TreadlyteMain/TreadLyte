@@ -11,7 +11,7 @@ import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 
 import com.google.android.gms.gcm.GcmListenerService;
-import com.treadlyte.mainapp.Messaging_Fragment;
+import com.treadlyte.mainapp.messaging.MessagingActivity;
 import com.treadlyte.mainapp.R;
 
 /**
@@ -51,7 +51,7 @@ public class MyGcmListenerService extends GcmListenerService {
      * @param message GCM message received.
      */
     private void sendNotification(String message) {
-        Intent intent = new Intent(this, Messaging_Fragment.class);
+        Intent intent = new Intent(this, MessagingActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
         PendingIntent pendingIntent = PendingIntent.getActivity(this, 0 /* Request code */, intent,
                 PendingIntent.FLAG_ONE_SHOT);

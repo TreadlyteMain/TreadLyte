@@ -2,61 +2,56 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.treadlyte.mainapp" >
 
-    <!--Parse needs this, as well as GCM -->
-    <uses-permission android:name="ANDROID.PERMISSION.INTERNET"/>
-
-    <uses-permission android:name="ANDROID.PERMISSION.WAKE_LOCK"/>
+    <!-- Parse needs this, as well as GCM -->
+    <uses-permission android:name="ANDROID.PERMISSION.INTERNET" />
+    <!--<uses-permission android:name="ANDROID.PERMISSION.WAKE_LOCK" /> -->
     <!-- Parse needs this -->
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-
-
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <!-- To retrieve OAuth 2.0 tokens or invalidate tokens to disconnect a user's Google account from an app -->
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
 
-
-    <!-- To retrieve the account name (email) as part of sign-in-->
+    <!-- To retrieve the account name (email) as part of sign-in -->
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
 
-    <permission android:name="com.treadlyte.mainapp.gcm.permission.C2D_MESSAGE"
-        android:protectionLevel="signature"/>
+    <permission
+        android:name="com.treadlyte.mainapp.gcm.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.treadlye.mainapp.gcm.permission.C2D_MESSAGE"/>
-
+    <uses-permission android:name="com.treadlye.mainapp.gcm.permission.C2D_MESSAGE" />
 
     <application
-        android:name=".Hash_key"
+        android:name=".TreadApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-
         <receiver
             android:name="com.google.android.gms.gcm.GcmReceiver"
             android:exported="true"
-            android:permission="com.google.android.c2dm.permission.SEND">
+            android:permission="com.google.android.c2dm.permission.SEND" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-                <category android:name="com.treadlyte.mainapp.gcm"/>
+
+                <category android:name="com.treadlyte.mainapp.gcm" />
             </intent-filter>
         </receiver>
-        <service android:name=".gcm.MyGcmListenerService"
-            android:exported="false">
+
+        <service
+            android:name=".gcm.MyGcmListenerService"
+            android:exported="false" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
             </intent-filter>
         </service>
-
         <service
             android:name=".gcm.MyInstanceIDListenerService"
-            android:exported="false">
+            android:exported="false" >
             <intent-filter>
-                <action android:name="com.google.android.gms.iid.InstanceID"/>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
             </intent-filter>
         </service>
-
-
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"
@@ -80,6 +75,19 @@
             android:name=".Home_Activity"
             android:label="@string/title_activity_home_" >
         </activity>
+
+        <activity android:name=".messaging.MessagingActivity"
+            android:label="MessagingActivity"
+            />
+
+        <activity android:name=".messaging.ListUsersActivity"
+            android:label="ListUsersActivity"/>
+
+        <service
+            android:name=".messaging.MessageService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
     </application>
 
 </manifest>

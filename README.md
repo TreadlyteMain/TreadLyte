@@ -9,3 +9,10 @@ TreadLyte is a high speed trading platform
 
 ### Version
 0.52
+
+
+#####CEO
+Richard Blakeney-Williams
+
+#####CMO
+Mitchell Hughes

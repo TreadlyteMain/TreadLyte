@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/explore_drawer_button"
+            android:icon="@drawable/ic_search"
+            android:title="Explore"
+            />
+
+        <item
+            android:id="@+id/messaging_drawer_button"
+            android:icon="@drawable/ic_messaging"
+            android:title="Messaging"
+            android:checked="true"
+            />
+
+        <item
+            android:id="@+id/sell_drawer_button"
+            android:icon="@drawable/ic_sell_camera"
+            android:title="Sell"
+            />
+
+        <item
+            android:id="@+id/notification_drawer_button"
+            android:icon="@drawable/ic_notifaction_warning"
+            android:title="Notifications"
+            />
+
+        <item
+            android:id="@+id/sold_drawer_button"
+            android:icon="@drawable/ic_sell"
+            android:title="Sold Items"
+            />
+
+        <item
+            android:id="@+id/purchased_drawer_button"
+            android:icon="@drawable/ic_purchased"
+            android:title="Purchased Items"
+            />
+
+        <item
+            android:id="@+id/settings_drawer_button"
+            android:icon="@drawable/ic_setting"
+            android:title="Settings"
+            />
+
+        <item
+            android:id="@+id/logout_drawer_button"
+            android:icon="@drawable/ic_keyboard_backspace_black_24dp"
+            android:title="Logout"/>
+    </group>
+</menu>

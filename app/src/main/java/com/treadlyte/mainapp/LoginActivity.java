@@ -1,5 +1,7 @@
 package com.treadlyte.mainapp;
 
+import android.app.Dialog;
+import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.IntentSender;
@@ -16,16 +18,20 @@ import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.api.Scope;
 import com.google.android.gms.plus.Plus;
 
-import com.parse.Parse;
-import com.parse.ParseObject;
+import com.parse.LogInCallback;
+import com.parse.ParseException;
+import com.parse.ParseFacebookUtils;
+import com.parse.ParseUser;
 
+import java.util.Arrays;
+import java.util.List;
 
 import com.treadlyte.mainapp.gcm.RegistrationIntentService;
-
+import com.treadlyte.mainapp.messaging.MessageService;
 
 
 /**
- * Activity for Logging in Google. The fragment attached to this activity logs in Facebook.
+ * Activity for Logging in with Google and Facebook. Logging in with Facebook is done using Parse.
  */
 public class LoginActivity extends AppCompatActivity
         implements View.OnClickListener,
@@ -51,21 +57,24 @@ public class LoginActivity extends AppCompatActivity
     /* Should we automatically resolve ConnectionResults when possible? */
     private boolean mShouldResolve = false;
 
+    private Dialog progressDialog;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.login_activity_main);
+        setContentView(R.layout.login_screen_);
 
-       // Enable Local Datastore.
-        Parse.enableLocalDatastore(this);
 
-        Parse.initialize(this, "FpLhJVvrU3NAJzzsZkWVLRLw0fleYUDFkGGsrjtX", "zYdReZv0NcHPxOWl01WrqgZAh8mOqKFNjK4qjNmV");
-
-        ParseObject testObject = new ParseObject("TestObject");
-        testObject.put("foo", "bar");
-        testObject.saveInBackground();
-
+        // Check if there is a currently logged in user
+        // and it's linked to a Facebook account.
+        ParseUser currentUser = ParseUser.getCurrentUser();
+        if ((currentUser != null) && ParseFacebookUtils.isLinked(currentUser)) {
+            final Intent serviceIntent = new Intent(getApplicationContext(), MessageService.class);
+            startService(serviceIntent);
+            homeActivityScreen();
+        }
 
         if (savedInstanceState != null) {
             mIsResolving = savedInstanceState.getBoolean(KEY_IS_RESOLVING);
@@ -77,10 +86,6 @@ public class LoginActivity extends AppCompatActivity
         findViewById(R.id.GoogleSign_in_button).setOnClickListener(this);
 
 
-        // Start with sign-in button disabled until sign-in either succeeds or fails
-        //findViewById(R.id.GoogleSign_in_button).setEnabled(false);
-
-
         // Build GoogleApiClient with access to basic profile
         mGoogleApiClient = new GoogleApiClient.Builder(this)
                 .addConnectionCallbacks(this)
@@ -90,10 +95,12 @@ public class LoginActivity extends AppCompatActivity
                 .build();
         // [END create_google_api_client]
 
+        //TODO: look at this
         if(checkPlayServices()){
             Intent intent = new Intent(this, RegistrationIntentService.class);
             startService(intent);
         }
+
     }
 
     private void updateUI(boolean isSignedIn) {
@@ -101,6 +108,7 @@ public class LoginActivity extends AppCompatActivity
 
 
     }
+
 
     @Override
     public void onSaveInstanceState(Bundle outState) {
@@ -148,6 +156,9 @@ public class LoginActivity extends AppCompatActivity
     @Override
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+
+        //FOR PARSE
+        ParseFacebookUtils.onActivityResult(requestCode, resultCode, data);
         Log.d(TAG, "onActivityResult:" + requestCode + ":" + resultCode + ":" + data);
 
         if (requestCode == RC_SIGN_IN) {
@@ -161,6 +172,8 @@ public class LoginActivity extends AppCompatActivity
         }
     }
     // [END on_activity_result]
+
+
 
     @Override
     public void onClick(View v) {
@@ -179,8 +192,7 @@ public class LoginActivity extends AppCompatActivity
         mShouldResolve = false;
 
         //Go to home activity if successful login
-        Intent i = new Intent(this,Home_Activity.class);
-        startActivity(i);
+        homeActivityScreen();
     }
 
     @Override
@@ -243,4 +255,35 @@ public class LoginActivity extends AppCompatActivity
             updateUI(false);
         }
     }
+
+    public void onLoginClick(View v) {
+        progressDialog = ProgressDialog.show(LoginActivity.this, "", "Logging in...", true);
+
+        List<String> permissions = Arrays.asList("public_profile", "email");
+
+
+        ParseFacebookUtils.logInWithReadPermissionsInBackground(this, permissions, new LogInCallback() {
+
+            @Override
+            public void done(ParseUser user, ParseException err) {
+                progressDialog.dismiss();
+                if (user == null) {
+                    Log.d(TreadApplication.TAG, "Uh oh. The user cancelled the Facebook login.");
+                } else if (user.isNew()) {
+                    Log.d(TreadApplication.TAG, "User signed up and logged in through Facebook!");
+                    homeActivityScreen();
+                } else {
+                    Log.d(TreadApplication.TAG, "User logged in through Facebook!");
+                    homeActivityScreen();
+                }
+            }
+        });
+    }
+
+    public void homeActivityScreen(){
+        Intent i = new Intent(this,Home_Activity.class);
+        startActivity(i);
+    }
+
+
 }

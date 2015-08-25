@@ -1,2 +1,0 @@
-Test Commit: Kadin
-YOZA DIS THE README MOTHA FUCKA

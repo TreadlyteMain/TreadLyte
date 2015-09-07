@@ -10,6 +10,8 @@ import android.util.Log;
 import com.facebook.FacebookSdk;
 import com.parse.Parse;
 import com.parse.ParseFacebookUtils;
+import com.parse.ParseInstallation;
+
 
 
 import java.security.MessageDigest;
@@ -32,6 +34,8 @@ public class TreadApplication extends Application {
         //Set up Parse
         Parse.enableLocalDatastore(this);
         Parse.initialize(this, "FpLhJVvrU3NAJzzsZkWVLRLw0fleYUDFkGGsrjtX", "zYdReZv0NcHPxOWl01WrqgZAh8mOqKFNjK4qjNmV");
+        ParseInstallation.getCurrentInstallation().saveInBackground();
+
 
         //Set up Parse FB shit
         ParseFacebookUtils.initialize(getApplicationContext());

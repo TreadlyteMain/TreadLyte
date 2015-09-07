@@ -22,7 +22,7 @@ public class MessageService extends Service implements SinchClientListener {
 
     private static final String APP_KEY = "ce3db807-bf79-40f0-b78c-f817845d978c";
     private static final String APP_SECRET = "Ob8yvoMn3EeFO+/MNeFVtw==";
-    private static final String ENVIRONMENT = "sandbox.sinch.com";
+    private static final String ENVIRONMENT = "sandbox.sinch.com"; //CHANGE ME LATER CUNT
     private final MessageServiceInterface serviceInterface = new MessageServiceInterface();
     private SinchClient sinchClient = null;
     private MessageClient messageClient = null;
@@ -54,6 +54,8 @@ public class MessageService extends Service implements SinchClientListener {
         sinchClient.setSupportActiveConnectionInBackground(true);
 
         sinchClient.checkManifest();
+        sinchClient.setSupportPushNotifications(true);
+        sinchClient.registerPushNotificationData("309008121534".getBytes());
         sinchClient.start();
     }
 

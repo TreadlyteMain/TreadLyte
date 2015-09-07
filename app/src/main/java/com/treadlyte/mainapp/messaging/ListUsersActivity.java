@@ -42,7 +42,7 @@ public class ListUsersActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list_users);
 
-        showSpinner();
+        //showSpinner();
     }
 
     //display clickable a list of all users

@@ -12,7 +12,9 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
+import com.parse.ParseInstallation;
 import com.parse.ParseObject;
+import com.parse.ParsePush;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.sinch.android.rtc.PushPair;
@@ -43,6 +45,7 @@ public class MessagingActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.messaging);
+
 
         bindService(new Intent(this, MessageService.class), serviceConnection, BIND_AUTO_CREATE);
 
@@ -100,6 +103,7 @@ public class MessagingActivity extends Activity {
         messageBodyField.setText("");
     }
 
+
     @Override
     public void onDestroy() {
         messageService.removeMessageClientListener(messageClientListener);
@@ -126,6 +130,8 @@ public class MessagingActivity extends Activity {
                                     MessageFailureInfo failureInfo) {
             Toast.makeText(MessagingActivity.this, "Message failed to send.", Toast.LENGTH_LONG).show();
         }
+
+
 
         @Override
         public void onIncomingMessage(MessageClient client, Message message) {
@@ -166,6 +172,22 @@ public class MessagingActivity extends Activity {
         public void onMessageDelivered(MessageClient client, MessageDeliveryInfo deliveryInfo) {}
 
         @Override
-        public void onShouldSendPushData(MessageClient client, Message message, List<PushPair> pushPairs) {}
+        public void onShouldSendPushData(MessageClient messageClient, Message message, List<PushPair> pushPairs) {
+
+            final WritableMessage writableMessage = new WritableMessage(message.getRecipientIds().get(0), message.getTextBody());
+
+            ParseQuery userQuery = ParseUser.getQuery();
+            userQuery.whereEqualTo("objectId", writableMessage.getRecipientIds().get(0));
+
+            ParseQuery pushQuery = ParseInstallation.getQuery();
+            pushQuery.whereMatchesQuery("user", userQuery);
+
+            // Send push notification to query
+            ParsePush push = new ParsePush();
+            push.setQuery(pushQuery); // Set our Installation query
+            push.setMessage(recipientId + " sent you a message");
+            push.sendInBackground();
+
+        }
     }
 }

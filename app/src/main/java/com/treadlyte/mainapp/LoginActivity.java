@@ -21,6 +21,7 @@ import com.google.android.gms.plus.Plus;
 import com.parse.LogInCallback;
 import com.parse.ParseException;
 import com.parse.ParseFacebookUtils;
+import com.parse.ParseInstallation;
 import com.parse.ParseUser;
 
 import java.util.Arrays;
@@ -71,6 +72,10 @@ public class LoginActivity extends AppCompatActivity
         // and it's linked to a Facebook account.
         ParseUser currentUser = ParseUser.getCurrentUser();
         if ((currentUser != null) && ParseFacebookUtils.isLinked(currentUser)) {
+            ParseInstallation installation = ParseInstallation.getCurrentInstallation();
+            installation.put("user",currentUser);
+            installation.saveInBackground();
+
             final Intent serviceIntent = new Intent(getApplicationContext(), MessageService.class);
             startService(serviceIntent);
             homeActivityScreen();
@@ -172,8 +177,6 @@ public class LoginActivity extends AppCompatActivity
         }
     }
     // [END on_activity_result]
-
-
 
     @Override
     public void onClick(View v) {

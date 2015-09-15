@@ -17,6 +17,8 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
+import com.parse.ParseException;
+import com.parse.ParseObject;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
 import com.treadlyte.mainapp.R;
@@ -33,6 +35,7 @@ public class ListUsersActivity extends Activity {
     private String currentUserId;
     private ArrayAdapter<String> namesArrayAdapter;
     private ArrayList<String> names;
+    private ArrayList<String> UserNames;
     private ListView usersListView;
     private ProgressDialog progressDialog;
     private BroadcastReceiver receiver = null;
@@ -49,6 +52,7 @@ public class ListUsersActivity extends Activity {
     private void setConversationsList() {
         currentUserId = ParseUser.getCurrentUser().getObjectId();
         names = new ArrayList<String>();
+        UserNames = new ArrayList<String>();
 
         ParseQuery<ParseUser> query = ParseUser.getQuery();
         query.whereNotEqualTo("objectId", currentUserId);
@@ -56,7 +60,15 @@ public class ListUsersActivity extends Activity {
             public void done(List<ParseUser> userList, com.parse.ParseException e) {
                 if (e == null) {
                     for (int i=0; i<userList.size(); i++) {
-                        names.add(userList.get(i).getUsername().toString());
+                        UserNames.add(userList.get(i).getUsername().toString());
+
+                        JSONObject profile = userList.get(i).getJSONObject("profile");
+                        try {
+                            names.add(profile.get("name").toString());
+
+                        } catch (JSONException e1) {
+                            e1.printStackTrace();
+                        }
                     }
 
                     usersListView = (ListView)findViewById(R.id.usersListView);
@@ -68,7 +80,7 @@ public class ListUsersActivity extends Activity {
                     usersListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                         @Override
                         public void onItemClick(AdapterView<?> a, View v, int i, long l) {
-                            openConversation(names, i);
+                            openConversation(UserNames, i);
                         }
                     });
 

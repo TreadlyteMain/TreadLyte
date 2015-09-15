@@ -4,19 +4,23 @@ import android.app.Activity;
 import android.content.ComponentName;
 import android.content.Intent;
 import android.content.ServiceConnection;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.IBinder;
+import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
+import com.parse.ParseException;
 import com.parse.ParseInstallation;
 import com.parse.ParseObject;
 import com.parse.ParsePush;
 import com.parse.ParseQuery;
 import com.parse.ParseUser;
+import com.parse.SendCallback;
 import com.sinch.android.rtc.PushPair;
 import com.sinch.android.rtc.messaging.Message;
 import com.sinch.android.rtc.messaging.MessageClient;
@@ -24,11 +28,11 @@ import com.sinch.android.rtc.messaging.MessageClientListener;
 import com.sinch.android.rtc.messaging.MessageDeliveryInfo;
 import com.sinch.android.rtc.messaging.MessageFailureInfo;
 import com.sinch.android.rtc.messaging.WritableMessage;
+
 import com.treadlyte.mainapp.R;
 
 import java.util.Arrays;
 import java.util.List;
-
 public class MessagingActivity extends Activity {
 
     private String recipientId;
@@ -45,8 +49,6 @@ public class MessagingActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.messaging);
-
-
         bindService(new Intent(this, MessageService.class), serviceConnection, BIND_AUTO_CREATE);
 
         Intent intent = getIntent();
@@ -172,7 +174,7 @@ public class MessagingActivity extends Activity {
         public void onMessageDelivered(MessageClient client, MessageDeliveryInfo deliveryInfo) {}
 
         @Override
-        public void onShouldSendPushData(MessageClient messageClient, Message message, List<PushPair> pushPairs) {
+        public void onShouldSendPushData(MessageClient client, Message message, List<PushPair> pushPairs) {
 
             final WritableMessage writableMessage = new WritableMessage(message.getRecipientIds().get(0), message.getTextBody());
 
@@ -185,9 +187,15 @@ public class MessagingActivity extends Activity {
             // Send push notification to query
             ParsePush push = new ParsePush();
             push.setQuery(pushQuery); // Set our Installation query
-            push.setMessage(recipientId + " sent you a message");
-            push.sendInBackground();
-
-        }
+            push.setMessage(ParseUser.getCurrentUser().getUsername()+" sent you a message");
+            push.sendInBackground(new SendCallback() {
+                @Override
+                public void done(ParseException e) {
+                    if(e==null){
+                    //the push is sent!
+                    }else{
+                        //some problem occured. Analyze what is happening
+                        e.printStackTrace();
+                    }
+                }});}}
     }
-}

@@ -3,6 +3,7 @@ package com.treadlyte.mainapp;
 import android.app.Fragment;
 import android.app.FragmentManager;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -38,14 +39,12 @@ public class Home_Activity extends AppCompatActivity {
     private NavigationView nvDrawer;
 
     private ProfilePictureView userProfilePictureView;
-
-
     private TextView userNameView;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.home_activity_mainlayout);
 
         // Set a Toolbar to replace the ActionBar.
@@ -213,6 +212,9 @@ public class Home_Activity extends AppCompatActivity {
 
                 if (userProfile.has("name")) {
                     userNameView.setText(userProfile.getString("name"));
+                    //SharedPreferences.Editor editor = sharedPreferences.edit();
+                    //editor.putString(userProfile.getString("name"),"userName");
+                    //editor.commit();
                 } else {
                     userNameView.setText("");
                 }

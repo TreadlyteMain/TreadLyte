@@ -35,6 +35,7 @@ public class MessageService extends Service implements SinchClientListener {
 
         currentUserId = ParseUser.getCurrentUser().getObjectId();
 
+
         if (currentUserId != null && !isSinchClientStarted()) {
             startSinchClient(currentUserId);
         }

@@ -16,7 +16,6 @@ public class Notification_Fragment extends Fragment {
 
     public static final String TAG = "notificationFragment";
 
-
     public Notification_Fragment() {
         // Required empty public constructor
     }
